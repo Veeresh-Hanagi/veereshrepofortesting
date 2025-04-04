@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		941,
+		679,
+		40,
+		15
+	],
+	"lastmodifieddate": 1720596945.115,
+	"createddate": 1720596945.115,
+	"name": "btn_ok",
+	"lastfounddate": 1721104958.4889998,
+	"ocrcapturestring": "OK",
+	"lastfoundlocation": [
+		945,
+		585,
+		40,
+		15
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[20,7]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "btn_ok.png",
+				"connectionname": "LAC_CA_M0278",
+				"type": 1,
+				"connectionserverid": "137.252.37.86",
+				"capturerect": [
+					941,
+					679,
+					40,
+					15
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "OK"
+			}
+	]
+}

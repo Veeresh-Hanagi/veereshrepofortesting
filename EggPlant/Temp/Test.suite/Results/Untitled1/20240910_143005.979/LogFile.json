@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running Untitled1.script",
+				"identifier": "START",
+				"timestamp": "2024-09-10 14:30:05.984 +0530"
+			},
+		{
+				"handlerName": "on_untitled1",
+				"timestamp": "2024-09-10 14:30:06.233 +0530",
+				"scriptName": "Untitled1.script",
+				"message": "at (35, 291)",
+				"image": "Menu",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"0.262\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-09-10 14:30:05 +0530\", Successes:\"1\", TestCase:\"Untitled1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-09-10 14:30:06.253 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 Untitled1.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-09-10 14:30:06.310 +0530"
+			}
+	],
+	"createdTimestamp": "2024-09-10 14:30:05.988 +0530"
+}

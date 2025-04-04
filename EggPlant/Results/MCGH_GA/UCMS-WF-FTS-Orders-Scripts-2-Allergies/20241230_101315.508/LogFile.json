@@ -1,0 +1,168 @@
+{
+	"entries": [
+		{
+				"message": "Running UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"identifier": "START",
+				"timestamp": "2024-12-30 10:13:15.526 +0530"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:13:15.867 +0530",
+				"message": "MCGH_GA",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:13:15.921 +0530",
+				"message": "This scripts is used to test the functionalities of Allergies",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:13:15.985 +0530",
+				"message": " Click on Add Icon in Powerorders toolbar",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 12,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:13:16.017 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 13,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_subopenaddorderwindow",
+				"timestamp": "2024-12-30 10:13:16.163 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (246, 284)",
+				"image": "PowerOrderToolbar",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_subopenaddorderwindow",
+				"timestamp": "2024-12-30 10:13:16.538 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at (246, 284)",
+				"image": "PowerOrderToolbar",
+				"handlerLine": 4,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:13:16.636 +0530",
+				"message": "Type and select the allergies Substance",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_typesubstancename",
+				"timestamp": "2024-12-30 10:13:17.754 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "at (264, 576)",
+				"image": "Allergies_Flat/Label_Substance_Bold",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_typesubstancename",
+				"timestamp": "2024-12-30 10:13:18.705 +0530",
+				"message": "Aspirin",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:13:19.447 +0530",
+				"message": "[returnKey]",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 17,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_selectsubstanceinsubstancesearchwindow",
+				"timestamp": "2024-12-30 10:13:23.750 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "found 1 images",
+				"image": "Allergies_Flat/Label_Term",
+				"handlerLine": 3,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:13:24.143 +0530",
+				"message": "Exception encountered at:  line 4 of selectsubstanceinsubstancesearchwindow (line 27 of AllergiesFlat.script)\\ncalled from line 19 of ucms_wf_fts_orders_scripts_2_allergies",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 52,
+				"identifier": "LogError"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:13:24.308 +0530",
+				"message": "Exception Reason:  Invalid operands for addition: expected numbers, dates and/or lists; got '[153,0]' and ''",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 54,
+				"identifier": "LogError"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:13:24.461 +0530",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"image": "Exception.png",
+				"handlerLine": 56,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_zerostatecloseallapps",
+				"timestamp": "2024-12-30 10:13:24.594 +0530",
+				"message": "[windowsKey]m",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Cleanup.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchtaskasadmin",
+				"timestamp": "2024-12-30 10:13:24.652 +0530",
+				"message": "Launching task cmd from command line",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_openrunwindow",
+				"timestamp": "2024-12-30 10:13:25.354 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openrunwindow",
+				"timestamp": "2024-12-30 10:13:28.503 +0530",
+				"message": "Searching For Image: OCR Error: Operation was aborted",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 5,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"13.075\", Errors:\"3\", Exceptions:\"1\", StartTime:\"2024-12-30 10:13:15 +0530\", Successes:\"0\", TestCase:\"UCMS-WF-FTS-Orders-Scripts-2-Allergies.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-12-30 10:13:28.614 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:13 UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-12-30 10:13:28.628 +0530"
+			}
+	],
+	"createdTimestamp": "2024-12-30 10:13:15.531 +0530"
+}

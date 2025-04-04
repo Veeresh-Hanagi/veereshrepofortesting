@@ -1,0 +1,60 @@
+{
+	"entries": [
+		{
+				"message": "Running UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script",
+				"identifier": "START",
+				"timestamp": "2024-12-18 11:23:54.047 +0530"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_9_ambulatory_orders",
+				"timestamp": "2024-12-18 11:23:54.498 +0530",
+				"message": " This script is used for Ambulatory or Clinic Orders",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_9_ambulatory_orders",
+				"timestamp": "2024-12-18 11:23:54.511 +0530",
+				"message": "MCGH_GA",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script",
+				"handlerLine": 7,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_9_ambulatory_orders",
+				"timestamp": "2024-12-18 11:23:54.524 +0530",
+				"message": "Step1 Login to Powerchart and Search for Patient and select the orders Tab",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_9_ambulatory_orders",
+				"timestamp": "2024-12-18 11:23:54.582 +0530",
+				"message": "Step1 Adding Few Diagnosis and placing ambulatory Order 1",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script",
+				"handlerLine": 24,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_9_ambulatory_orders",
+				"timestamp": "2024-12-18 11:23:54.594 +0530",
+				"message": "Select the Add order window",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script",
+				"handlerLine": 25,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"16.926\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-12-18 11:23:54 +0530\", Successes:\"0\", TestCase:\"UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-12-18 11:24:10.979 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:16 UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-12-18 11:24:10.989 +0530"
+			}
+	],
+	"createdTimestamp": "2024-12-18 11:23:54.049 +0530"
+}

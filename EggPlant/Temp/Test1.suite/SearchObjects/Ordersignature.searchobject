@@ -1,0 +1,46 @@
+{
+	"lastmodifieddate": 1733381733.7869999,
+	"lastfoundlocation": [
+		1785,
+		946,
+		117,
+		23
+	],
+	"originalcapturelocation": [
+		1785,
+		946,
+		117,
+		23
+	],
+	"createddate": 1733381733.7869999,
+	"lastfounddate": 1733381734.2350001,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[58,11]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Ordersignature.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"capturerect": [
+					1785,
+					946,
+					117,
+					23
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "149.45.220.87"
+			}
+	],
+	"name": "Ordersignature"
+}

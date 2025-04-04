@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-2-Allergies_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-30 10:13:15.508 +0530"
+ tests="1"  failures="2" errors="1" time="13.105000">
+  <properties>
+   <property name="RunDate" value="2024-12-30 10:13:15.508 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-2-Allergies.script" assertions="3" status="error"  time="13.075">
+    <failure type="LogError" message="Exception encountered at:  line 4 of selectsubstanceinsubstancesearchwindow (line 27 of AllergiesFlat.script)\ncalled from line 19 of ucms_wf_fts_orders_scripts_2_allergies" />
+    <failure type="LogError" message="Exception Reason:  Invalid operands for addition: expected numbers, dates and/or lists; got &apos;[153,0]&apos; and &apos;&apos;" />
+    <error type="Exception" message="Searching For Image: OCR Error: Operation was aborted" />
+  </testcase>
+ </testsuite>
+</testsuites>

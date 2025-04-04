@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		720,
+		299,
+		30,
+		13
+	],
+	"lastmodifieddate": 1720963121.723,
+	"createddate": 1720963121.723,
+	"name": "Label_Code_Diagnoses",
+	"lastfounddate": 1721105157.803,
+	"ocrcapturestring": "Code",
+	"lastfoundlocation": [
+		719,
+		299,
+		30,
+		13
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[15,6]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Label_Code_Diagnoses.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					720,
+					299,
+					30,
+					13
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Code"
+			}
+	]
+}

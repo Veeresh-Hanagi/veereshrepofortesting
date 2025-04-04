@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="UCMS-WF-FTS-Orders-Scripts-4-General-Powerorders-1">
+ <run>
+  <RunDate>2024-12-30 16:28:08.865 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>3043.083000</Duration>
+  <Errors>4</Errors>
+  <Warnings>16</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241230_162808.865/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;DSK/CommandPrompt/TitleBarIcon_CMD&quot; within 60.00 seconds</ErrorMessage>
+ </run>
+</runHistory>

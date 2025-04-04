@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-17 11:20:03.426 +0530"
+ tests="1"  failures="1" errors="0" time="0.016000">
+  <properties>
+   <property name="RunDate" value="2024-12-17 11:20:03.426 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script" assertions="1" status="failure"  time="0.002">
+    <failure type="FAILURE" message="SenseTalk Compiler Exception: in ucms_wf_fts_orders_scripts_10_scriptwriter:\nSyntax Error at line 375: can&apos;t understand [end of block comment without matching start] at character 8 -- Execution Time 0:00:00 UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

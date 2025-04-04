@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2">
+ <run>
+  <RunDate>2024-12-18 12:29:50.143 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>96.732000</Duration>
+  <Errors>3</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241218_122950.143/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-18 12:41:13.085 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>260.047000</Duration>
+  <Errors>1</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241218_124113.085/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-18 12:45:39.929 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>14.256000</Duration>
+  <Errors>1</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241218_124539.929/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-18 12:46:15.645 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>9.076000</Duration>
+  <Errors>1</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241218_124615.645/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-18 12:47:46.226 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>41.613000</Duration>
+  <Errors>1</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241218_124746.226/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-18 12:49:12.428 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>13.099000</Duration>
+  <Errors>1</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241218_124912.428/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-18 12:51:56.826 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>13.158000</Duration>
+  <Errors>3</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241218_125156.826/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-18 12:52:23.472 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>7.800000</Duration>
+  <Errors>3</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241218_125223.472/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-18 12:53:16.951 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>7.125000</Duration>
+  <Errors>3</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241218_125316.951/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-18 12:55:40.491 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>9.993000</Duration>
+  <Errors>3</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241218_125540.491/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-18 12:59:22.011 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>72.954000</Duration>
+  <Errors>3</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241218_125922.011/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-18 13:03:41.883 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>179.691000</Duration>
+  <Errors>3</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241218_130341.883/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-18 13:06:55.798 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>844.792000</Duration>
+  <Errors>0</Errors>
+  <Warnings>24</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20241218_130655.798/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-30 14:45:51.251 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>2622.687000</Duration>
+  <Errors>5</Errors>
+  <Warnings>30</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20241230_144551.251/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

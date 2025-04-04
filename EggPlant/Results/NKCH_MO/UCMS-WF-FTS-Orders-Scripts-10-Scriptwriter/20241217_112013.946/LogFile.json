@@ -1,0 +1,757 @@
+{
+	"entries": [
+		{
+				"message": "Running UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"identifier": "START",
+				"timestamp": "2024-12-17 11:20:13.952 +0530"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-17 11:20:14.133 +0530",
+				"message": "NKCMH_MO",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-17 11:20:14.164 +0530",
+				"message": "Copy the Prescription Order",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 212,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-17 11:20:14.197 +0530",
+				"message": "Right click on order and select copy option",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 214,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:14.341 +0530",
+				"message": "[pageUp]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:15.241 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "at [847,413,916,427]",
+				"image": "ScratchpadActions/OrderNameColumnName",
+				"handlerLine": 7,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:15.310 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "at [1146,413,1188,427]",
+				"image": "ScratchpadActions/StatusColumnName",
+				"handlerLine": 8,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:15.410 +0530",
+				"message": "SEARCHRECTANGLE = [[947,527],[1146,1000]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 14,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:15.422 +0530",
+				"message": "SEARCHRECTANGLE = [[841,427],[1206,1000]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 17,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:16.122 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "found 1 images",
+				"image": "(TEXT:\"lisinopril 2.5 mg oral tablet\")",
+				"handlerLine": 18,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:16.737 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "found 1 images",
+				"image": "(TEXT:\"lisinopril 2.5 mg oral tablet\")",
+				"handlerLine": 25,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:16.806 +0530",
+				"message": "SEARCHRECTANGLE = [[969,776],[1900,805]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 30,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:16.968 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "found at (1178, 793)",
+				"image": "(TEXT:\"Prescribed\")",
+				"handlerLine": 32,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:17.041 +0530",
+				"message": "Order Exists in Correct Status",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 43,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:17.170 +0530",
+				"message": "at (969, 795)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 44,
+				"identifier": "rightclick"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:17.209 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 50,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:17.891 +0530",
+				"message": "at (949, 795)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 58,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:18.078 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "found at (1032, 351)",
+				"image": "RightClickMenu/Menu_Down_TL",
+				"handlerLine": 60,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:18.138 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 61,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:18.662 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "at (963, 339)",
+				"image": "RightClickMenu/Menu_Down_TL",
+				"handlerLine": 88,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:18.716 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "at (1906, 948)",
+				"image": "RightClickMenu/menu_UP_BR",
+				"handlerLine": 88,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:19.627 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "at (1017, 408)",
+				"image": "(TEXT:\"Copy\")",
+				"handlerLine": 88,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:19.653 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 89,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:20:19.686 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 98,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-17 11:20:19.818 +0530",
+				"message": "Handle ordering physician",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 216,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_selectuserproviderselection",
+				"timestamp": "2024-12-17 11:20:26.235 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image PopUps/Label_OrderingPhysicianDialog",
+				"image": "PopUps/Label_OrderingPhysicianDialog",
+				"handlerLine": 4,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-17 11:20:26.326 +0530",
+				"message": "Handles Sendto :Do not send and stop date",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 218,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_fillthedetailsinprescriptions",
+				"timestamp": "2024-12-17 11:20:26.479 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Prescriptions.script",
+				"message": "found at (1689, 673)",
+				"image": "Prescriptions/Dropdown_SentTo",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_fillthedetailsinprescriptions",
+				"timestamp": "2024-12-17 11:20:26.751 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Prescriptions.script",
+				"message": "at (1689, 673)",
+				"image": "Prescriptions/Dropdown_SentTo",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_fillthedetailsinprescriptions",
+				"timestamp": "2024-12-17 11:20:27.568 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Prescriptions.script",
+				"message": "at (1692, 677)",
+				"image": "Prescriptions/Dropdown_Value_DoNotSend",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_fillthedetailsinprescriptions",
+				"timestamp": "2024-12-17 11:20:29.633 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Prescriptions.script",
+				"message": "Unable to Find Image Prescriptions/Label_StopDate",
+				"image": "Prescriptions/Label_StopDate",
+				"handlerLine": 6,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-17 11:20:29.686 +0530",
+				"message": "Handles the missing required details and sign the order",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 220,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_subsignandrefreshordersprofile",
+				"timestamp": "2024-12-17 11:20:32.596 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "Unable to Find Image AddOrderWindow/DitheredOrdersforSignature",
+				"image": "AddOrderWindow/DitheredOrdersforSignature",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_subsignandrefreshordersprofile",
+				"timestamp": "2024-12-17 11:20:32.742 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (1843, 991)",
+				"image": "AddOrderWindow/OrdersforSignatureorSign",
+				"handlerLine": 5,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_subsignandrefreshordersprofile",
+				"timestamp": "2024-12-17 11:20:32.924 +0530",
+				"message": "at (1843, 991)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 6,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_subsignandrefreshordersprofile",
+				"timestamp": "2024-12-17 11:20:33.807 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (1858, 990)",
+				"image": "AddOrderWindow/OrdersforSignatureorSign",
+				"handlerLine": 13,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_subsignandrefreshordersprofile",
+				"timestamp": "2024-12-17 11:20:33.990 +0530",
+				"message": "at (1858, 990)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 14,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_subsignandrefreshordersprofile",
+				"timestamp": "2024-12-17 11:20:34.030 +0530",
+				"message": "continue signing orders button clicked",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 15,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_subsignandrefreshordersprofile",
+				"timestamp": "2024-12-17 11:20:34.873 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (1862, 992)",
+				"image": "AddOrderWindow/OrdersforSignatureorSign",
+				"handlerLine": 18,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_subsignandrefreshordersprofile",
+				"timestamp": "2024-12-17 11:20:35.030 +0530",
+				"message": "at (1862, 992)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 19,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_subsignandrefreshordersprofile",
+				"timestamp": "2024-12-17 11:20:35.071 +0530",
+				"message": "continue signing orders button clicked",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 20,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_subsignandrefreshordersprofile",
+				"timestamp": "2024-12-17 11:20:36.140 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "Unable to Find Image MedsReconciliation/Button_ReconcileAndSign within 1.00 seconds",
+				"image": "MedsReconciliation/Button_ReconcileAndSign",
+				"handlerLine": 22,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_subsignandrefreshordersprofile",
+				"timestamp": "2024-12-17 11:20:36.403 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (1860, 993)",
+				"image": "OrdersForSignature/Button_Sign",
+				"handlerLine": 28,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_subsignandrefreshordersprofile",
+				"timestamp": "2024-12-17 11:20:36.870 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at (1860, 993)",
+				"image": "OrdersForSignature/Button_Sign",
+				"handlerLine": 29,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_subsignandrefreshordersprofile",
+				"timestamp": "2024-12-17 11:20:39.715 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "Unable to Find Image OrdersForSignature/ContinueSigningOrders",
+				"image": "OrdersForSignature/ContinueSigningOrders",
+				"handlerLine": 30,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_subsignandrefreshordersprofile",
+				"timestamp": "2024-12-17 11:20:43.221 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "Unable to Find Image General/Button_YES",
+				"image": "General/Button_YES",
+				"handlerLine": 37,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_subsignandrefreshordersprofile",
+				"timestamp": "2024-12-17 11:20:53.276 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "Unable to Find Image AddOrderWindow/FirstDetail1",
+				"image": "AddOrderWindow/FirstDetail1",
+				"handlerLine": 43,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_subsignandrefreshordersprofile",
+				"timestamp": "2024-12-17 11:21:03.336 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "Unable to Find Image AddOrderWindow/MissingRequiredDetails/MissingRequiredDetails",
+				"image": "AddOrderWindow/MissingRequiredDetails/MissingRequiredDetails",
+				"handlerLine": 48,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_subsignandrefreshordersprofile",
+				"timestamp": "2024-12-17 11:21:08.419 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "Unable to Find Image Duplicate_Alert/Button_OrderAnyway",
+				"image": "Duplicate_Alert/Button_OrderAnyway",
+				"handlerLine": 71,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_overridealertwindow",
+				"timestamp": "2024-12-17 11:21:13.529 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image PopUps/DiscernOverride/Icon_Discern",
+				"image": "PopUps/DiscernOverride/Icon_Discern",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_overridealertwindow",
+				"timestamp": "2024-12-17 11:21:13.541 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 12,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_discernalertok",
+				"timestamp": "2024-12-17 11:21:43.649 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "Unable to Find Image PopUps/DiscernOverride/Icon_Discern",
+				"image": "PopUps/DiscernOverride/Icon_Discern",
+				"handlerLine": 3,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_mcdswindow",
+				"timestamp": "2024-12-17 11:21:48.752 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image Allergies_PopUp/MCDS/Label_MCDS_Banner",
+				"image": "Allergies_PopUp/MCDS/Label_MCDS_Banner",
+				"handlerLine": 4,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_subsignandrefreshordersprofile",
+				"timestamp": "2024-12-17 11:21:58.873 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "Unable to Find Image CID_Common_Utilities/DRC/Text_OrverrideReasonForm",
+				"image": "CID_Common_Utilities/DRC/Text_OrverrideReasonForm",
+				"handlerLine": 91,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_subsignandrefreshordersprofile",
+				"timestamp": "2024-12-17 11:21:58.949 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (1841, 991)",
+				"image": "AddOrderWindow/DitheredOrdersforSignature",
+				"handlerLine": 100,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-17 11:21:59.063 +0530",
+				"message": "Refresh the patient chart",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 222,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_refresh_patientchart",
+				"timestamp": "2024-12-17 11:21:59.113 +0530",
+				"message": "refresh the page",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_refresh_patientchart",
+				"timestamp": "2024-12-17 11:21:59.235 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "at (21, 33)",
+				"image": "RefreshPatient/RefreshMenu",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_refresh_patientchart",
+				"timestamp": "2024-12-17 11:22:00.350 +0530",
+				"message": "SEARCHRECTANGLE = [\"RefreshPatient/SearchrectangleA\",\"RefreshPatient/SearchrectangleB\"]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 4,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_refresh_patientchart",
+				"timestamp": "2024-12-17 11:22:00.529 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "at (57, 147)",
+				"image": "RefreshPatient/RefreshButton",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_refresh_patientchart",
+				"timestamp": "2024-12-17 11:22:00.535 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 6,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-17 11:22:00.675 +0530",
+				"message": "Void the Prescription Order",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 380,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-17 11:22:00.709 +0530",
+				"message": "Right click on a order and select Void option",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 382,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:22:01.259 +0530",
+				"message": "[pageUp]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:22:02.194 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "at [847,413,916,427]",
+				"image": "ScratchpadActions/OrderNameColumnName",
+				"handlerLine": 7,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:22:02.364 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "at [1146,413,1188,427]",
+				"image": "ScratchpadActions/StatusColumnName",
+				"handlerLine": 8,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:22:02.489 +0530",
+				"message": "SEARCHRECTANGLE = [[947,527],[1146,1000]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 14,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:22:02.581 +0530",
+				"message": "SEARCHRECTANGLE = [[841,427],[1206,1000]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 17,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:22:03.630 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "found 2 images",
+				"image": "(TEXT:\"lisinopril 2.5 mg oral tablet\")",
+				"handlerLine": 18,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:22:04.613 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "found 2 images",
+				"image": "(TEXT:\"lisinopril 2.5 mg oral tablet\")",
+				"handlerLine": 25,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:22:04.700 +0530",
+				"message": "SEARCHRECTANGLE = [[969,740],[1900,769]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 30,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:22:04.838 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "found at (1178, 757)",
+				"image": "(TEXT:\"Prescribed\")",
+				"handlerLine": 32,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:22:04.970 +0530",
+				"message": "Order Exists in Correct Status",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 43,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:22:05.094 +0530",
+				"message": "at (969, 759)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 44,
+				"identifier": "rightclick"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:22:05.132 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 50,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:22:05.825 +0530",
+				"message": "at (949, 759)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 58,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:22:06.065 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "found at (1032, 315)",
+				"image": "RightClickMenu/Menu_Down_TL",
+				"handlerLine": 60,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:22:06.147 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 61,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:22:06.658 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "at (963, 303)",
+				"image": "RightClickMenu/Menu_Down_TL",
+				"handlerLine": 88,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:22:06.723 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "at (1906, 912)",
+				"image": "RightClickMenu/menu_UP_BR",
+				"handlerLine": 88,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:22:06.727 +0530",
+				"message": "Image Property List did not contain \"ImageName\" property",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 88,
+				"identifier": "Exception"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-17 11:22:06.910 +0530",
+				"message": "Exception encountered at:  line 88 of rightclickorderonscratchpadwithaction (line 421 of Popups.script)\\ncalled from line 383 of ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 395,
+				"identifier": "LogError"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-17 11:22:07.009 +0530",
+				"message": "Exception Reason:  click Error - Image Property List did not contain \"ImageName\" property",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 397,
+				"identifier": "LogError"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-17 11:22:07.107 +0530",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"image": "Exception.png",
+				"handlerLine": 399,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_zerostatecloseallapps",
+				"timestamp": "2024-12-17 11:22:07.207 +0530",
+				"message": "[windowsKey]m",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Cleanup.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchtaskasadmin",
+				"timestamp": "2024-12-17 11:22:07.238 +0530",
+				"message": "Launching task cmd from command line",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_openrunwindow",
+				"timestamp": "2024-12-17 11:22:07.959 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openrunwindow",
+				"timestamp": "2024-12-17 11:22:15.180 +0530",
+				"message": "Searching For Image: OCR Error: Operation was aborted",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 5,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"121.364\", Errors:\"3\", Exceptions:\"2\", StartTime:\"2024-12-17 11:20:13 +0530\", Successes:\"2\", TestCase:\"UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script\", Warnings:\"2\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-12-17 11:22:15.321 +0530"
+			},
+		{
+				"message": "Execution Time 0:02:01 UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-12-17 11:22:15.336 +0530"
+			}
+	],
+	"createdTimestamp": "2024-12-17 11:20:13.954 +0530"
+}

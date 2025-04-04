@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running Untitled.script",
+				"identifier": "START",
+				"timestamp": "2024-07-11 15:42:40.957 +0530"
+			},
+		{
+				"message": "(Duration:\"0.001\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-07-11 15:42:40 +0530\", Successes:\"0\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-07-11 15:42:40.962 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SenseTalk Compiler Exception: in untitled:\\nSyntax Error at line 63: can't understand [end of line] at character 13 -- Execution Time 0:00:00 Untitled.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-07-11 15:42:41.051 +0530"
+			}
+	],
+	"createdTimestamp": "2024-07-11 15:42:40.959 +0530"
+}

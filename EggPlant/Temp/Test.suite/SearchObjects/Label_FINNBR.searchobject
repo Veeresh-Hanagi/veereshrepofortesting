@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		343,
+		361,
+		70,
+		18
+	],
+	"lastmodifieddate": 1720699556.9099998,
+	"createddate": 1720699556.9099998,
+	"name": "Label_FINNBR",
+	"lastfounddate": 1721104957.6199999,
+	"ocrcapturestring": "FIN NBR",
+	"lastfoundlocation": [
+		343,
+		361,
+		70,
+		18
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[33,32]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Label_FINNBR.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					343,
+					361,
+					70,
+					18
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "FIN NBR"
+			}
+	]
+}

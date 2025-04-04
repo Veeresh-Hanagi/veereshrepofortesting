@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1848,
+		984,
+		24,
+		15
+	],
+	"lastmodifieddate": 1720967335.4299998,
+	"createddate": 1720967335.4299998,
+	"name": "Sign",
+	"lastfounddate": 1720967335.8099999,
+	"ocrcapturestring": "Sign",
+	"lastfoundlocation": [
+		1848,
+		984,
+		24,
+		15
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[15,7]",
+					"Tolerance": "_66",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Sign.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					1848,
+					984,
+					24,
+					15
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Sign"
+			}
+	]
+}

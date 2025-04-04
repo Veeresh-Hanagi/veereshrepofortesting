@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Untitled_script" package="Test.suite" timestamp="2024-07-11 15:57:49.138 +0530"
+ tests="1"  failures="0" errors="0" time="45.281000">
+  <properties>
+   <property name="RunDate" value="2024-07-11 15:57:49.138 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="Untitled.script" assertions="1" status="error"  time="45.263">
+    <error type="Exception" message="No Image Found On Screen: &quot;btn_ok&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

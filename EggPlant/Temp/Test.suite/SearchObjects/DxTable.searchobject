@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		816,
+		984,
+		46,
+		13
+	],
+	"lastmodifieddate": 1720967744.4660001,
+	"createddate": 1720967744.4660001,
+	"name": "DxTable",
+	"lastfounddate": 1720967745.599,
+	"ocrcapturestring": "Dx Table",
+	"lastfoundlocation": [
+		816,
+		984,
+		46,
+		13
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[1048,5]",
+					"Tolerance": "_66",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "DxTable.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					816,
+					984,
+					46,
+					13
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Dx Table"
+			}
+	]
+}

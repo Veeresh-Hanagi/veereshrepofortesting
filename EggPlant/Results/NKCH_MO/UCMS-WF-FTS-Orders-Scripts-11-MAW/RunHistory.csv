@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2024-12-17 12:20:14.882 +0530,"Aborted",0:03:28,3,0,2,"20241217_122014.882/LogFile.txt","","",0
+2024-12-17 12:24:49.126 +0530,"Aborted",0:10:11,1,0,0,"20241217_122449.126/LogFile.txt","","",0
+2024-12-17 12:37:28.609 +0530,"Aborted",0:09:57,1,0,0,"20241217_123728.609/LogFile.txt","","",0

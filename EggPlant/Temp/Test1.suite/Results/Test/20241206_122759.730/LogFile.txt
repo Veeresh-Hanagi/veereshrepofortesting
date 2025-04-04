@@ -1,0 +1,3 @@
+﻿2024-12-06 12:27:59.744 +0530	START		Running Test.script
+2024-12-06 12:28:17.981 +0530	EndTestCase		(Duration:"18.232", Errors:"1", Exceptions:"0", StartTime:"2024-12-06 12:27:59 +0530", Successes:"0", TestCase:"Test.script", Warnings:"0")
+2024-12-06 12:28:17.991 +0530	ABORTED		Execution Time 0:00:18 Test.script

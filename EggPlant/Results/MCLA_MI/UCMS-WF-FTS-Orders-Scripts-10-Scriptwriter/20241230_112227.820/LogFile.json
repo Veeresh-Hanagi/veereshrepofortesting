@@ -1,0 +1,78 @@
+{
+	"entries": [
+		{
+				"message": "Running UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"identifier": "START",
+				"timestamp": "2024-12-30 11:22:27.827 +0530"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-30 11:22:27.981 +0530",
+				"message": "MCLA_MI",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-30 11:22:28.077 +0530",
+				"message": "This script is to handle the prescriptions orders",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 11,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-30 11:22:28.096 +0530",
+				"message": "Place the prescription order 1",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 12,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-30 11:22:28.115 +0530",
+				"message": " Click on Add Icon in Powerorders toolbar",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 13,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_subopenaddorderwindow",
+				"timestamp": "2024-12-30 11:22:28.219 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (245, 244)",
+				"image": "PowerOrderToolbar",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_subopenaddorderwindow",
+				"timestamp": "2024-12-30 11:22:28.483 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at (245, 244)",
+				"image": "PowerOrderToolbar",
+				"handlerLine": 4,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-30 11:22:28.566 +0530",
+				"message": "Select the order type",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"10.78\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-12-30 11:22:27 +0530\", Successes:\"0\", TestCase:\"UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-12-30 11:22:38.614 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:10 UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-12-30 11:22:38.626 +0530"
+			}
+	],
+	"createdTimestamp": "2024-12-30 11:22:27.830 +0530"
+}

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1840,
+		982,
+		39,
+		16
+	],
+	"lastmodifieddate": 1721020448.8329999,
+	"createddate": 1721020448.8329999,
+	"name": "Btn_Si",
+	"lastfounddate": 1721021954.9910002,
+	"ocrcapturestring": "Sign",
+	"lastfoundlocation": [
+		1840,
+		982,
+		39,
+		16
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[19,8]",
+					"Tolerance": "_66",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Btn_Si.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					1840,
+					982,
+					39,
+					16
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Sign"
+			}
+	]
+}

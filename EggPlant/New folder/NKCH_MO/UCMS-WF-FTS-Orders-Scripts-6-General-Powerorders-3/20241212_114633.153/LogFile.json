@@ -1,0 +1,310 @@
+{
+	"entries": [
+		{
+				"message": "Running UCMS-WF-FTS-Orders-Scripts-6-General-Powerorders-3.script",
+				"identifier": "START",
+				"timestamp": "2024-12-12 11:46:33.159 +0530"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_6_general_powerorders_3",
+				"timestamp": "2024-12-12 11:46:33.277 +0530",
+				"message": "SANJ_NM M0709",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-6-General-Powerorders-3.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_6_general_powerorders_3",
+				"timestamp": "2024-12-12 11:46:33.287 +0530",
+				"message": "This script is used to test few basic functionalities like Modify, Void, Complete, Suspend & Resume, Copy, Nurse review & Med student",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-6-General-Powerorders-3.script",
+				"handlerLine": 7,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_6_general_powerorders_3",
+				"timestamp": "2024-12-12 11:46:33.304 +0530",
+				"message": "Check whether the  Modify orders is being used",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-6-General-Powerorders-3.script",
+				"handlerLine": 10,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_6_general_powerorders_3",
+				"timestamp": "2024-12-12 11:46:33.321 +0530",
+				"message": "Modify the Order",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-6-General-Powerorders-3.script",
+				"handlerLine": 11,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_6_general_powerorders_3",
+				"timestamp": "2024-12-12 11:46:33.340 +0530",
+				"message": "Validate the Order and Right click on the order",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-6-General-Powerorders-3.script",
+				"handlerLine": 13,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:46:33.439 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"message": "at [229,299,269,315]",
+				"image": "PowerOrders Toolbar/bAddOrderButton",
+				"handlerLine": 7,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:46:33.456 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"message": "at [631,366,649,381]",
+				"image": "PowerPlans/Navigator/Button_Drag",
+				"handlerLine": 7,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:46:33.459 +0530",
+				"message": "SEARCHRECTANGLE = [[219,315],[631,366]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"handlerLine": 7,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:46:33.515 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"message": "at (225, 333)",
+				"image": "PowerPlans/Navigator/Tab_Orders",
+				"handlerLine": 8,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:46:33.649 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"handlerLine": 10,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:46:33.676 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"message": "at (637, 379)",
+				"image": "PowerPlans/Navigator/Button_Drag",
+				"handlerLine": 13,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:46:33.735 +0530",
+				"message": "SEARCHRECTANGLE = [[217,383],[638,1134]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"handlerLine": 15,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:46:44.237 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"message": "Unable to Find Image (TEXT:\"Orders for Signature\"). Text not found.",
+				"image": "(TEXT:\"Orders for Signature\")",
+				"handlerLine": 17,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:46:44.340 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"handlerLine": 21,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:46:44.416 +0530",
+				"message": "at (0, 0)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"handlerLine": 24,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:47:14.470 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"message": "Unable to Find Image MedsReconciliation/OrderInfo/TL_TaskIcon",
+				"image": "MedsReconciliation/OrderInfo/TL_TaskIcon",
+				"handlerLine": 33,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:47:19.687 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"message": "found at (905, 418)",
+				"image": "ScratchpadActions/OrderNameColumnName",
+				"handlerLine": 38,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:47:19.875 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"message": "at [864,413,933,427]",
+				"image": "ScratchpadActions/OrderNameColumnName",
+				"handlerLine": 38,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:47:22.057 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"message": "Unable to Find Image PowerPlans/PowerPlanProfile/Component",
+				"image": "PowerPlans/PowerPlanProfile/Component",
+				"handlerLine": 39,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:47:22.144 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"message": "at [989,413,1031,427]",
+				"image": "ScratchpadActions/StatusColumnName",
+				"handlerLine": 40,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:47:22.288 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"message": "at [1099,407,1136,429]",
+				"image": "ScratchpadActions/DetailsColumnName",
+				"handlerLine": 45,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:47:22.341 +0530",
+				"message": "SEARCHRECTANGLE = [[834,397],[989,1000]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"handlerLine": 48,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:47:22.369 +0530",
+				"message": "SEARCHRECTANGLE = [[834,397],[1049,1000]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"handlerLine": 56,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:47:28.558 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"message": "found 0 images",
+				"image": "(TEXT:\"Vital Signs\")",
+				"handlerLine": 58,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:47:39.801 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"message": "Unable to Find Image (TEXT:\"Vital Signs\"). Text not found.",
+				"image": "(TEXT:\"Vital Signs\")",
+				"handlerLine": 61,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:47:40.049 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"message": "at (889, 466)",
+				"image": "OrderDetails/OrderName_Column",
+				"handlerLine": 62,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:47:40.788 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"handlerLine": 63,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:47:52.285 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"message": "Unable to Find Image (TEXT:\"Vital Signs\"). Text not found.",
+				"image": "(TEXT:\"Vital Signs\")",
+				"handlerLine": 64,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:47:52.525 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"message": "at (889, 466)",
+				"image": "OrderDetails/OrderName_Column",
+				"handlerLine": 62,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:47:53.264 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"handlerLine": 63,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:48:04.329 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"message": "Unable to Find Image (TEXT:\"Vital Signs\"). Text not found.",
+				"image": "(TEXT:\"Vital Signs\")",
+				"handlerLine": 64,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:48:12.800 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"message": "at (889, 466)",
+				"image": "OrderDetails/OrderName_Column",
+				"handlerLine": 62,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:48:13.542 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"handlerLine": 63,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_funvalidateorderstatusonprofileandrightclickonorder",
+				"timestamp": "2024-12-12 11:48:24.176 +0530",
+				"message": "Searching For Image: OCR Error: Operation was aborted",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/ScratchPadValidations.script",
+				"handlerLine": 64,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"111.187\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-12-12 11:46:33 +0530\", Successes:\"0\", TestCase:\"UCMS-WF-FTS-Orders-Scripts-6-General-Powerorders-3.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-12-12 11:48:24.353 +0530"
+			},
+		{
+				"message": "Execution Time 0:01:51 UCMS-WF-FTS-Orders-Scripts-6-General-Powerorders-3.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-12-12 11:48:24.363 +0530"
+			}
+	],
+	"createdTimestamp": "2024-12-12 11:46:33.162 +0530"
+}

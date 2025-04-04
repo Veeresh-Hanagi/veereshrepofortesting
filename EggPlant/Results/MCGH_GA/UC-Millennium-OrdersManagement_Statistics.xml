@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>6</NumberOfFails>
+  <FirstRun>2024-12-17 11:20:03 +0530</FirstRun>
+  <LastRun>2024-12-17 11:40:09 +0530</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="UCMS-WF-FTS-Orders-Scripts-2-Allergies">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-12-18 10:47:53 +0530</FirstRun>
+  <LastRun>2024-12-30 10:14:11 +0530</LastRun>
+  <TotalTimeOnSuccess>1662.755000</TotalTimeOnSuccess>
+ </script>
+ <script name="UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-12-18 13:06:55 +0530</FirstRun>
+  <LastRun>2024-12-18 13:06:55 +0530</LastRun>
+  <TotalTimeOnSuccess>844.792000</TotalTimeOnSuccess>
+ </script>
+ <script name="UCMS-WF-FTS-Orders-Scripts-3-General-Powerorders-1">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2024-12-18 13:30:56 +0530</FirstRun>
+  <LastRun>2024-12-18 13:30:56 +0530</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+</statistics>

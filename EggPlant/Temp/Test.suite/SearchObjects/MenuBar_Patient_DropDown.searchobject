@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		129,
+		26,
+		48,
+		21
+	],
+	"lastmodifieddate": 1720595694.8499999,
+	"createddate": 1720595694.8499999,
+	"name": "MenuBar_Patient_DropDown",
+	"lastfounddate": 1721104946.6830001,
+	"ocrcapturestring": "Patient",
+	"lastfoundlocation": [
+		129,
+		26,
+		48,
+		21
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[24,10]",
+					"Tolerance": "_69",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "MenuBar_Patient_DropDown.png",
+				"connectionname": "LAC_CA_M0278",
+				"type": 1,
+				"connectionserverid": "137.252.37.86",
+				"capturerect": [
+					129,
+					26,
+					48,
+					21
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Patient"
+			}
+	]
+}

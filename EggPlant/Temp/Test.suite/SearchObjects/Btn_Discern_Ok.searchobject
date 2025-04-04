@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		597,
+		441,
+		38,
+		17
+	],
+	"lastmodifieddate": 1720706923.6820002,
+	"createddate": 1720706923.6820002,
+	"name": "Btn_Discern_Ok",
+	"lastfounddate": 1721021962.4990001,
+	"ocrcapturestring": "OK",
+	"lastfoundlocation": [
+		808,
+		477,
+		38,
+		17
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[19,8]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Btn_Discern_Ok.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					597,
+					441,
+					38,
+					17
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "OK"
+			}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		515,
+		206,
+		301,
+		27
+	],
+	"lastmodifieddate": 1720756912.345,
+	"createddate": 1720756912.3439999,
+	"name": "Window_UNSIGNEDORDERS",
+	"lastfounddate": 1721104961.1459999,
+	"ocrcapturestring": "UNSIGNED ORDERS",
+	"lastfoundlocation": [
+		515,
+		206,
+		301,
+		27
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[150,13]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Window_UNSIGNEDORDERS.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					515,
+					206,
+					301,
+					27
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "UNSIGNED ORDERS"
+			}
+	]
+}

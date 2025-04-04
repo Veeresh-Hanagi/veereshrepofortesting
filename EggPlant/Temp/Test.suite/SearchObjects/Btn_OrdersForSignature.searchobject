@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1787,
+		984,
+		111,
+		13
+	],
+	"lastmodifieddate": 1720966141.349,
+	"createddate": 1720966141.349,
+	"name": "Btn_OrdersForSignature",
+	"lastfounddate": 1721105133.628,
+	"ocrcapturestring": "Orders For Signature",
+	"lastfoundlocation": [
+		1787,
+		984,
+		111,
+		13
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[55,6]",
+					"Tolerance": "_22",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Btn_OrdersForSignature.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					1787,
+					984,
+					111,
+					13
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Orders For Signature"
+			}
+	]
+}

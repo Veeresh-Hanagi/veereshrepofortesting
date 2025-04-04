@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running Untitled.script",
+				"identifier": "START",
+				"timestamp": "2024-07-10 11:23:11.172 +0530"
+			},
+		{
+				"handlerName": "on_launchtask",
+				"timestamp": "2024-07-10 11:23:11.351 +0530",
+				"message": "Launching task powerchart.exe from command line",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"0.245\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-07-10 11:23:11 +0530\", Successes:\"0\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-07-10 11:23:11.423 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STUnknownMessage: ERROR: No Such Function: 'scale' -- Execution Time 0:00:00 Untitled.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-07-10 11:23:11.637 +0530"
+			}
+	],
+	"createdTimestamp": "2024-07-10 11:23:11.175 +0530"
+}

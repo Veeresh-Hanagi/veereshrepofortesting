@@ -1,0 +1,309 @@
+{
+	"entries": [
+		{
+				"message": "Running Untitled.script",
+				"identifier": "START",
+				"timestamp": "2024-07-11 15:47:16.887 +0530"
+			},
+		{
+				"handlerName": "on_launchtask",
+				"timestamp": "2024-07-11 15:47:17.036 +0530",
+				"message": "Launching task Powerchart.exe from command line",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_openrunwindow",
+				"timestamp": "2024-07-11 15:47:17.100 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openrunwindow",
+				"timestamp": "2024-07-11 15:47:17.715 +0530",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"message": "found at (238, 876)",
+				"image": "(TEXT:\"Open\")",
+				"handlerLine": 5,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_launchtask",
+				"timestamp": "2024-07-11 15:47:18.304 +0530",
+				"message": "Powerchart.exe[returnKey]",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2024-07-11 15:47:18.318 +0530",
+				"message": "Attempting Login into Millennium Applcation",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2024-07-11 15:47:21.376 +0530",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script",
+				"message": "found #2 at (968, 396)",
+				"image": "MIL/Millennium/Logo_Login_Popover",
+				"handlerLine": 3,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2024-07-11 15:47:21.462 +0530",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script",
+				"message": "found at (909, 445)",
+				"image": "MIL/Millennium/Logo_Username",
+				"handlerLine": 4,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2024-07-11 15:47:21.569 +0530",
+				"message": "at (909, 465)",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script",
+				"handlerLine": 6,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2024-07-11 15:47:22.304 +0530",
+				"message": "[controlKey]a",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script",
+				"handlerLine": 9,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2024-07-11 15:47:23.048 +0530",
+				"message": "[backspace]",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script",
+				"handlerLine": 10,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2024-07-11 15:47:24.045 +0530",
+				"message": "rs091347b",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script",
+				"handlerLine": 12,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2024-07-11 15:47:24.782 +0530",
+				"message": "[tab]",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script",
+				"handlerLine": 13,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2024-07-11 15:47:24.788 +0530",
+				"message": "Entering password",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script",
+				"handlerLine": 21,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2024-07-11 15:47:25.766 +0530",
+				"message": "********",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script",
+				"handlerLine": 22,
+				"identifier": "typehiddentext"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2024-07-11 15:47:26.513 +0530",
+				"message": "[tab]",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script",
+				"handlerLine": 24,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2024-07-11 15:47:27.262 +0530",
+				"message": "[returnKey]",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script",
+				"handlerLine": 31,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_login",
+				"timestamp": "2024-07-11 15:47:39.111 +0530",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script",
+				"message": "Unable to Find Image (TEXT:\"Acknowledge\") within 10.00 seconds. Text not found.",
+				"image": "(TEXT:\"Acknowledge\")",
+				"handlerLine": 34,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "function_islogindismissed",
+				"timestamp": "2024-07-11 15:47:41.796 +0530",
+				"message": "Millennium login page has been dismissed.",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2024-07-11 15:47:41.834 +0530",
+				"message": "[returnKey]",
+				"scriptName": "Untitled.script",
+				"handlerLine": 15,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2024-07-11 15:47:53.295 +0530",
+				"scriptName": "Untitled.script",
+				"message": "at (1227, 773)",
+				"image": "(TEXT:\"Cancel\")",
+				"handlerLine": 19,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2024-07-11 15:48:08.431 +0530",
+				"scriptName": "Untitled.script",
+				"message": "at (132, 103)",
+				"image": "MenuBar_Patient_DropDown",
+				"handlerLine": 25,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2024-07-11 15:48:08.434 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "Untitled.script",
+				"handlerLine": 28,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2024-07-11 15:48:08.796 +0530",
+				"scriptName": "Untitled.script",
+				"message": "found at (158, 123)",
+				"image": "Patient_DropDown_Search_option",
+				"handlerLine": 31,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2024-07-11 15:48:09.249 +0530",
+				"scriptName": "Untitled.script",
+				"message": "at (158, 123)",
+				"image": "Patient_DropDown_Search_option",
+				"handlerLine": 34,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2024-07-11 15:48:12.828 +0530",
+				"scriptName": "Untitled.script",
+				"message": "found at (360, 251)",
+				"image": "Patient_LastName",
+				"handlerLine": 40,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2024-07-11 15:48:12.949 +0530",
+				"scriptName": "Untitled.script",
+				"message": "at (360, 251)",
+				"image": "Patient_LastName",
+				"handlerLine": 42,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2024-07-11 15:48:13.848 +0530",
+				"message": "uctest",
+				"scriptName": "Untitled.script",
+				"handlerLine": 43,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2024-07-11 15:48:16.005 +0530",
+				"scriptName": "Untitled.script",
+				"message": "at (362, 300)",
+				"image": "Patient_FirstName",
+				"handlerLine": 47,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2024-07-11 15:48:16.972 +0530",
+				"message": "hnaonea[returnKey]",
+				"scriptName": "Untitled.script",
+				"handlerLine": 49,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2024-07-11 15:48:22.125 +0530",
+				"scriptName": "Untitled.script",
+				"message": "at (961, 686)",
+				"image": "btn_ok",
+				"handlerLine": 54,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2024-07-11 15:48:22.792 +0530",
+				"scriptName": "Untitled.script",
+				"message": "found at (1829, 70)",
+				"image": "Btn_max",
+				"handlerLine": 56,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2024-07-11 15:48:22.947 +0530",
+				"scriptName": "Untitled.script",
+				"message": "at (1829, 70)",
+				"image": "Btn_max",
+				"handlerLine": 58,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2024-07-11 15:48:33.918 +0530",
+				"scriptName": "Untitled.script",
+				"message": "at (49, 288)",
+				"image": "(TEXT:\"Orders\")",
+				"handlerLine": 67,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2024-07-11 15:49:09.184 +0530",
+				"scriptName": "Untitled.script",
+				"message": "Unable To Find Any Image On Screen \"Btn_Add\" within 15.00 seconds",
+				"image": "Btn_Add",
+				"handlerLine": 69,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"112.322\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-07-11 15:47:16 +0530\", Successes:\"0\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-07-11 15:49:09.213 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: waitfor Error - Unable To Find Any Image On Screen \"Btn_Add\" within 15.00 seconds -- Execution Time 0:01:52 Untitled.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-07-11 15:49:09.291 +0530"
+			}
+	],
+	"createdTimestamp": "2024-07-11 15:47:16.889 +0530"
+}

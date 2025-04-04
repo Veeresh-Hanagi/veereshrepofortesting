@@ -1,0 +1,669 @@
+{
+	"entries": [
+		{
+				"message": "Running UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"identifier": "START",
+				"timestamp": "2024-12-17 11:04:00.817 +0530"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-17 11:04:01.048 +0530",
+				"message": "NKCMH_MO",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-17 11:04:01.084 +0530",
+				"message": "Modify the Prescription Order",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 118,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-17 11:04:01.128 +0530",
+				"message": "Right click on Prescription order and a select an action",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 120,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:01.262 +0530",
+				"message": "[pageUp]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:02.142 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "at [847,413,916,427]",
+				"image": "ScratchpadActions/OrderNameColumnName",
+				"handlerLine": 7,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:02.265 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "at [972,413,1014,427]",
+				"image": "ScratchpadActions/StatusColumnName",
+				"handlerLine": 8,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:02.338 +0530",
+				"message": "SEARCHRECTANGLE = [[947,527],[972,1000]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 14,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:02.392 +0530",
+				"message": "SEARCHRECTANGLE = [[841,427],[1032,1000]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 17,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:07.411 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "found 0 images",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 18,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:13.279 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 21,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:13.374 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:18.656 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:18.743 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:23.902 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:23.985 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:29.409 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:29.495 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:34.537 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:34.615 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:39.878 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:39.959 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:45.331 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:45.410 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:50.561 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:50.643 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:55.783 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:04:55.866 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:01.028 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:01.112 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:06.282 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:06.365 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:11.479 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:11.564 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:16.692 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:16.778 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:21.894 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:21.967 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:27.082 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:27.175 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:32.347 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:32.573 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:37.760 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:37.839 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:43.107 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:43.195 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:48.613 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:48.700 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:54.898 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:05:54.999 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:00.930 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:01.015 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:07.014 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:07.159 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:13.338 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:13.428 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:18.904 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image (TEXT:\"aspirin 325 mg oral tablet\"). Text not found.",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:51.676 +0530",
+				"message": "[pageDown]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 22,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:51.881 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "found at (956, 813)",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 23,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:52.736 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "found 1 images",
+				"image": "(TEXT:\"aspirin 325 mg oral tablet\")",
+				"handlerLine": 25,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:52.820 +0530",
+				"message": "SEARCHRECTANGLE = [[956,794],[1900,823]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 30,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:52.981 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "found at (1178, 811)",
+				"image": "(TEXT:\"Prescribed\")",
+				"handlerLine": 32,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:53.056 +0530",
+				"message": "Order Exists in Correct Status",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 43,
+				"identifier": "LogSuccess"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:53.186 +0530",
+				"message": "at (956, 813)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 44,
+				"identifier": "rightclick"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:53.219 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 50,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:53.918 +0530",
+				"message": "at (936, 813)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 58,
+				"identifier": "moveto"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:54.577 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "found at (1019, 369)",
+				"image": "RightClickMenu/Menu_Down_TL",
+				"handlerLine": 60,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:54.588 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 61,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:54.753 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "at (950, 357)",
+				"image": "RightClickMenu/Menu_Down_TL",
+				"handlerLine": 88,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:54.824 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "at (1893, 966)",
+				"image": "RightClickMenu/menu_UP_BR",
+				"handlerLine": 88,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_rightclickorderonscratchpadwithaction",
+				"timestamp": "2024-12-17 11:06:54.828 +0530",
+				"message": "Image Property List did not contain \"ImageName\" property",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 88,
+				"identifier": "Exception"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-17 11:06:55.010 +0530",
+				"message": "Exception encountered at:  line 88 of rightclickorderonscratchpadwithaction (line 421 of Popups.script)\\ncalled from line 121 of ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 140,
+				"identifier": "LogError"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-17 11:06:55.109 +0530",
+				"message": "Exception Reason:  click Error - Image Property List did not contain \"ImageName\" property",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"handlerLine": 142,
+				"identifier": "LogError"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_10_scriptwriter",
+				"timestamp": "2024-12-17 11:06:55.214 +0530",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"image": "Exception.png",
+				"handlerLine": 144,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_zerostatecloseallapps",
+				"timestamp": "2024-12-17 11:06:55.318 +0530",
+				"message": "[windowsKey]m",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Cleanup.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchtaskasadmin",
+				"timestamp": "2024-12-17 11:06:55.348 +0530",
+				"message": "Launching task cmd from command line",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_openrunwindow",
+				"timestamp": "2024-12-17 11:06:56.074 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openrunwindow",
+				"timestamp": "2024-12-17 11:06:58.342 +0530",
+				"message": "Searching For Image: OCR Error: Operation was aborted",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 5,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"177.635\", Errors:\"3\", Exceptions:\"2\", StartTime:\"2024-12-17 11:04:00 +0530\", Successes:\"1\", TestCase:\"UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-12-17 11:06:58.458 +0530"
+			},
+		{
+				"message": "Execution Time 0:02:57 UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-12-17 11:06:58.469 +0530"
+			}
+	],
+	"createdTimestamp": "2024-12-17 11:04:00.820 +0530"
+}

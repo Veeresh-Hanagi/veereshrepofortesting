@@ -1,0 +1,3 @@
+﻿2024-12-05 19:34:02.535 +0530	START		Running Untitled4.script
+2024-12-05 19:34:02.616 +0530	EndTestCase		(Duration:"0.076", Errors:"0", Exceptions:"0", StartTime:"2024-12-05 19:34:02 +0530", Successes:"1", TestCase:"Untitled4.script", Warnings:"0")
+2024-12-05 19:34:02.654 +0530	SUCCESS		Execution Time 0:00:00 Untitled4.script

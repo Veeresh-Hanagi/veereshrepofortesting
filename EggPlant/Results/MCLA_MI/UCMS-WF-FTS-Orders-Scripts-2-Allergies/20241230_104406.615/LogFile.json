@@ -1,0 +1,1486 @@
+{
+	"entries": [
+		{
+				"message": "Running UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"identifier": "START",
+				"timestamp": "2024-12-30 10:44:06.622 +0530"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:44:06.763 +0530",
+				"message": "MCLA_MI",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:44:06.794 +0530",
+				"message": "This scripts is used to test the functionalities of Allergies",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:44:06.823 +0530",
+				"message": " Click on Add Icon in Powerorders toolbar",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 12,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:44:06.838 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 13,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_subopenaddorderwindow",
+				"timestamp": "2024-12-30 10:44:06.915 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (246, 284)",
+				"image": "PowerOrderToolbar",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_subopenaddorderwindow",
+				"timestamp": "2024-12-30 10:44:07.180 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at (246, 284)",
+				"image": "PowerOrderToolbar",
+				"handlerLine": 4,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:44:07.225 +0530",
+				"message": "Type and select the allergies Substance",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 15,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_typesubstancename",
+				"timestamp": "2024-12-30 10:44:08.031 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "at (264, 576)",
+				"image": "Allergies_Flat/Label_Substance_Bold",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_typesubstancename",
+				"timestamp": "2024-12-30 10:44:09.046 +0530",
+				"message": "penicillin",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:44:09.785 +0530",
+				"message": "[returnKey]",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 17,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_selectsubstanceinsubstancesearchwindow",
+				"timestamp": "2024-12-30 10:44:13.938 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "found 2 images",
+				"image": "Allergies_Flat/Label_Term",
+				"handlerLine": 3,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"handlerName": "on_selectsubstanceinsubstancesearchwindow",
+				"timestamp": "2024-12-30 10:44:14.078 +0530",
+				"message": "at (590, 659)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 4,
+				"identifier": "drag"
+			},
+		{
+				"handlerName": "on_selectsubstanceinsubstancesearchwindow",
+				"timestamp": "2024-12-30 10:44:15.127 +0530",
+				"message": "at (766, 659)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 5,
+				"identifier": "drag"
+			},
+		{
+				"handlerName": "on_selectsubstanceinsubstancesearchwindow",
+				"timestamp": "2024-12-30 10:44:16.160 +0530",
+				"message": "at (766, 659)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 6,
+				"identifier": "drop"
+			},
+		{
+				"handlerName": "on_selectsubstanceinsubstancesearchwindow",
+				"timestamp": "2024-12-30 10:44:18.306 +0530",
+				"message": "at (437, 834)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 8,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_selectsubstanceinsubstancesearchwindow",
+				"timestamp": "2024-12-30 10:44:20.583 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "found at (736, 674)",
+				"image": "(TEXT:\"penicillin\")",
+				"handlerLine": 12,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_selectsubstanceinsubstancesearchwindow",
+				"timestamp": "2024-12-30 10:44:20.768 +0530",
+				"message": "at (736, 674)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 13,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_selectsubstanceinsubstancesearchwindow",
+				"timestamp": "2024-12-30 10:44:20.774 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 14,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:44:21.514 +0530",
+				"message": "[returnKey]",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 20,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:44:23.565 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 22,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:44:23.579 +0530",
+				"message": "Handle Modify Allergies warning Popup window",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 23,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_modifyallergieswarningpopup",
+				"timestamp": "2024-12-30 10:44:28.853 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image AddOrderWindow/MAW/MAWCharting/Window_PharmacyVerification",
+				"image": "AddOrderWindow/MAW/MAWCharting/Window_PharmacyVerification",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:44:28.903 +0530",
+				"message": "Handle MCDS Window",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 25,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_mcdswindow",
+				"timestamp": "2024-12-30 10:44:34.003 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image Allergies_PopUp/MCDS/Label_MCDS_Banner",
+				"image": "Allergies_PopUp/MCDS/Label_MCDS_Banner",
+				"handlerLine": 4,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:44:39.087 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 28,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:44:39.103 +0530",
+				"message": "Type and select the Reaction",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 29,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_typetextinreactionfield",
+				"timestamp": "2024-12-30 10:44:39.157 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "at (262, 633)",
+				"image": "Allergies_Flat/Label_Reactions",
+				"handlerLine": 2,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_typetextinreactionfield",
+				"timestamp": "2024-12-30 10:44:39.265 +0530",
+				"message": "at (262, 663)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_typetextinreactionfield",
+				"timestamp": "2024-12-30 10:44:40.013 +0530",
+				"message": "[controlKey]a",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_typetextinreactionfield",
+				"timestamp": "2024-12-30 10:44:40.859 +0530",
+				"message": "Rash",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:44:41.609 +0530",
+				"message": "[returnKey]",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 31,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_selectreactionfromreaction",
+				"timestamp": "2024-12-30 10:45:29.906 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "at [707,353,733,366]",
+				"image": "SubstanceSearchWindow/Label_Term",
+				"handlerLine": 3,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_selectreactionfromreaction",
+				"timestamp": "2024-12-30 10:45:30.176 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "at (728, 416)",
+				"image": "(TEXT:\"Rash\")",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_selectreactionfromreaction",
+				"timestamp": "2024-12-30 10:45:30.922 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "at [707,280,753,301]",
+				"image": "Allergies_Flat/Label_ReactionSearch",
+				"handlerLine": 7,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_selectreactionfromreaction",
+				"timestamp": "2024-12-30 10:45:30.978 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "at [1162,770,1202,785]",
+				"image": "Allergies_Flat/Button_Cancel",
+				"handlerLine": 8,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_selectreactionfromreaction",
+				"timestamp": "2024-12-30 10:45:31.005 +0530",
+				"message": "[707,301,1202,785]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_selectreactionfromreaction",
+				"timestamp": "2024-12-30 10:45:31.043 +0530",
+				"message": "[return]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 10,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_selectreactionfromreaction",
+				"timestamp": "2024-12-30 10:45:31.056 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 11,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:45:36.183 +0530",
+				"message": "Handle MCDS Window",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 34,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_mcdswindow",
+				"timestamp": "2024-12-30 10:45:41.276 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image Allergies_PopUp/MCDS/Label_MCDS_Banner",
+				"image": "Allergies_PopUp/MCDS/Label_MCDS_Banner",
+				"handlerLine": 4,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:45:41.326 +0530",
+				"message": "Fill the dropdown fields for allergies",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 36,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:45:41.398 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "at [634,734,698,753]",
+				"image": "Allergies_Flat/Label_Category",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:45:41.556 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "at (762, 773)",
+				"image": "Allergies_Flat/Button_DropDownArrow",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:45:42.308 +0530",
+				"message": "D",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:45:43.071 +0530",
+				"message": "(634,753,774,793)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 7,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:45:43.105 +0530",
+				"message": "[returnKey]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:45:43.880 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "at [474,625,530,644]",
+				"image": "Allergies_Flat/Label_Severity",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:45:44.048 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "at (599, 663)",
+				"image": "Allergies_Flat/Button_DropDownArrow",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:45:44.803 +0530",
+				"message": "S",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:45:45.577 +0530",
+				"message": "(474,644,614,684)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 7,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:45:45.621 +0530",
+				"message": "[returnKey]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:45:46.368 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "at [815,735,858,755]",
+				"image": "Allergies_Flat/Label_Status",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:45:46.542 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "at (912, 773)",
+				"image": "Allergies_Flat/Button_DropDownArrow",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:45:47.301 +0530",
+				"message": "A",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:45:48.036 +0530",
+				"message": "(815,755,955,795)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 7,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:45:48.069 +0530",
+				"message": "[returnKey]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:45:48.122 +0530",
+				"message": "Handle MCDS Window",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 40,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_mcdswindow",
+				"timestamp": "2024-12-30 10:45:53.201 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image Allergies_PopUp/MCDS/Label_MCDS_Banner",
+				"image": "Allergies_PopUp/MCDS/Label_MCDS_Banner",
+				"handlerLine": 4,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:45:53.251 +0530",
+				"message": "Handle Ok button In allergies",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 42,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_clickokallergies",
+				"timestamp": "2024-12-30 10:45:53.315 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "found at (1620, 809)",
+				"image": "Allergies_Flat/Button_OK",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_clickokallergies",
+				"timestamp": "2024-12-30 10:45:53.494 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "at (1620, 809)",
+				"image": "Allergies_Flat/Button_OK",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:45:53.563 +0530",
+				"message": "Handle Modify Allergies window",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 44,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_modifyallergieswarningpopup",
+				"timestamp": "2024-12-30 10:45:58.939 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image AddOrderWindow/MAW/MAWCharting/Window_PharmacyVerification",
+				"image": "AddOrderWindow/MAW/MAWCharting/Window_PharmacyVerification",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:45:59.014 +0530",
+				"message": "Functionality is not being used by client",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 74,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:45:59.040 +0530",
+				"message": "Modify the allergies in allergies grid",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 89,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:45:59.098 +0530",
+				"message": "To perform Modify action in Flat mode",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 91,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_rightclickonallergyandselectaction",
+				"timestamp": "2024-12-30 10:45:59.150 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesProfile.script",
+				"message": "at [231,324,282,335]",
+				"image": "Allergies_Profile/Column_Substance",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_rightclickonallergyandselectaction",
+				"timestamp": "2024-12-30 10:45:59.192 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesProfile.script",
+				"message": "at [231,324,282,335]",
+				"image": "Allergies_Profile/Column_Substance",
+				"handlerLine": 3,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_rightclickonallergyandselectaction",
+				"timestamp": "2024-12-30 10:45:59.375 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesProfile.script",
+				"message": "at (257, 368)",
+				"image": "(TEXT:\"penicillin\")",
+				"handlerLine": 4,
+				"identifier": "rightclick"
+			},
+		{
+				"handlerName": "on_rightclickonallergyandselectaction",
+				"timestamp": "2024-12-30 10:45:59.391 +0530",
+				"message": "[257,318,447,558]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesProfile.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_rightclickonallergyandselectaction",
+				"timestamp": "2024-12-30 10:46:00.294 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesProfile.script",
+				"message": "at (310, 396)",
+				"image": "(TEXT:\"Modify\")",
+				"handlerLine": 9,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:46:00.345 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 93,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:46:01.044 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "at [474,625,530,644]",
+				"image": "Allergies_Flat/Label_Severity",
+				"handlerLine": 2,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:46:01.210 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "at (599, 663)",
+				"image": "Allergies_Flat/Button_DropDownArrow",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:46:01.962 +0530",
+				"message": "M",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:46:02.745 +0530",
+				"message": "(474,644,614,684)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 7,
+				"identifier": "readtext"
+			},
+		{
+				"handlerName": "on_selectvaluefordropdownfield",
+				"timestamp": "2024-12-30 10:46:02.777 +0530",
+				"message": "[returnKey]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_clickokallergies",
+				"timestamp": "2024-12-30 10:46:06.908 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "found at (1620, 809)",
+				"image": "Allergies_Flat/Button_OK",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_clickokallergies",
+				"timestamp": "2024-12-30 10:46:07.077 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script",
+				"message": "at (1620, 809)",
+				"image": "Allergies_Flat/Button_OK",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_refresh_patientchart",
+				"timestamp": "2024-12-30 10:46:07.152 +0530",
+				"message": "refresh the page",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_refresh_patientchart",
+				"timestamp": "2024-12-30 10:46:07.917 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "at (21, 33)",
+				"image": "RefreshPatient/RefreshMenu",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_refresh_patientchart",
+				"timestamp": "2024-12-30 10:46:09.035 +0530",
+				"message": "SEARCHRECTANGLE = [\"RefreshPatient/SearchrectangleA\",\"RefreshPatient/SearchrectangleB\"]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 4,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_refresh_patientchart",
+				"timestamp": "2024-12-30 10:46:09.177 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "at (57, 147)",
+				"image": "RefreshPatient/RefreshButton",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_refresh_patientchart",
+				"timestamp": "2024-12-30 10:46:09.192 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 6,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:46:09.282 +0530",
+				"message": "Remove the Order",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 122,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:46:09.308 +0530",
+				"message": "Slect Orders from chart",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 124,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_selectmenusubmenu",
+				"timestamp": "2024-12-30 10:46:10.189 +0530",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/MenuSearch.script",
+				"message": "found 1 images",
+				"image": "(TEXT:\"Chart\")",
+				"handlerLine": 8,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"handlerName": "on_selectmenusubmenu",
+				"timestamp": "2024-12-30 10:46:10.338 +0530",
+				"message": "at (205, 34)",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/MenuSearch.script",
+				"handlerLine": 13,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_selectmenusubmenu",
+				"timestamp": "2024-12-30 10:46:17.190 +0530",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/MenuSearch.script",
+				"message": "found 1 images",
+				"image": "(TEXT:\"Orders\")",
+				"handlerLine": 8,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"handlerName": "on_selectmenusubmenu",
+				"timestamp": "2024-12-30 10:46:17.341 +0530",
+				"message": "at (234, 100)",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/MenuSearch.script",
+				"handlerLine": 13,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:46:17.416 +0530",
+				"message": "Click on Add Button",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 126,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_subopenaddorderwindow",
+				"timestamp": "2024-12-30 10:46:17.942 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (245, 244)",
+				"image": "PowerOrderToolbar",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_subopenaddorderwindow",
+				"timestamp": "2024-12-30 10:46:18.246 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at (245, 244)",
+				"image": "PowerOrderToolbar",
+				"handlerLine": 4,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:46:18.307 +0530",
+				"message": "Selectthe order type in Add order window",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 128,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 10:46:31.222 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (846, 129)",
+				"image": "AddOrderWindow/DropDown_OrderType",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 10:46:31.270 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at [710,120,742,146]",
+				"image": "AddOrderWindow/DropDown_OrderType",
+				"handlerLine": 5,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 10:46:31.299 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at [710,120,742,146]",
+				"image": "AddOrderWindow/DropDown_OrderType",
+				"handlerLine": 5,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 10:46:31.303 +0530",
+				"message": "SEARCHRECTANGLE = [[705,115],[1142,346]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 5,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 10:46:31.343 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at [710,120,742,146]",
+				"image": "AddOrderWindow/DropDown_OrderType",
+				"handlerLine": 6,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 10:46:31.451 +0530",
+				"message": "at (842, 133)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 6,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 10:46:32.502 +0530",
+				"message": "Inpatient[returnKey]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 10:46:32.531 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 10,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 10:46:33.249 +0530",
+				"message": "[tab]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 11,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:46:33.300 +0530",
+				"message": "Type the order and select the order",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 130,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:46:34.076 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at (515, 129)",
+				"image": "AddOrderWindow/SearchIcon",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:46:34.981 +0530",
+				"message": "False[returnKey]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:46:35.733 +0530",
+				"message": "[tab]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:46:36.473 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (943, 472)",
+				"image": "AddOrderWindow/bAddOrderDoneButton",
+				"handlerLine": 10,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:46:36.528 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (312, 177)",
+				"image": "AddOrderWindow/AddOrderSearchResults_A/AddOrderSearchResults_A",
+				"handlerLine": 18,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:46:36.577 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at (312, 177)",
+				"image": "AddOrderWindow/AddOrderSearchResults_A",
+				"handlerLine": 19,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:46:36.581 +0530",
+				"message": "SEARCHRECTANGLE = [[312,177],[943,472]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 19,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:46:39.380 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found 0 images",
+				"image": "(TEXT:\"False\")",
+				"handlerLine": 25,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:46:39.509 +0530",
+				"message": "at current mouse point (515, 129)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 31,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:46:39.516 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 35,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:46:39.558 +0530",
+				"message": "Handle Order Sentence",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 132,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_selectordersentenceordsentwind",
+				"timestamp": "2024-12-30 10:46:43.066 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "Unable to Find Image Ordersentence/Ordersentenceswindow",
+				"image": "Ordersentence/Ordersentenceswindow",
+				"handlerLine": 4,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_selectordersentenceordsentwind",
+				"timestamp": "2024-12-30 10:46:47.199 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "Unable to Find Image (TEXT:\"Order Sentences\"). Text not found.",
+				"image": "(TEXT:\"Order Sentences\")",
+				"handlerLine": 4,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_selectordersentenceordsentwind",
+				"timestamp": "2024-12-30 10:46:50.653 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "Unable to Find Image Ordersentence/Ordersentenceswindow",
+				"image": "Ordersentence/Ordersentenceswindow",
+				"handlerLine": 4,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_selectordersentenceordsentwind",
+				"timestamp": "2024-12-30 10:46:50.675 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 27,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:46:50.722 +0530",
+				"message": "Handle ordering Physician",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 134,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_selectuserproviderselection",
+				"timestamp": "2024-12-30 10:46:55.322 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image PopUps/Label_OrderingPhysicianDialog",
+				"image": "PopUps/Label_OrderingPhysicianDialog",
+				"handlerLine": 4,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:46:55.380 +0530",
+				"message": "To Remove the order Via MCDS window",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 136,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_removemcdswindow",
+				"timestamp": "2024-12-30 10:47:00.575 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image Allergies_PopUp/MCDS/Label_MCDS_Banner",
+				"image": "Allergies_PopUp/MCDS/Label_MCDS_Banner",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:47:00.678 +0530",
+				"message": "Handle DiscernAlert window",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 138,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_discernalertok",
+				"timestamp": "2024-12-30 10:47:30.820 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "Unable to Find Image PopUps/DiscernOverride/Icon_Discern",
+				"image": "PopUps/DiscernOverride/Icon_Discern",
+				"handlerLine": 3,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:47:30.873 +0530",
+				"message": "Click on Done button",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 140,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_subclickaddorderdonebutton",
+				"timestamp": "2024-12-30 10:47:30.910 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 2,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_subclickaddorderdonebutton",
+				"timestamp": "2024-12-30 10:47:31.048 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at (943, 472)",
+				"image": "bAddOrderDoneButton",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_subclickaddorderdonebutton",
+				"timestamp": "2024-12-30 10:47:38.288 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (245, 244)",
+				"image": "PowerorderToolbar",
+				"handlerLine": 5,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:47:38.363 +0530",
+				"message": "Sign the order and refresh the page",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 142,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_signorderforremovemcdsfunctionality",
+				"timestamp": "2024-12-30 10:47:38.475 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesProfile.script",
+				"message": "found at (1841, 991)",
+				"image": "AddOrderWindow/DitheredOrdersforSignature",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_refresh_patientchart",
+				"timestamp": "2024-12-30 10:47:38.646 +0530",
+				"message": "refresh the page",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_refresh_patientchart",
+				"timestamp": "2024-12-30 10:47:38.756 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "at (21, 33)",
+				"image": "RefreshPatient/RefreshMenu",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_refresh_patientchart",
+				"timestamp": "2024-12-30 10:47:41.173 +0530",
+				"message": "SEARCHRECTANGLE = [\"RefreshPatient/SearchrectangleA\",\"RefreshPatient/SearchrectangleB\"]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 4,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_refresh_patientchart",
+				"timestamp": "2024-12-30 10:47:41.320 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "at (57, 147)",
+				"image": "RefreshPatient/RefreshButton",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_refresh_patientchart",
+				"timestamp": "2024-12-30 10:47:41.332 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"handlerLine": 6,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:47:41.480 +0530",
+				"message": "Actions in MCDS",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 162,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:47:41.509 +0530",
+				"message": "Slect Orders from chart",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 164,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_selectmenusubmenu",
+				"timestamp": "2024-12-30 10:47:42.515 +0530",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/MenuSearch.script",
+				"message": "found 1 images",
+				"image": "(TEXT:\"Chart\")",
+				"handlerLine": 8,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"handlerName": "on_selectmenusubmenu",
+				"timestamp": "2024-12-30 10:47:42.671 +0530",
+				"message": "at (205, 34)",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/MenuSearch.script",
+				"handlerLine": 13,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_selectmenusubmenu",
+				"timestamp": "2024-12-30 10:47:46.023 +0530",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/MenuSearch.script",
+				"message": "found 5 images",
+				"image": "(TEXT:\"Orders\")",
+				"handlerLine": 8,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"handlerName": "on_selectmenusubmenu",
+				"timestamp": "2024-12-30 10:47:46.179 +0530",
+				"message": "at (357, 212)",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/MenuSearch.script",
+				"handlerLine": 13,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:47:46.250 +0530",
+				"message": "Click on Add Button",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 166,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_subopenaddorderwindow",
+				"timestamp": "2024-12-30 10:47:46.346 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (245, 244)",
+				"image": "PowerOrderToolbar",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_subopenaddorderwindow",
+				"timestamp": "2024-12-30 10:47:47.067 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at (245, 244)",
+				"image": "PowerOrderToolbar",
+				"handlerLine": 4,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:47:47.182 +0530",
+				"message": "Selectthe order type in Add order window",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 168,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 10:47:58.963 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (846, 129)",
+				"image": "AddOrderWindow/DropDown_OrderType",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 10:47:59.023 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at [710,120,742,146]",
+				"image": "AddOrderWindow/DropDown_OrderType",
+				"handlerLine": 5,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 10:47:59.055 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at [710,120,742,146]",
+				"image": "AddOrderWindow/DropDown_OrderType",
+				"handlerLine": 5,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 10:47:59.059 +0530",
+				"message": "SEARCHRECTANGLE = [[705,115],[1142,346]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 5,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 10:47:59.106 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at [710,120,742,146]",
+				"image": "AddOrderWindow/DropDown_OrderType",
+				"handlerLine": 6,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 10:47:59.219 +0530",
+				"message": "at (842, 133)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 6,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 10:48:00.254 +0530",
+				"message": "Inpatient[returnKey]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 10:48:00.286 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 10,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 10:48:01.024 +0530",
+				"message": "[tab]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 11,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:48:01.091 +0530",
+				"message": "Type the order and select the order",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 170,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:48:01.843 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at (515, 129)",
+				"image": "AddOrderWindow/SearchIcon",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:48:02.744 +0530",
+				"message": "False[returnKey]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:48:03.482 +0530",
+				"message": "[tab]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:48:04.203 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (943, 472)",
+				"image": "AddOrderWindow/bAddOrderDoneButton",
+				"handlerLine": 10,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:48:04.254 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (312, 177)",
+				"image": "AddOrderWindow/AddOrderSearchResults_A/AddOrderSearchResults_A",
+				"handlerLine": 18,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:48:04.298 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at (312, 177)",
+				"image": "AddOrderWindow/AddOrderSearchResults_A",
+				"handlerLine": 19,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:48:04.301 +0530",
+				"message": "SEARCHRECTANGLE = [[312,177],[943,472]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 19,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:48:07.221 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found 0 images",
+				"image": "(TEXT:\"False\")",
+				"handlerLine": 25,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:48:07.352 +0530",
+				"message": "at current mouse point (515, 129)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 31,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 10:48:07.358 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 35,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:48:07.454 +0530",
+				"message": "Handle Order Sentence",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 172,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_selectordersentenceordsentwind",
+				"timestamp": "2024-12-30 10:48:11.012 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "Unable to Find Image Ordersentence/Ordersentenceswindow",
+				"image": "Ordersentence/Ordersentenceswindow",
+				"handlerLine": 4,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_selectordersentenceordsentwind",
+				"timestamp": "2024-12-30 10:48:15.621 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "Unable to Find Image (TEXT:\"Order Sentences\"). Text not found.",
+				"image": "(TEXT:\"Order Sentences\")",
+				"handlerLine": 4,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_selectordersentenceordsentwind",
+				"timestamp": "2024-12-30 10:48:19.045 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "Unable to Find Image Ordersentence/Ordersentenceswindow",
+				"image": "Ordersentence/Ordersentenceswindow",
+				"handlerLine": 4,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_selectordersentenceordsentwind",
+				"timestamp": "2024-12-30 10:48:19.703 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 27,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:48:19.822 +0530",
+				"message": "Handle ordering Physician",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 174,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_selectuserproviderselection",
+				"timestamp": "2024-12-30 10:48:24.036 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image PopUps/Label_OrderingPhysicianDialog",
+				"image": "PopUps/Label_OrderingPhysicianDialog",
+				"handlerLine": 4,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_2_allergies",
+				"timestamp": "2024-12-30 10:48:24.093 +0530",
+				"message": "Handle Dosage calculator",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"handlerLine": 176,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"266.087\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-12-30 10:44:06 +0530\", Successes:\"0\", TestCase:\"UCMS-WF-FTS-Orders-Scripts-2-Allergies.script\", Warnings:\"1\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-12-30 10:48:32.715 +0530"
+			},
+		{
+				"message": "Execution Time 0:04:26 UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-12-30 10:48:32.725 +0530"
+			}
+	],
+	"createdTimestamp": "2024-12-30 10:44:06.624 +0530"
+}

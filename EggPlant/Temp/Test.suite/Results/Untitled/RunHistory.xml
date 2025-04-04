@@ -1,0 +1,557 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="Untitled">
+ <run>
+  <RunDate>2024-07-10 11:09:38.176 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>3.746000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240710_110938.176/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-10 11:10:49.608 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>5.689000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240710_111049.608/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-10 11:11:17.099 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>5.616000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240710_111117.099/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-10 11:23:11.164 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.258000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240710_112311.164/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;scale&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-10 11:34:52.387 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.255000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240710_113452.387/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;scale&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-10 13:07:40.277 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>63.553000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240710_130740.277/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-10 14:12:39.582 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>60.790000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240710_141239.582/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Patient_DropDown_Search_option&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-10 14:19:10.289 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>52.040000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240710_141910.289/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Patient_DropDown_Search_option&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-10 16:09:55.454 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>42.550000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240710_160955.454/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-10 16:19:34.855 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>103.508000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240710_161934.855/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Patient_LastName&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-10 16:38:04.671 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>59.929000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240710_163804.671/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Patient_DropDown_Search_option&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-10 16:40:12.862 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>68.350000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240710_164012.862/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Patient_DropDown_Search_option&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-10 16:56:21.669 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>6.846000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240710_165621.669/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-10 16:56:47.511 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>80.285000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240710_165647.511/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Patient_DropDown_Search_option&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-10 16:58:28.103 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>115.250000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240710_165828.103/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Patient_DropDown_Search_option&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-10 17:05:11.348 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>92.169000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240710_170511.348/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Patient_LastName&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 09:30:18.538 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>69.499000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_093018.538/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 09:39:36.443 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.008000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_093936.443/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in untitled:
+Syntax Error at line 25: can&#x27;t understand [unrecognized character] at character 33</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 09:45:43.928 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>77.035000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_094543.928/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 09:47:27.807 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>63.751000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240711_094727.807/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 11:19:51.422 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>92.699000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_111951.422/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Btn_Orders&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 11:52:41.318 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>92.677000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_115241.318/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Btn_Orders&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 12:00:57.986 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>88.161000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_120057.986/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Btn_Orders&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 12:03:17.714 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>112.295000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_120317.714/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;Label_Search&quot; within 10.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 12:05:48.934 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>95.732000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_120548.934/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;Btn_max&quot; within 10.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 12:07:45.582 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>152.494000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_120745.582/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 12:15:36.199 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>99.915000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_121536.199/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;Btn_Orders&quot; within 10.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 12:22:44.333 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>103.196000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_122244.333/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;Btn_max&quot; within 10.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 12:30:55.627 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>154.931000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_123055.627/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;Btn_Orders&quot; within 15.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 14:29:11.537 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>137.933000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_142911.537/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 15:42:40.952 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.009000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_154240.952/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in untitled:
+Syntax Error at line 63: can&#x27;t understand [end of line] at character 13</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 15:42:55.937 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>110.089000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_154255.937/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 15:45:03.820 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>88.531000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_154503.820/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 15:47:16.880 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>112.332000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_154716.880/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;Btn_Add&quot; within 15.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 15:50:55.821 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>120.579000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_155055.821/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;Btn_Add&quot; within 15.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 15:56:14.090 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>63.795000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_155614.090/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 15:57:49.138 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>45.281000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_155749.138/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 16:03:24.270 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>69.740000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_160324.270/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-11 16:28:04.720 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>89.329000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240711_162804.720/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;btn_ok&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-12 11:46:26.885 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.095000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240712_114626.885/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-12 11:55:23.044 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.073000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240712_115523.044/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-12 11:56:49.350 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.129000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240712_115649.350/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-12 11:56:55.195 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.097000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240712_115655.195/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-12 11:56:59.867 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.090000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240712_115659.867/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-15 12:10:11.934 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.084000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20240715_121011.934/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Invalid JSON -- Can&#x27;t get value of JSON expression</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-07-15 12:34:48.154 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>0.300000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20240715_123448.154/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

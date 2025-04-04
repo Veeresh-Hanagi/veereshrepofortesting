@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running Untitled4.script",
+				"identifier": "START",
+				"timestamp": "2024-12-05 19:34:02.535 +0530"
+			},
+		{
+				"message": "(Duration:\"0.076\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-12-05 19:34:02 +0530\", Successes:\"1\", TestCase:\"Untitled4.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-12-05 19:34:02.616 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 Untitled4.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-12-05 19:34:02.654 +0530"
+			}
+	],
+	"createdTimestamp": "2024-12-05 19:34:02.538 +0530"
+}

@@ -1,0 +1,21 @@
+﻿2024-12-30 10:13:15.526 +0530	START		Running UCMS-WF-FTS-Orders-Scripts-2-Allergies.script
+2024-12-30 10:13:15.867 +0530	Log		MCGH_GA	6	on_ucms_wf_fts_orders_scripts_2_allergies	UCMS-WF-FTS-Orders-Scripts-2-Allergies.script
+2024-12-30 10:13:15.921 +0530	Log		This scripts is used to test the functionalities of Allergies	8	on_ucms_wf_fts_orders_scripts_2_allergies	UCMS-WF-FTS-Orders-Scripts-2-Allergies.script
+2024-12-30 10:13:15.985 +0530	Log		 Click on Add Icon in Powerorders toolbar	12	on_ucms_wf_fts_orders_scripts_2_allergies	UCMS-WF-FTS-Orders-Scripts-2-Allergies.script
+2024-12-30 10:13:16.017 +0530	set		SEARCHRECTANGLE = []	13	on_ucms_wf_fts_orders_scripts_2_allergies	UCMS-WF-FTS-Orders-Scripts-2-Allergies.script
+2024-12-30 10:13:16.163 +0530	waitfor	PowerOrderToolbar	found at (246, 284)	2	on_subopenaddorderwindow	C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script
+2024-12-30 10:13:16.538 +0530	doubleclick	PowerOrderToolbar	at (246, 284)	4	on_subopenaddorderwindow	C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script
+2024-12-30 10:13:16.636 +0530	Log		Type and select the allergies Substance	15	on_ucms_wf_fts_orders_scripts_2_allergies	UCMS-WF-FTS-Orders-Scripts-2-Allergies.script
+2024-12-30 10:13:17.754 +0530	click	Allergies_Flat/Label_Substance_Bold	at (264, 576)	2	on_typesubstancename	C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script
+2024-12-30 10:13:18.705 +0530	typetext		Aspirin	3	on_typesubstancename	C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script
+2024-12-30 10:13:19.447 +0530	typetext		[returnKey]	17	on_ucms_wf_fts_orders_scripts_2_allergies	UCMS-WF-FTS-Orders-Scripts-2-Allergies.script
+2024-12-30 10:13:23.750 +0530	everyimagelocation	Allergies_Flat/Label_Term	found 1 images	3	on_selectsubstanceinsubstancesearchwindow	C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/AllergiesFlat.script
+2024-12-30 10:13:24.143 +0530	LogError		Exception encountered at:  line 4 of selectsubstanceinsubstancesearchwindow (line 27 of AllergiesFlat.script)\ncalled from line 19 of ucms_wf_fts_orders_scripts_2_allergies	52	on_ucms_wf_fts_orders_scripts_2_allergies	UCMS-WF-FTS-Orders-Scripts-2-Allergies.script
+2024-12-30 10:13:24.308 +0530	LogError		Exception Reason:  Invalid operands for addition: expected numbers, dates and/or lists; got '[153,0]' and ''	54	on_ucms_wf_fts_orders_scripts_2_allergies	UCMS-WF-FTS-Orders-Scripts-2-Allergies.script
+2024-12-30 10:13:24.461 +0530	capturescreen	Exception.png		56	on_ucms_wf_fts_orders_scripts_2_allergies	UCMS-WF-FTS-Orders-Scripts-2-Allergies.script
+2024-12-30 10:13:24.594 +0530	typetext		[windowsKey]m	2	on_zerostatecloseallapps	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Cleanup.script
+2024-12-30 10:13:24.652 +0530	Log		Launching task cmd from command line	3	on_launchtaskasadmin	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-12-30 10:13:25.354 +0530	typetext		[windowsKey]r	4	on_openrunwindow	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-12-30 10:13:28.503 +0530	Exception		Searching For Image: OCR Error: Operation was aborted	5	on_openrunwindow	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-12-30 10:13:28.614 +0530	EndTestCase		(Duration:"13.075", Errors:"3", Exceptions:"1", StartTime:"2024-12-30 10:13:15 +0530", Successes:"0", TestCase:"UCMS-WF-FTS-Orders-Scripts-2-Allergies.script", Warnings:"0")
+2024-12-30 10:13:28.628 +0530	ABORTED		Execution Time 0:00:13 UCMS-WF-FTS-Orders-Scripts-2-Allergies.script

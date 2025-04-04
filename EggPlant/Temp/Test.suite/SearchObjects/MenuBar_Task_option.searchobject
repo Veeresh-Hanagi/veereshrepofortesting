@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		13,
+		28,
+		31,
+		19
+	],
+	"lastmodifieddate": 1720606503.3270001,
+	"createddate": 1720606503.3270001,
+	"name": "MenuBar_Task_option",
+	"lastfounddate": 1720670604.7810001,
+	"ocrcapturestring": "Task",
+	"lastfoundlocation": [
+		13,
+		28,
+		31,
+		19
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[15,9]",
+					"Tolerance": "_69",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "MenuBar_Task_option.png",
+				"connectionname": "LAC_CA_M0278",
+				"type": 1,
+				"connectionserverid": "137.252.37.86",
+				"capturerect": [
+					13,
+					28,
+					31,
+					19
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Task"
+			}
+	]
+}

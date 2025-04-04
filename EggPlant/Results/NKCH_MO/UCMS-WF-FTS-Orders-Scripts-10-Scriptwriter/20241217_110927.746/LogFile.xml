@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-17 11:09:27.746 +0530"
+ tests="1"  failures="2" errors="2" time="19.518000">
+  <properties>
+   <property name="RunDate" value="2024-12-17 11:09:27.746 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script" assertions="4" status="error"  time="19.506">
+    <failure type="LogError" message="Exception encountered at:  line 88 of rightclickorderonscratchpadwithaction (line 421 of Popups.script)\ncalled from line 122 of ucms_wf_fts_orders_scripts_10_scriptwriter" />
+    <failure type="LogError" message="Exception Reason:  click Error - Image Property List did not contain &quot;ImageName&quot; property" />
+    <error type="Exception" message="Searching For Image: OCR Error: Operation was aborted" />
+  </testcase>
+ </testsuite>
+</testsuites>

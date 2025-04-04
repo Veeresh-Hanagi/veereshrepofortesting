@@ -1,0 +1,1 @@
+2024-12-17 11:40:09.417 +0530,Failure,0:00:00,1,0,0,20241217_114009.417/LogFile.txt,"","SenseTalk Compiler Exception -- in ucms_wf_fts_orders_scripts_10_scriptwriter:\nSyntax Error at line 433: can't understand [matching close of block comment not found] at character 1",0

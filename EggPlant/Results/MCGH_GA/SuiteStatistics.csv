@@ -1,0 +1,5 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter,Failure,6,6,2024-12-17 11:20:03 +0530,2024-12-17 11:40:09 +0530,0:00:00
+UCMS-WF-FTS-Orders-Scripts-2-Allergies,Success,2,0,2024-12-18 10:47:53 +0530,2024-12-30 10:14:11 +0530,0:13:51
+UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2,Success,1,0,2024-12-18 13:06:55 +0530,2024-12-18 13:06:55 +0530,0:14:04
+UCMS-WF-FTS-Orders-Scripts-3-General-Powerorders-1,Failure,1,1,2024-12-18 13:30:56 +0530,2024-12-18 13:30:56 +0530,0:00:00

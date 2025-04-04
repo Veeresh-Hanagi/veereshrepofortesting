@@ -1,0 +1,6 @@
+﻿2024-07-10 16:56:21.681 +0530	START		Running Untitled.script
+2024-07-10 16:56:21.802 +0530	Log		Launching task Powerchart.exe from command line	3	on_launchtask	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-07-10 16:56:21.876 +0530	typetext		[windowsKey]r	4	on_openrunwindow	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-07-10 16:56:28.459 +0530	Exception		Searching For Image: OCR Error: Operation was aborted	5	on_openrunwindow	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-07-10 16:56:28.516 +0530	EndTestCase		(Duration:"6.828", Errors:"1", Exceptions:"1", StartTime:"2024-07-10 16:56:21 +0530", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2024-07-10 16:56:28.551 +0530	ABORTED		Execution Time 0:00:06 Untitled.script

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		15,
+		191,
+		37,
+		13
+	],
+	"lastmodifieddate": 1720966111.684,
+	"createddate": 1720966111.684,
+	"name": "Label_Menu",
+	"lastfounddate": 1720966662.7220001,
+	"ocrcapturestring": "Menu",
+	"lastfoundlocation": [
+		15,
+		191,
+		37,
+		13
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[18,6]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Label_Menu.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					15,
+					191,
+					37,
+					13
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Menu"
+			}
+	]
+}

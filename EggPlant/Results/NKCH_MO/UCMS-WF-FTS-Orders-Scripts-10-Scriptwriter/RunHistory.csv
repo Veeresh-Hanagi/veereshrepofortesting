@@ -1,0 +1,18 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2024-12-17 10:22:07.516 +0530,"Aborted",0:40:56,1,0,1,"20241217_102207.516/LogFile.txt","","",0
+2024-12-17 11:04:00.809 +0530,"Aborted",0:02:57,3,0,2,"20241217_110400.809/LogFile.txt","","",1
+2024-12-17 11:07:42.876 +0530,"Aborted",0:00:12,3,0,1,"20241217_110742.876/LogFile.txt","","",1
+2024-12-17 11:09:27.746 +0530,"Aborted",0:00:19,3,0,2,"20241217_110927.746/LogFile.txt","","",1
+2024-12-17 11:12:38.686 +0530,"Aborted",0:04:09,4,0,1,"20241217_111238.686/LogFile.txt","","",2
+2024-12-17 11:20:03.426 +0530,"Failure",0:00:00,1,0,0,"20241217_112003.426/LogFile.txt","","SenseTalk Compiler Exception -- in ucms_wf_fts_orders_scripts_10_scriptwriter:\nSyntax Error at line 375: can't understand [end of block comment without matching start] at character 8",0
+2024-12-17 11:20:13.946 +0530,"Aborted",0:02:01,3,2,2,"20241217_112013.946/LogFile.txt","","",2
+2024-12-17 11:25:08.622 +0530,"Aborted",0:11:39,1,3,0,"20241217_112508.622/LogFile.txt","","",0
+2024-12-17 11:36:48.462 +0530,"Aborted",0:02:00,3,3,2,"20241217_113648.462/LogFile.txt","","",2
+2024-12-17 11:39:10.860 +0530,"Failure",0:00:00,1,0,0,"20241217_113910.860/LogFile.txt","","SenseTalk Compiler Exception -- in ucms_wf_fts_orders_scripts_10_scriptwriter:\nSyntax Error at line 376: can't understand [end of block comment without matching start] at character 8",0
+2024-12-17 11:39:21.819 +0530,"Failure",0:00:00,1,0,0,"20241217_113921.819/LogFile.txt","","SenseTalk Compiler Exception -- in ucms_wf_fts_orders_scripts_10_scriptwriter:\nSyntax Error at line 433: can't understand [matching close of block comment not found] at character 1",0
+2024-12-17 11:39:36.900 +0530,"Failure",0:00:00,1,0,0,"20241217_113936.900/LogFile.txt","","SenseTalk Compiler Exception -- in ucms_wf_fts_orders_scripts_10_scriptwriter:\nSyntax Error at line 339: can't understand [matching close of block comment not found] at character 1",0
+2024-12-17 11:39:46.693 +0530,"Failure",0:00:00,1,0,0,"20241217_113946.693/LogFile.txt","","SenseTalk Compiler Exception -- in ucms_wf_fts_orders_scripts_10_scriptwriter:\nSyntax Error at line 339: can't understand [matching close of block comment not found] at character 1",0
+2024-12-17 11:40:09.417 +0530,"Failure",0:00:00,1,0,0,"20241217_114009.417/LogFile.txt","","SenseTalk Compiler Exception -- in ucms_wf_fts_orders_scripts_10_scriptwriter:\nSyntax Error at line 433: can't understand [matching close of block comment not found] at character 1",0
+2024-12-17 11:40:31.131 +0530,"Aborted",0:00:14,3,0,1,"20241217_114031.131/LogFile.txt","","",1
+2024-12-17 11:43:18.644 +0530,"Aborted",0:07:26,3,9,2,"20241217_114318.644/LogFile.txt","","",4
+2024-12-17 11:52:47.388 +0530,"Aborted",0:26:49,2,13,0,"20241217_115247.388/LogFile.txt","","",5

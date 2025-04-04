@@ -1,0 +1,37 @@
+﻿2024-12-18 12:53:16.964 +0530	START		Running UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:17.325 +0530	Log			6	on_ucms_wf_fts_orders_scripts_14_powerplans_2	UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:17.357 +0530	Log		This script is used to test the functionality of Powerplans 2	7	on_ucms_wf_fts_orders_scripts_14_powerplans_2	UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:17.413 +0530	Log		Copy forward plan	9	on_ucms_wf_fts_orders_scripts_14_powerplans_2	UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:17.474 +0530	LogWarning		Functionality is not being used by client	63	on_ucms_wf_fts_orders_scripts_14_powerplans_2	UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:17.532 +0530	Log		Evidence link	79	on_ucms_wf_fts_orders_scripts_14_powerplans_2	UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:17.588 +0530	LogWarning		Functionality is not being used by client	109	on_ucms_wf_fts_orders_scripts_14_powerplans_2	UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:17.652 +0530	Log		Rx in Plan	125	on_ucms_wf_fts_orders_scripts_14_powerplans_2	UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:17.721 +0530	LogWarning		Functionality is not being used by client	193	on_ucms_wf_fts_orders_scripts_14_powerplans_2	UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:17.783 +0530	Log		Future Initiate Powerplan Functionality	209	on_ucms_wf_fts_orders_scripts_14_powerplans_2	UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:17.851 +0530	LogWarning		Functionality is not being used by client	322	on_ucms_wf_fts_orders_scripts_14_powerplans_2	UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:17.920 +0530	Log		Sequenced Powerplan	338	on_ucms_wf_fts_orders_scripts_14_powerplans_2	UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:17.995 +0530	LogWarning		Functionality is not being used by client	371	on_ucms_wf_fts_orders_scripts_14_powerplans_2	UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:18.136 +0530	Log		Diagnosis Propogation	386	on_ucms_wf_fts_orders_scripts_14_powerplans_2	UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:18.220 +0530	Log		Sequence Plan	388	on_ucms_wf_fts_orders_scripts_14_powerplans_2	UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:18.254 +0530	Log		 Click on Add Icon in Powerorders toolbar	389	on_ucms_wf_fts_orders_scripts_14_powerplans_2	UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:18.398 +0530	waitfor	PowerOrderToolbar	found at (246, 228)	2	on_subopenaddorderwindow	C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script
+2024-12-18 12:53:18.691 +0530	doubleclick	PowerOrderToolbar	at (246, 228)	4	on_subopenaddorderwindow	C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script
+2024-12-18 12:53:18.796 +0530	Log		Select the Patient Type	392	on_ucms_wf_fts_orders_scripts_14_powerplans_2	UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:20.168 +0530	waitfor	AddOrderWindow/DropDown_OrderType	found at (904, 112)	4	on_subaddorderselectordertype	C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script
+2024-12-18 12:53:20.248 +0530	imagerectangle	AddOrderWindow/DropDown_OrderType	at [768,103,800,129]	5	on_subaddorderselectordertype	C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script
+2024-12-18 12:53:20.264 +0530	imagerectangle	AddOrderWindow/DropDown_OrderType	at [768,103,800,129]	5	on_subaddorderselectordertype	C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script
+2024-12-18 12:53:20.267 +0530	set		SEARCHRECTANGLE = [[763,98],[1200,329]]	5	on_subaddorderselectordertype	C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script
+2024-12-18 12:53:20.337 +0530	imagerectangle	AddOrderWindow/DropDown_OrderType	at [768,103,800,129]	6	on_subaddorderselectordertype	C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script
+2024-12-18 12:53:20.448 +0530	click		at (900, 116)	6	on_subaddorderselectordertype	C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script
+2024-12-18 12:53:21.514 +0530	typetext		Inpatient[returnKey]	8	on_subaddorderselectordertype	C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script
+2024-12-18 12:53:21.564 +0530	set		SEARCHRECTANGLE = []	10	on_subaddorderselectordertype	C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script
+2024-12-18 12:53:22.263 +0530	typetext		[tab]	11	on_subaddorderselectordertype	C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script
+2024-12-18 12:53:22.518 +0530	LogError		Exception encountered at:  line 395 of ucms_wf_fts_orders_scripts_14_powerplans_2	423	on_ucms_wf_fts_orders_scripts_14_powerplans_2	UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:22.620 +0530	LogError		Exception Reason:  ERROR: No Such Command: 'subsearchansdselectorder'	425	on_ucms_wf_fts_orders_scripts_14_powerplans_2	UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:22.725 +0530	capturescreen	Exception.png		427	on_ucms_wf_fts_orders_scripts_14_powerplans_2	UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script
+2024-12-18 12:53:23.020 +0530	typetext		[windowsKey]m	2	on_zerostatecloseallapps	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Cleanup.script
+2024-12-18 12:53:23.076 +0530	Log		Launching task cmd from command line	3	on_launchtaskasadmin	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-12-18 12:53:23.779 +0530	typetext		[windowsKey]r	4	on_openrunwindow	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-12-18 12:53:23.890 +0530	Exception		Searching For Image: OCR Error: Operation was aborted	5	on_openrunwindow	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-12-18 12:53:24.077 +0530	EndTestCase		(Duration:"7.103", Errors:"3", Exceptions:"1", StartTime:"2024-12-18 12:53:16 +0530", Successes:"0", TestCase:"UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script", Warnings:"5")
+2024-12-18 12:53:24.087 +0530	ABORTED		Execution Time 0:00:07 UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script

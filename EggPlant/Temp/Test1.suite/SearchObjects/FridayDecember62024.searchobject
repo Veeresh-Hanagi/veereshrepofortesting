@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		445,
+		405,
+		281,
+		29
+	],
+	"lastmodifieddate": 1733380392.4650002,
+	"createddate": 1733380392.4650002,
+	"name": "FridayDecember62024",
+	"lastfounddate": 1733380393.572,
+	"ocrcapturestring": "Friday. December 6. 2024",
+	"lastfoundlocation": [
+		445,
+		405,
+		281,
+		29
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[140,14]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "FridayDecember62024.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					445,
+					405,
+					281,
+					29
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Friday. December 6. 2024"
+			}
+	]
+}

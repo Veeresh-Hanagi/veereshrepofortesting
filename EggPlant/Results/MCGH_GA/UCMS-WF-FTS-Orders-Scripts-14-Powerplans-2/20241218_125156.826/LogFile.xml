@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-18 12:51:56.826 +0530"
+ tests="1"  failures="2" errors="1" time="13.158000">
+  <properties>
+   <property name="RunDate" value="2024-12-18 12:51:56.826 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script" assertions="3" status="error"  time="13.144">
+    <failure type="LogError" message="Exception encountered at:  line 395 of ucms_wf_fts_orders_scripts_14_powerplans_2" />
+    <failure type="LogError" message="Exception Reason:  ERROR: No Such Command: &apos;subsearchansdselectorder&apos;" />
+    <error type="Exception" message="Searching For Image: OCR Error: Operation was aborted" />
+  </testcase>
+ </testsuite>
+</testsuites>

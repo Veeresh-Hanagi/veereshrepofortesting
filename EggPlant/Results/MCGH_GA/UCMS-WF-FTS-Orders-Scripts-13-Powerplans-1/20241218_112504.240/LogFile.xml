@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-13-Powerplans-1_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-18 11:25:04.240 +0530"
+ tests="1"  failures="2" errors="0" time="3813.977000">
+  <properties>
+   <property name="RunDate" value="2024-12-18 11:25:04.240 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-13-Powerplans-1.script" assertions="7" status="failure"  time="3813.959">
+    <failure type="LogError" message="Exception encountered at:  line 21 of subrightoncomponentonscratchpad (line 102 of Actions.script)\ncalled from line 521 of ucms_wf_fts_orders_scripts_13_powerplans_1" />
+    <failure type="LogError" message="Exception Reason:  Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got &apos;&apos;." />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		155,
+		46,
+		48,
+		21
+	],
+	"lastmodifieddate": 1720595791.5539999,
+	"createddate": 1720595791.5539999,
+	"name": "Patient_DropDown_Search_option",
+	"lastfounddate": 1721104947.529,
+	"ocrcapturestring": "Search",
+	"lastfoundlocation": [
+		155,
+		46,
+		48,
+		21
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[24,10]",
+					"Tolerance": "_50",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Patient_DropDown_Search_option.png",
+				"connectionname": "LAC_CA_M0278",
+				"type": 1,
+				"connectionserverid": "137.252.37.86",
+				"capturerect": [
+					155,
+					46,
+					48,
+					21
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Search"
+			}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"identifier": "START",
+				"timestamp": "2024-12-30 10:40:45.963 +0530"
+			},
+		{
+				"message": "(Duration:\"0.131\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-12-30 10:40:45 +0530\", Successes:\"0\", TestCase:\"UCMS-WF-FTS-Orders-Scripts-2-Allergies.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-12-30 10:40:46.100 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Invalid JSON: Can't get value of JSON expression -- Execution Time 0:00:00 UCMS-WF-FTS-Orders-Scripts-2-Allergies.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-12-30 10:40:46.231 +0530"
+			}
+	],
+	"createdTimestamp": "2024-12-30 10:40:45.965 +0530"
+}

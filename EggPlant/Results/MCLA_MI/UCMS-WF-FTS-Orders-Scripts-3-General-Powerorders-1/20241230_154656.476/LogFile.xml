@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-3-General-Powerorders-1_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-30 15:46:56.476 +0530"
+ tests="1"  failures="0" errors="0" time="2435.695000">
+  <properties>
+   <property name="RunDate" value="2024-12-30 15:46:56.476 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-3-General-Powerorders-1.script" assertions="3" status="failure"  time="2435.664">
+    <failure type="FAILURE" message="See main script" />
+  </testcase>
+ </testsuite>
+</testsuites>

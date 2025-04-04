@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Untitled_script" package="Test.suite" timestamp="2024-07-10 16:38:04.671 +0530"
+ tests="1"  failures="1" errors="1" time="59.929000">
+  <properties>
+   <property name="RunDate" value="2024-07-10 16:38:04.671 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Untitled.script" assertions="1" status="error"  time="59.914">
+    <failure type="FAILURE" message="Image Not Found: click Error - No Image Found On Screen: &quot;Patient_DropDown_Search_option&quot; -- Execution Time 0:00:59 Untitled.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;Patient_DropDown_Search_option&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

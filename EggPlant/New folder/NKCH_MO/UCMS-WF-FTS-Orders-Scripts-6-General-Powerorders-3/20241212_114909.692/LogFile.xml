@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-6-General-Powerorders-3_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-12 11:49:09.692 +0530"
+ tests="1"  failures="2" errors="2" time="91.064000">
+  <properties>
+   <property name="RunDate" value="2024-12-12 11:49:09.692 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-6-General-Powerorders-3.script" assertions="4" status="error"  time="91.051">
+    <failure type="LogError" message="Exception encountered at:  line 88 of rightclickorderonscratchpadwithaction (line 421 of Popups.script)\ncalled from line 76 of funvalidateorderstatusonprofileandrightclickonorder (line 80 of ScratchPadValidations.script)\ncalled from line 14 of ucms_wf_fts_orders_scripts_6_general_powerorders_3" />
+    <failure type="LogError" message="Exception Reason:  click Error - Image Property List did not contain &quot;ImageName&quot; property" />
+    <error type="Exception" message="Searching For Image: OCR Error: Operation was aborted" />
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		225,
+		221,
+		15,
+		17
+	],
+	"lastmodifieddate": 1720965857.7480001,
+	"createddate": 1720965857.7480001,
+	"name": "add",
+	"lastfounddate": 1720966054.507,
+	"ocrcapturestring": "Hr",
+	"lastfoundlocation": [
+		225,
+		221,
+		15,
+		17
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[27,10]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "add.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					225,
+					221,
+					15,
+					17
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Hr"
+			}
+	]
+}

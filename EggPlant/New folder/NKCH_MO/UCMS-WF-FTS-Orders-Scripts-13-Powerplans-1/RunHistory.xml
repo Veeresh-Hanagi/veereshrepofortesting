@@ -1,0 +1,545 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="UCMS-WF-FTS-Orders-Scripts-13-Powerplans-1">
+ <run>
+  <RunDate>2024-11-20 15:45:26.038 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>188.789000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241120_154526.038/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-20 16:46:35.919 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>688.265000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241120_164635.919/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-20 16:58:06.387 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>130.006000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20241120_165806.387/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-20 17:26:17.777 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.289000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241120_172617.777/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;t&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-20 17:26:44.537 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.015000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241120_172644.537/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in ucms_wf_fts_orders_scripts_13_powerplans_1:
+Syntax Error at line 181: can&#x27;t understand [end of block comment without matching start] at character 8</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-20 17:27:03.390 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.011000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241120_172703.390/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>SenseTalk Compiler Exception -- in ucms_wf_fts_orders_scripts_13_powerplans_1:
+Syntax Error at line 181: can&#x27;t understand [end of block comment without matching start] at character 8</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-20 17:27:32.562 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>290.114000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241120_172732.562/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-20 17:32:42.309 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>805.628000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241120_173242.309/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-20 17:46:46.955 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>338.799000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241120_174646.955/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-20 17:53:00.692 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>13.795000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241120_175300.692/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-20 17:54:14.897 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>38.764000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241120_175414.897/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-20 17:55:30.079 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>14.556000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241120_175530.079/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-20 17:57:28.146 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>11.088000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241120_175728.146/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-20 17:58:51.354 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>24.112000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241120_175851.354/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-20 18:01:39.027 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>12.161000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241120_180139.027/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-20 18:16:39.696 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>79.106000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241120_181639.696/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-21 10:02:07.385 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>411.970000</Duration>
+  <Errors>3</Errors>
+  <Warnings>3</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241121_100207.385/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-21 10:10:55.844 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>57.102000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241121_101055.844/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-21 10:12:31.487 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>42.344000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241121_101231.487/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-21 10:13:24.419 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>11.792000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241121_101324.419/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-21 10:19:11.364 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>18.537000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241121_101911.364/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-21 10:22:13.025 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>69.528000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241121_102213.025/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-21 10:25:03.154 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>68.558000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241121_102503.154/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-21 10:27:07.904 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>75.543000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241121_102707.904/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-21 10:29:06.000 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>132.252000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20241121_102906.000/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-21 10:36:47.233 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>106.807000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241121_103647.233/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-21 10:38:58.141 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>1792.137000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241121_103858.141/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-21 11:31:30.298 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>117.675000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241121_113130.298/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-21 11:34:34.570 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>615.319000</Duration>
+  <Errors>3</Errors>
+  <Warnings>4</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241121_113434.570/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- typetext Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-21 11:49:53.115 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>11.862000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241121_114953.115/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-21 11:50:36.766 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>1718.345000</Duration>
+  <Errors>1</Errors>
+  <Warnings>8</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241121_115036.766/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-25 19:37:18.989 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>22.133000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241125_193718.989/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-25 19:38:10.281 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>1.247000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241125_193810.281/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-25 19:38:41.841 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>1007.892000</Duration>
+  <Errors>3</Errors>
+  <Warnings>4</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241125_193841.841/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-25 19:58:45.925 +0530</RunDate>
+  <Status>Success</Status>
+  <Duration>1703.844000</Duration>
+  <Errors>0</Errors>
+  <Warnings>10</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20241125_195845.925/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-25 20:29:07.065 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>59.588000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241125_202907.065/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-25 20:30:35.241 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>28.586000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241125_203035.241/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-25 21:06:45.483 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>119.531000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241125_210645.483/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 09:43:54.619 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>99.625000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241126_094354.619/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 09:46:54.236 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>471.395000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241126_094654.236/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 09:54:49.801 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>13.285000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241126_095449.801/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 09:57:59.008 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>95.353000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241126_095759.008/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 10:10:37.299 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>173.339000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241126_101037.299/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 10:18:46.544 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>388.553000</Duration>
+  <Errors>3</Errors>
+  <Warnings>1</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241126_101846.544/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-12 11:55:23.311 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.307000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241212_115523.311/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Invalid JSON -- Can&#x27;t get value of JSON expression</ErrorMessage>
+ </run>
+</runHistory>

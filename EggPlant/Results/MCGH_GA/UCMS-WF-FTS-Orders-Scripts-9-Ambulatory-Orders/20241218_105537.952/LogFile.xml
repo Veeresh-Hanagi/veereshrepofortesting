@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-18 10:55:37.952 +0530"
+ tests="1"  failures="2" errors="1" time="1695.594000">
+  <properties>
+   <property name="RunDate" value="2024-12-18 10:55:37.952 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script" assertions="7" status="error"  time="1695.58">
+    <failure type="LogError" message="Exception encountered at:  line 88 of rightclickorderonscratchpadwithaction (line 421 of Popups.script)\ncalled from line 207 of ucms_wf_fts_orders_scripts_9_ambulatory_orders" />
+    <failure type="LogError" message="Exception Reason:  click Error - No Text Found On Screen: &quot;(TEXT:&quot;False&quot;)&quot;. Text not found.  Restricted Search Rectangle ((927,456),(1811,1065))\n" />
+    <error type="Exception" message="No Text Found On Screen: &quot;(TEXT:&quot;False&quot;)&quot;. Text not found." />
+  </testcase>
+ </testsuite>
+</testsuites>

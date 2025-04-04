@@ -1,0 +1,47 @@
+{
+	"entries": [
+		{
+				"message": "Running Untitled1.script",
+				"identifier": "START",
+				"timestamp": "2024-09-10 14:34:50.446 +0530"
+			},
+		{
+				"handlerName": "on_untitled1",
+				"timestamp": "2024-09-10 14:34:50.647 +0530",
+				"scriptName": "Untitled1.script",
+				"message": "at (34, 290)",
+				"image": "Menu",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_untitled1",
+				"timestamp": "2024-09-10 14:34:52.224 +0530",
+				"message": "Ambulatory Nursing Workflow",
+				"scriptName": "Untitled1.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_untitled1",
+				"timestamp": "2024-09-10 14:34:52.239 +0530",
+				"scriptName": "Untitled1.script",
+				"message": "Could Not Open Image: ",
+				"image": "",
+				"handlerLine": 3,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"5.636\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-09-10 14:34:50 +0530\", Successes:\"0\", TestCase:\"Untitled1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-09-10 14:34:56.086 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "File Not Found: click Error - Could Not Open Image:  -- Execution Time 0:00:05 Untitled1.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-09-10 14:34:56.184 +0530"
+			}
+	],
+	"createdTimestamp": "2024-09-10 14:34:50.448 +0530"
+}

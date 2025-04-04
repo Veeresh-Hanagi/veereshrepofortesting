@@ -1,0 +1,310 @@
+{
+	"entries": [
+		{
+				"message": "Running UCMS-WF-FTS-Orders-Scripts-11-MAW.script",
+				"identifier": "START",
+				"timestamp": "2024-12-17 12:20:14.889 +0530"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_11_maw",
+				"timestamp": "2024-12-17 12:20:15.229 +0530",
+				"message": "NKCMH_MO",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-11-MAW.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_11_maw",
+				"timestamp": "2024-12-17 12:20:15.239 +0530",
+				"message": "Medication Administration Wizard Functionalities",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-11-MAW.script",
+				"handlerLine": 7,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_11_maw",
+				"timestamp": "2024-12-17 12:20:15.249 +0530",
+				"message": "Step1 Login to Powerchart and Search for Patient and select the orders Tab",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-11-MAW.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_11_maw",
+				"timestamp": "2024-12-17 12:20:15.260 +0530",
+				"message": "Check if Order is present in Orders scratchpad, if Order exists chart the order in MAW",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-11-MAW.script",
+				"handlerLine": 13,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_11_maw",
+				"timestamp": "2024-12-17 12:20:15.284 +0530",
+				"message": "Chart IV order in MAW",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-11-MAW.script",
+				"handlerLine": 16,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_11_maw",
+				"timestamp": "2024-12-17 12:20:15.305 +0530",
+				"message": "Chart IV Order in MAW",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-11-MAW.script",
+				"handlerLine": 18,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_11_maw",
+				"timestamp": "2024-12-17 12:20:15.316 +0530",
+				"message": "Launch MAW and Right click on the order then select chart details",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-11-MAW.script",
+				"handlerLine": 19,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_chart_med_in_maw",
+				"timestamp": "2024-12-17 12:20:15.488 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/MAW.script",
+				"message": "at (205, 36)",
+				"image": "AddOrderWindow/PatientToolbar/ToolbarChartWindow",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_chart_med_in_maw",
+				"timestamp": "2024-12-17 12:20:16.244 +0530",
+				"message": "[controlKey][endKey]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/MAW.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_chart_med_in_maw",
+				"timestamp": "2024-12-17 12:22:46.734 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/MAW.script",
+				"message": "at (304, 706)",
+				"image": "AddOrderWindow/PatientToolbar/label_MedicationAdministrationWizard",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_associationerror",
+				"timestamp": "2024-12-17 12:22:51.847 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image PopUps/Window_Association_Error",
+				"image": "PopUps/Window_Association_Error",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_chart_med_in_maw",
+				"timestamp": "2024-12-17 12:22:53.687 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/MAW.script",
+				"message": "found at (1412, 782)",
+				"image": "AddOrderWindow/MAW",
+				"handlerLine": 6,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_chart_med_in_maw",
+				"timestamp": "2024-12-17 12:22:54.072 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/MAW.script",
+				"message": "at (1412, 782)",
+				"image": "AddOrderWindow/MAW",
+				"handlerLine": 7,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_chart_med_in_maw",
+				"timestamp": "2024-12-17 12:22:57.252 +0530",
+				"message": "SEARCHRECTANGLE = [\"AddOrderWindow/Overide_in_MAW/Label_Overide_reason_MAW\",\"AddOrderWindow/Overide_in_MAW/Label_Overide_reason1_MAW\"]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/MAW.script",
+				"handlerLine": 8,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_chart_med_in_maw",
+				"timestamp": "2024-12-17 12:22:57.578 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/MAW.script",
+				"message": "at (1080, 504)",
+				"image": "AddOrderWindow/Overide_in_MAW/Overide_reason_dropdown_MAW",
+				"handlerLine": 10,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_chart_med_in_maw",
+				"timestamp": "2024-12-17 12:22:58.315 +0530",
+				"message": "[downArrow]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/MAW.script",
+				"handlerLine": 11,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_chart_med_in_maw",
+				"timestamp": "2024-12-17 12:22:59.054 +0530",
+				"message": "[returnKey]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/MAW.script",
+				"handlerLine": 12,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_chart_med_in_maw",
+				"timestamp": "2024-12-17 12:22:59.896 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/MAW.script",
+				"message": "at (972, 625)",
+				"image": "AddOrderWindow/Overide_in_MAW/Button_Overide_Yes_MAW",
+				"handlerLine": 13,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_chart_med_in_maw",
+				"timestamp": "2024-12-17 12:22:59.905 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/MAW.script",
+				"handlerLine": 14,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_chart_med_in_maw",
+				"timestamp": "2024-12-17 12:23:29.941 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/MAW.script",
+				"message": "Unable to Find Image AddOrderWindow/MAW/Label_MAW_DateRange_Banner",
+				"image": "AddOrderWindow/MAW/Label_MAW_DateRange_Banner",
+				"handlerLine": 17,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_associationerror",
+				"timestamp": "2024-12-17 12:23:35.005 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Popups.script",
+				"message": "Unable to Find Image PopUps/Window_Association_Error",
+				"image": "PopUps/Window_Association_Error",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_11_maw",
+				"timestamp": "2024-12-17 12:23:35.039 +0530",
+				"message": "Enter the details in IV Charting window",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-11-MAW.script",
+				"handlerLine": 21,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_chart_iv_maw",
+				"timestamp": "2024-12-17 12:23:35.116 +0530",
+				"message": "SEARCHRECTANGLE = [\"AddOrderWindow/MAW/MAWCharting/SearchrectangleinMAW_E\",\"AddOrderWindow/MAW/MAWCharting/SearchrectangleinMAWD\"]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/MAW.script",
+				"handlerLine": 2,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_chart_iv_maw",
+				"timestamp": "2024-12-17 12:23:37.142 +0530",
+				"message": "Image Property List did not contain \"ImageName\" property",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/MAW.script",
+				"handlerLine": 4,
+				"identifier": "Exception"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_11_maw",
+				"timestamp": "2024-12-17 12:23:37.237 +0530",
+				"message": "Exception encountered at:  line 4 of chart_iv_maw (line 93 of MAW.script)\\ncalled from line 22 of ucms_wf_fts_orders_scripts_11_maw",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-11-MAW.script",
+				"handlerLine": 28,
+				"identifier": "LogError"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_11_maw",
+				"timestamp": "2024-12-17 12:23:37.318 +0530",
+				"message": "Exception Reason:  imagefound Error - Image Property List did not contain \"ImageName\" property  Restricted Search Rectangle ((680,349),(1133,792))\\n",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-11-MAW.script",
+				"handlerLine": 30,
+				"identifier": "LogError"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_11_maw",
+				"timestamp": "2024-12-17 12:23:37.392 +0530",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-11-MAW.script",
+				"image": "Exception.png",
+				"handlerLine": 32,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_zerostatecloseallapps",
+				"timestamp": "2024-12-17 12:23:37.472 +0530",
+				"message": "[windowsKey]m",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Cleanup.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchtaskasadmin",
+				"timestamp": "2024-12-17 12:23:37.494 +0530",
+				"message": "Launching task cmd from command line",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_openrunwindow",
+				"timestamp": "2024-12-17 12:23:38.229 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openrunwindow",
+				"timestamp": "2024-12-17 12:23:39.897 +0530",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"message": "found at (238, 877)",
+				"image": "(TEXT:\"Open\")",
+				"handlerLine": 5,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_launchtaskasadmin",
+				"timestamp": "2024-12-17 12:23:40.065 +0530",
+				"message": "cmd",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchtaskasadmin",
+				"timestamp": "2024-12-17 12:23:40.841 +0530",
+				"message": "[controlKey][shiftKey][returnKey]",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "function_screenpart",
+				"timestamp": "2024-12-17 12:23:40.883 +0530",
+				"message": "Calculating center  area for connected SUT",
+				"scriptName": "C:/EggPlant/IPDEV-Utilities-Shared/Utilities-Shared.suite/Scripts/UTIL/Screen.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_launchtaskasadmin",
+				"timestamp": "2024-12-17 12:23:43.381 +0530",
+				"message": "Searching For Image: OCR Error: Operation was aborted",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 7,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"208.559\", Errors:\"3\", Exceptions:\"2\", StartTime:\"2024-12-17 12:20:14 +0530\", Successes:\"0\", TestCase:\"UCMS-WF-FTS-Orders-Scripts-11-MAW.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-12-17 12:23:43.455 +0530"
+			},
+		{
+				"message": "Execution Time 0:03:28 UCMS-WF-FTS-Orders-Scripts-11-MAW.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-12-17 12:23:43.468 +0530"
+			}
+	],
+	"createdTimestamp": "2024-12-17 12:20:14.892 +0530"
+}

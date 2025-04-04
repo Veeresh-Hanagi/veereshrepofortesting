@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-11-MAW_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-17 12:20:14.882 +0530"
+ tests="1"  failures="2" errors="2" time="208.572000">
+  <properties>
+   <property name="RunDate" value="2024-12-17 12:20:14.882 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-11-MAW.script" assertions="3" status="error"  time="208.559">
+    <failure type="LogError" message="Exception encountered at:  line 4 of chart_iv_maw (line 93 of MAW.script)\ncalled from line 22 of ucms_wf_fts_orders_scripts_11_maw" />
+    <failure type="LogError" message="Exception Reason:  imagefound Error - Image Property List did not contain &quot;ImageName&quot; property  Restricted Search Rectangle ((680,349),(1133,792))\n" />
+    <error type="Exception" message="Searching For Image: OCR Error: Operation was aborted" />
+  </testcase>
+ </testsuite>
+</testsuites>

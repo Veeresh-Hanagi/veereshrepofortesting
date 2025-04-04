@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		15,
+		281,
+		41,
+		20
+	],
+	"lastmodifieddate": 1725959011.5339999,
+	"createddate": 1725958735.237,
+	"name": "Menu",
+	"lastfounddate": 1725967286.089,
+	"ocrcapturestring": "Menu",
+	"lastfoundlocation": [
+		15,
+		128,
+		41,
+		20
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[20,10]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Menu/Menu.png",
+				"connectionname": "Trum_Mo_C",
+				"type": 1,
+				"connectionserverid": "170.71.184.70",
+				"capturerect": [
+					15,
+					281,
+					41,
+					20
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Menu"
+			}
+	]
+}

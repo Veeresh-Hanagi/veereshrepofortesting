@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-3-General-Powerorders-1_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-30 15:31:46.107 +0530"
+ tests="1"  failures="2" errors="2" time="759.954000">
+  <properties>
+   <property name="RunDate" value="2024-12-30 15:31:46.107 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-3-General-Powerorders-1.script" assertions="5" status="error"  time="759.929">
+    <failure type="LogError" message="Exception encountered at:  line 49 of reschedule_task_current_project (line 51 of RescheduleTaskTimes.script)\ncalled from line 140 of ucms_wf_fts_orders_scripts_3_general_powerorders_1" />
+    <failure type="LogError" message="Exception Reason:  waitfor Error - Unable To Find Any Image On Screen &quot;Plugin/NextAdministartionCheckbox&quot; within 5.00 seconds" />
+    <error type="Exception" message="Searching For Image: OCR Error: Operation was aborted" />
+  </testcase>
+ </testsuite>
+</testsuites>

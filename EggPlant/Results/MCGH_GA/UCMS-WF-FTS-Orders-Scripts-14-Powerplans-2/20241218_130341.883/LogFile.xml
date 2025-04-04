@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-18 13:03:41.883 +0530"
+ tests="1"  failures="2" errors="2" time="179.691000">
+  <properties>
+   <property name="RunDate" value="2024-12-18 13:03:41.883 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script" assertions="3" status="error"  time="179.665">
+    <failure type="LogError" message="Exception encountered at:  line 11 of selectstrdiagnosisplan (line 325 of Powerplans.script)\ncalled from line 4 of strdiagnosispropogation (line 381 of Powerplans.script)\ncalled from line 412 of ucms_wf_fts_orders_scripts_14_powerplans_2" />
+    <failure type="LogError" message="Exception Reason:  click Error - No Text Found On Screen: &quot;(TEXT:&quot;senna oral solid&quot;)&quot;. Text not found.  Restricted Search Rectangle ((239,165),(751,604))\n" />
+    <error type="Exception" message="Searching For Image: OCR Error: Operation was aborted" />
+  </testcase>
+ </testsuite>
+</testsuites>

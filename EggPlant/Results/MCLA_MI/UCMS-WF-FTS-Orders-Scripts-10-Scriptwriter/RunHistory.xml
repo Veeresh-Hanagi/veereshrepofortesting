@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter">
+ <run>
+  <RunDate>2024-12-30 11:22:27.820 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>10.793000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241230_112227.820/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-30 11:25:08.318 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>1832.320000</Duration>
+  <Errors>3</Errors>
+  <Warnings>5</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20241230_112508.318/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

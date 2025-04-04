@@ -1,0 +1,25 @@
+﻿2024-07-10 13:07:40.281 +0530	START		Running Untitled.script
+2024-07-10 13:07:40.353 +0530	Log		Launching task Powerchart.exe from command line	3	on_launchtask	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-07-10 13:07:40.418 +0530	typetext		[windowsKey]r	4	on_openrunwindow	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-07-10 13:07:41.009 +0530	imagefound	(TEXT:"Open")	found at (238, 876)	5	on_openrunwindow	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-07-10 13:07:41.590 +0530	typetext		Powerchart.exe[returnKey]	5	on_launchtask	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-07-10 13:07:41.614 +0530	Log		Attempting Login into Millennium Applcation	2	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 13:07:43.218 +0530	waitfor	MIL/Millennium/Logo_Login_Popover	found #5 at (970, 392)	3	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 13:07:43.310 +0530	imagefound	MIL/Millennium/Logo_Username	found at (909, 445)	4	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 13:07:43.430 +0530	click		at (909, 465)	6	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 13:07:44.180 +0530	typetext		[controlKey]a	9	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 13:07:44.927 +0530	typetext		[backspace]	10	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 13:07:45.925 +0530	typetext		rs091347b	12	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 13:07:46.673 +0530	typetext		[tab]	13	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 13:07:46.678 +0530	Log		Entering password	21	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 13:07:47.670 +0530	typehiddentext		********	22	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 13:07:48.416 +0530	typetext		[tab]	24	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 13:07:49.167 +0530	typetext		[returnKey]	31	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 13:07:59.332 +0530	imagefound	(TEXT:"Acknowledge")	Unable to Find Image (TEXT:"Acknowledge") within 10.00 seconds. Text not found.	34	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 13:08:01.859 +0530	Log		Millennium login page has been dismissed.	9	function_islogindismissed	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 13:08:01.909 +0530	typetext		[return]	15	on_untitled	Untitled.script
+2024-07-10 13:08:05.462 +0530	waitfor	MenuBar_Patient_DropDown	found at (158, 37)	16	on_untitled	Untitled.script
+2024-07-10 13:08:05.586 +0530	click	MenuBar_Patient_DropDown	at (158, 37)	17	on_untitled	Untitled.script
+2024-07-10 13:08:43.703 +0530	Exception	Patient_DropDown_Search_option	No Image Found On Screen: "Patient_DropDown_Search_option"	21	on_untitled	Untitled.script
+2024-07-10 13:08:43.831 +0530	EndTestCase		(Duration:"63.545", Errors:"1", Exceptions:"1", StartTime:"2024-07-10 13:07:40 +0530", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2024-07-10 13:08:43.837 +0530	ABORTED		Execution Time 0:01:03 Untitled.script

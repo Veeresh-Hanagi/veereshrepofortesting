@@ -1,0 +1,46 @@
+{
+	"lastmodifieddate": 1725964050.056,
+	"lastfoundlocation": [
+		229,
+		160,
+		25,
+		19
+	],
+	"originalcapturelocation": [
+		229,
+		160,
+		25,
+		19
+	],
+	"createddate": 1725964050.056,
+	"lastfounddate": 1725964050.9860001,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[-2,-4]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "TL_LookUp.png",
+				"connectionname": "Trum_Mo_C",
+				"type": 1,
+				"capturerect": [
+					229,
+					160,
+					25,
+					19
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "170.71.184.70"
+			}
+	],
+	"name": "TL_LookUp"
+}

@@ -1,0 +1,3 @@
+﻿2024-12-17 11:39:21.824 +0530	START		Running UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script
+2024-12-17 11:39:21.831 +0530	EndTestCase		(Duration:"0.001", Errors:"1", Exceptions:"0", StartTime:"2024-12-17 11:39:21 +0530", Successes:"0", TestCase:"UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script", Warnings:"0")
+2024-12-17 11:39:21.973 +0530	FAILURE	Screen_Error.png	SenseTalk Compiler Exception: in ucms_wf_fts_orders_scripts_10_scriptwriter:\nSyntax Error at line 433: can't understand [matching close of block comment not found] at character 1 -- Execution Time 0:00:00 UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script

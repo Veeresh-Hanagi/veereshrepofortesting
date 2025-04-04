@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		491,
+		158,
+		48,
+		13
+	],
+	"lastmodifieddate": 1720962992.138,
+	"createddate": 1720962992.138,
+	"name": "Label_Search_Diagnoses",
+	"lastfounddate": 1721105150.7020001,
+	"ocrcapturestring": "’Search:",
+	"lastfoundlocation": [
+		492,
+		159,
+		48,
+		13
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[91,4]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Label_Search_Diagnoses.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					491,
+					158,
+					48,
+					13
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "’Search:"
+			}
+	]
+}

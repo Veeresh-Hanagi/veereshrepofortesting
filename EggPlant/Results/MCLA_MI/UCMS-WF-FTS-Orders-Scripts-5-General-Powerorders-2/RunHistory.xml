@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="UCMS-WF-FTS-Orders-Scripts-5-General-Powerorders-2">
+ <run>
+  <RunDate>2024-12-30 17:20:07.980 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>3856.360000</Duration>
+  <Errors>3</Errors>
+  <Warnings>30</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241230_172007.980/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

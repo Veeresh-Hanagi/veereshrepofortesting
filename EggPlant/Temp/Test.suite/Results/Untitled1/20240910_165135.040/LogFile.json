@@ -1,0 +1,71 @@
+{
+	"entries": [
+		{
+				"message": "Running Untitled1.script",
+				"identifier": "START",
+				"timestamp": "2024-09-10 16:51:35.079 +0530"
+			},
+		{
+				"handlerName": "on_untitled1",
+				"timestamp": "2024-09-10 16:51:35.540 +0530",
+				"scriptName": "Untitled1.script",
+				"message": "at (34, 137)",
+				"image": "Menu",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_untitled1",
+				"timestamp": "2024-09-10 16:51:37.148 +0530",
+				"message": "Ambulatory Nursing Workflow",
+				"scriptName": "Untitled1.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_untitled1",
+				"timestamp": "2024-09-10 16:51:42.196 +0530",
+				"message": "[returnKey]",
+				"scriptName": "Untitled1.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_untitled1",
+				"timestamp": "2024-09-10 16:51:42.928 +0530",
+				"scriptName": "Untitled1.script",
+				"message": "at (233, 135)",
+				"image": "Icon_Arrow_SRTL",
+				"handlerLine": 7,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_untitled1",
+				"timestamp": "2024-09-10 16:51:48.186 +0530",
+				"scriptName": "Untitled1.script",
+				"message": "at (1658, 1030)",
+				"image": "(TEXT:\"C275\")",
+				"handlerLine": 7,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_untitled1",
+				"timestamp": "2024-09-10 16:51:48.192 +0530",
+				"message": "SEARCHRECTANGLE = [[243,145],[1608,1130]]",
+				"scriptName": "Untitled1.script",
+				"handlerLine": 7,
+				"identifier": "set"
+			},
+		{
+				"message": "(Duration:\"14.017\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-09-10 16:51:35 +0530\", Successes:\"1\", TestCase:\"Untitled1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-09-10 16:51:49.104 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:14 Untitled1.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-09-10 16:51:49.349 +0530"
+			}
+	],
+	"createdTimestamp": "2024-09-10 16:51:35.086 +0530"
+}

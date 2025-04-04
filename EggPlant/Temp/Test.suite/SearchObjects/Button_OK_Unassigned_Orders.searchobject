@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		592,
+		441,
+		47,
+		18
+	],
+	"lastmodifieddate": 1720756967.4780002,
+	"createddate": 1720756967.4780002,
+	"name": "Button_OK_Unassigned_Orders",
+	"lastfounddate": 1721104961.529,
+	"ocrcapturestring": "OK",
+	"lastfoundlocation": [
+		592,
+		441,
+		47,
+		18
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[23,9]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Button_OK_Unassigned_Orders.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					592,
+					441,
+					47,
+					18
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "OK"
+			}
+	]
+}

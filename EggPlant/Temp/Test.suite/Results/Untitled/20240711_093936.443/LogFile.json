@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running Untitled.script",
+				"identifier": "START",
+				"timestamp": "2024-07-11 09:39:36.447 +0530"
+			},
+		{
+				"message": "(Duration:\"0.001\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-07-11 09:39:36 +0530\", Successes:\"0\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-07-11 09:39:36.451 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SenseTalk Compiler Exception: in untitled:\\nSyntax Error at line 25: can't understand [unrecognized character] at character 33 -- Execution Time 0:00:00 Untitled.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-07-11 09:39:36.543 +0530"
+			}
+	],
+	"createdTimestamp": "2024-07-11 09:39:36.449 +0530"
+}

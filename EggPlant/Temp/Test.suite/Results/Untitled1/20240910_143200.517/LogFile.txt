@@ -1,0 +1,6 @@
+﻿2024-09-10 14:32:00.521 +0530	START		Running Untitled1.script
+2024-09-10 14:32:00.712 +0530	click	Menu	at (35, 291)	1	on_untitled1	Untitled1.script
+2024-09-10 14:32:02.325 +0530	typetext		Ambulatory Nursing Workflow	2	on_untitled1	Untitled1.script
+2024-09-10 14:32:03.075 +0530	typetext		[enter]	3	on_untitled1	Untitled1.script
+2024-09-10 14:32:03.096 +0530	EndTestCase		(Duration:"2.57", Errors:"0", Exceptions:"0", StartTime:"2024-09-10 14:32:00 +0530", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2024-09-10 14:32:03.132 +0530	SUCCESS		Execution Time 0:00:02 Untitled1.script

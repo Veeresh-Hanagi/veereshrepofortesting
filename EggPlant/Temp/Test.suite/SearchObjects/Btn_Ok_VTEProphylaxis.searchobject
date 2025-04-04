@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		803,
+		478,
+		50,
+		18
+	],
+	"lastmodifieddate": 1720962336.109,
+	"createddate": 1720962336.109,
+	"name": "Btn_Ok_VTEProphylaxis",
+	"lastfounddate": 1721105130.5770001,
+	"ocrcapturestring": "OK",
+	"lastfoundlocation": [
+		803,
+		478,
+		50,
+		18
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[25,9]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Btn_Ok_VTEProphylaxis.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					803,
+					478,
+					50,
+					18
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "OK"
+			}
+	]
+}

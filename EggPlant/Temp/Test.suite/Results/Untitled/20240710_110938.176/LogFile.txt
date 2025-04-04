@@ -1,0 +1,5 @@
+﻿2024-07-10 11:09:38.209 +0530	START		Running Untitled.script
+2024-07-10 11:09:38.381 +0530	typetext		[windowsKey]r	3	on_untitled	Untitled.script
+2024-07-10 11:09:41.904 +0530	typetext		powerchart.exe[return]	5	on_untitled	Untitled.script
+2024-07-10 11:09:41.949 +0530	EndTestCase		(Duration:"3.7", Errors:"0", Exceptions:"0", StartTime:"2024-07-10 11:09:38 +0530", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2024-07-10 11:09:41.995 +0530	SUCCESS		Execution Time 0:00:03 Untitled.script

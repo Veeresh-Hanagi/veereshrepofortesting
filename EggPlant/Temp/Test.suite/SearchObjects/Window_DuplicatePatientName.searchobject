@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		484,
+		127,
+		359,
+		36
+	],
+	"lastmodifieddate": 1720757133.128,
+	"createddate": 1720757133.128,
+	"name": "Window_DuplicatePatientName",
+	"lastfounddate": 1721104965.622,
+	"ocrcapturestring": "Duplicate Patient Name",
+	"lastfoundlocation": [
+		484,
+		127,
+		359,
+		36
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[179,18]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Window_DuplicatePatientName.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					484,
+					127,
+					359,
+					36
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Duplicate Patient Name"
+			}
+	]
+}

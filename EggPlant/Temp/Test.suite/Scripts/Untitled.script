@@ -1,0 +1,166 @@
+﻿
+
+to PatientSerach firstName,lastName
+
+	set  SearchRectangle  to ["LT_Task","BR_Notifications"]
+	click "MenuBar_Patient_DropDown"
+	
+	set the SearchRectangle to [] 
+	waitfor 10, "Patient_DropDown_Search_option" 
+	
+	
+	click "Patient_DropDown_Search_option" 
+	waitfor 10,  "Patient_LastName"
+	click "Patient_LastName"
+	typetext  lastName
+	
+	wait 2
+	
+	click "Patient_FirstName"	
+	typetext firstName ,returnKey
+	wait 3
+	
+	click "Label_FINNBR"
+	click "btn_ok"
+	
+	
+	(*	Repeat while ImageFound(text:"OK", waitFor:15)
+		click text:"OK"
+	End repeat*)
+	
+	If ImageFound(imageName:"Window_UNSIGNEDORDERS", waitFor:15)
+		Click "Button_OK_Unassigned_Orders"
+	End If
+	
+	If ImageFound(imageName:"Window_DuplicatePatientName", waitFor:15)
+		Click "Btn_Ok_Duplicate_Patient_window"
+	End If
+	
+	
+	If ImageFound(imageName:"Window_MissingActivePatientStatusOrde", waitFor:15)
+		Click "Btn_DoNotOrderRoomBedChargesWillBe"
+	End If
+	
+	
+	
+	
+	
+	
+	
+end PatientSerach
+
+
+
+
+to PlaceOrder orderName
+	set the SearchRectangle to ["Label_Menu","Btn_OrdersForSignature"]
+	click text:"Add",waitfor :15
+	Set the SearchRectangle to empty
+	
+	
+	waitfor 15, "Label_Search"
+	click   "Label_Search"
+	TypeText orderName,returnKey
+	
+	wait 5
+	
+	Put EveryImageLocation(text: orderName) into HelpLocation
+	if the number of items in HelpLocation >=1
+	then 
+		click item 1 of HelpLocation
+	end if
+	
+	
+	If ImageFound(text:"Order Sentences", waitFor:15)
+		click text:"Order Sentences"
+		typetext downArrow,downArrow,returnkey
+	End If
+	
+	click "Btn_Done"
+	Wait 3
+	
+	click "Btn_Sign"
+	
+	
+	
+	
+	If ImageFound(imageName:"Window_VTEProphylaxis", waitFor:15)
+		Click "Btn_Ok_VTEProphylaxis"
+	End If
+	
+	
+end PlaceOrder
+
+
+
+to AddDiagnoses diagnoses
+
+	set the SearchRectangle to ["Label_Menu","Btn_OrdersForSignature"]
+	click text:"Add",waitfor :15
+	wait 5
+	
+	Set the SearchRectangle to empty
+	Wait 3
+	click "Btn_Add_Diagnoses"
+	Wait 3
+	click "Btn_LookUp_Diagnoses"
+	click "Label_Search_Diagnoses"
+	typetext diagnoses
+	click "Btn_SearchbyName_Diagnoses"
+	wait 5
+	click "Label_Code_Diagnoses"
+	wait 2
+	click "Btn_ok_Diagnoses"
+	click "btn_ok_Diagnoses_first"
+	
+	
+	If ImageFound(Text:"that already exists", waitFor:15)
+		Click "Btn_Continue"
+		
+		
+	End If
+	
+	
+	click "Btn_Done"
+	
+	
+end AddDiagnoses
+
+
+put JSONValue(file ResourcePath("UNIV_MO_CERT.json")) into testdata
+
+//Launching Application
+
+run "DSK/Utilities".launchtask testdata.applicationName
+
+// Login
+
+Run "MIL/Millennium".login testdata.userid,testdata.password
+
+TypeText returnKey
+
+
+//Patient Search
+PatientSerach testdata.patientFirstName,testdata.patientLastName
+
+
+
+If ImageFound(imageName:"Btn_left_arrow", waitFor:15)
+	Click "Btn_left_arrow"
+End If
+
+
+click text: "Powerorders" ,waitfor: 15 
+
+wait 5
+
+
+
+PlaceOrder testdata.orderName
+
+AddDiagnoses testdata.diagnoses
+
+
+
+
+

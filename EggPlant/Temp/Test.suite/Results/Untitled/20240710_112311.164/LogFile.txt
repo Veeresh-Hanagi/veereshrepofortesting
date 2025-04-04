@@ -1,0 +1,4 @@
+﻿2024-07-10 11:23:11.172 +0530	START		Running Untitled.script
+2024-07-10 11:23:11.351 +0530	Log		Launching task powerchart.exe from command line	3	on_launchtask	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-07-10 11:23:11.423 +0530	EndTestCase		(Duration:"0.245", Errors:"1", Exceptions:"0", StartTime:"2024-07-10 11:23:11 +0530", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2024-07-10 11:23:11.637 +0530	FAILURE	Screen_Error.png	STUnknownMessage: ERROR: No Such Function: 'scale' -- Execution Time 0:00:00 Untitled.script

@@ -1,0 +1,32 @@
+﻿2024-07-11 16:03:24.283 +0530	START		Running Untitled.script
+2024-07-11 16:03:24.435 +0530	Log		Launching task Powerchart.exe from command line	3	on_launchtask	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-07-11 16:03:24.510 +0530	typetext		[windowsKey]r	4	on_openrunwindow	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-07-11 16:03:25.620 +0530	imagefound	(TEXT:"Open")	found at (41, 912)	5	on_openrunwindow	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-07-11 16:03:26.099 +0530	typetext		Powerchart.exe[returnKey]	5	on_launchtask	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-07-11 16:03:26.155 +0530	Log		Attempting Login into Millennium Applcation	2	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-11 16:03:26.855 +0530	waitfor	MIL/Millennium/Logo_Login_Popover	found #2 at (968, 396)	3	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-11 16:03:27.028 +0530	imagefound	MIL/Millennium/Logo_Username	found at (909, 445)	4	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-11 16:03:27.147 +0530	click		at (909, 465)	6	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-11 16:03:27.901 +0530	typetext		[controlKey]a	9	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-11 16:03:28.635 +0530	typetext		[backspace]	10	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-11 16:03:29.565 +0530	typetext		dbatest	12	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-11 16:03:30.310 +0530	typetext		[tab]	13	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-11 16:03:30.319 +0530	Log		Entering password	21	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-11 16:03:31.216 +0530	typehiddentext		********	22	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-11 16:03:31.968 +0530	typetext		[tab]	24	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-11 16:03:32.849 +0530	typetext		[returnKey]	31	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-11 16:03:44.150 +0530	imagefound	(TEXT:"Acknowledge")	Unable to Find Image (TEXT:"Acknowledge") within 10.00 seconds. Text not found.	34	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-11 16:03:47.268 +0530	Log		Millennium login page has been dismissed.	9	function_islogindismissed	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-11 16:03:47.325 +0530	typetext		[returnKey]	15	on_untitled	Untitled.script
+2024-07-11 16:03:48.169 +0530	click	MenuBar_Patient_DropDown	at (154, 151)	23	on_untitled	Untitled.script
+2024-07-11 16:03:48.195 +0530	set		SEARCHRECTANGLE = []	26	on_untitled	Untitled.script
+2024-07-11 16:03:48.583 +0530	waitfor	Patient_DropDown_Search_option	found at (180, 171)	29	on_untitled	Untitled.script
+2024-07-11 16:03:49.015 +0530	click	Patient_DropDown_Search_option	at (180, 171)	32	on_untitled	Untitled.script
+2024-07-11 16:03:51.175 +0530	waitfor	Patient_LastName	found at (112, 265)	38	on_untitled	Untitled.script
+2024-07-11 16:03:51.536 +0530	click	Patient_LastName	at (110, 265)	40	on_untitled	Untitled.script
+2024-07-11 16:03:52.433 +0530	typetext		uctest	41	on_untitled	Untitled.script
+2024-07-11 16:03:54.579 +0530	click	Patient_FirstName	at (110, 213)	45	on_untitled	Untitled.script
+2024-07-11 16:03:55.765 +0530	typetext		MOMAGIRL[returnKey]	47	on_untitled	Untitled.script
+2024-07-11 16:04:00.945 +0530	click	btn_ok	at (773, 592)	52	on_untitled	Untitled.script
+2024-07-11 16:04:34.012 +0530	EndTestCase		(Duration:"69.719", Errors:"1", Exceptions:"0", StartTime:"2024-07-11 16:03:24 +0530", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2024-07-11 16:04:34.047 +0530	ABORTED		Execution Time 0:01:09 Untitled.script

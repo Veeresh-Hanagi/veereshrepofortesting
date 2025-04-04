@@ -1,0 +1,322 @@
+{
+	"entries": [
+		{
+				"message": "Running UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"identifier": "START",
+				"timestamp": "2024-12-18 12:55:40.498 +0530"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"timestamp": "2024-12-18 12:55:40.954 +0530",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"identifier": "Log",
+				"handlerLine": 6
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"timestamp": "2024-12-18 12:55:40.997 +0530",
+				"message": "This script is used to test the functionality of Powerplans 2",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"handlerLine": 7,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"timestamp": "2024-12-18 12:55:41.127 +0530",
+				"message": "Copy forward plan",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"handlerLine": 9,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"timestamp": "2024-12-18 12:55:41.210 +0530",
+				"message": "Functionality is not being used by client",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"handlerLine": 63,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"timestamp": "2024-12-18 12:55:41.281 +0530",
+				"message": "Evidence link",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"handlerLine": 79,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"timestamp": "2024-12-18 12:55:41.347 +0530",
+				"message": "Functionality is not being used by client",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"handlerLine": 109,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"timestamp": "2024-12-18 12:55:41.405 +0530",
+				"message": "Rx in Plan",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"handlerLine": 125,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"timestamp": "2024-12-18 12:55:41.468 +0530",
+				"message": "Functionality is not being used by client",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"handlerLine": 193,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"timestamp": "2024-12-18 12:55:41.540 +0530",
+				"message": "Future Initiate Powerplan Functionality",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"handlerLine": 209,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"timestamp": "2024-12-18 12:55:41.610 +0530",
+				"message": "Functionality is not being used by client",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"handlerLine": 322,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"timestamp": "2024-12-18 12:55:41.680 +0530",
+				"message": "Sequenced Powerplan",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"handlerLine": 338,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"timestamp": "2024-12-18 12:55:41.750 +0530",
+				"message": "Functionality is not being used by client",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"handlerLine": 371,
+				"identifier": "LogWarning"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"timestamp": "2024-12-18 12:55:41.825 +0530",
+				"message": "Diagnosis Propogation",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"handlerLine": 386,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"timestamp": "2024-12-18 12:55:41.904 +0530",
+				"message": "Sequence Plan",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"handlerLine": 388,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"timestamp": "2024-12-18 12:55:41.936 +0530",
+				"message": " Click on Add Icon in Powerorders toolbar",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"handlerLine": 389,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_subopenaddorderwindow",
+				"timestamp": "2024-12-18 12:55:42.069 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (246, 228)",
+				"image": "PowerOrderToolbar",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_subopenaddorderwindow",
+				"timestamp": "2024-12-18 12:55:42.352 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at (246, 228)",
+				"image": "PowerOrderToolbar",
+				"handlerLine": 4,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"timestamp": "2024-12-18 12:55:42.486 +0530",
+				"message": "Select the Patient Type",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"handlerLine": 392,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-18 12:55:43.716 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (851, 116)",
+				"image": "AddOrderWindow/DropDown_OrderType",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-18 12:55:43.808 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at [768,103,800,129]",
+				"image": "AddOrderWindow/DropDown_OrderType",
+				"handlerLine": 5,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-18 12:55:43.837 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at [768,103,800,129]",
+				"image": "AddOrderWindow/DropDown_OrderType",
+				"handlerLine": 5,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-18 12:55:43.841 +0530",
+				"message": "SEARCHRECTANGLE = [[763,98],[1200,329]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 5,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-18 12:55:43.958 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at [768,103,800,129]",
+				"image": "AddOrderWindow/DropDown_OrderType",
+				"handlerLine": 6,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-18 12:55:44.067 +0530",
+				"message": "at (900, 116)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 6,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-18 12:55:45.148 +0530",
+				"message": "Inpatient[returnKey]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-18 12:55:45.165 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 10,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-18 12:55:45.897 +0530",
+				"message": "[tab]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 11,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"timestamp": "2024-12-18 12:55:46.293 +0530",
+				"message": "Exception encountered at:  line 395 of ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"handlerLine": 423,
+				"identifier": "LogError"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"timestamp": "2024-12-18 12:55:46.439 +0530",
+				"message": "Exception Reason:  ERROR: No Such Command: 'subsearchansdselectorder'",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"handlerLine": 425,
+				"identifier": "LogError"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_14_powerplans_2",
+				"timestamp": "2024-12-18 12:55:46.578 +0530",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"image": "Exception.png",
+				"handlerLine": 427,
+				"identifier": "capturescreen"
+			},
+		{
+				"handlerName": "on_zerostatecloseallapps",
+				"timestamp": "2024-12-18 12:55:46.696 +0530",
+				"message": "[windowsKey]m",
+				"scriptName": "C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Cleanup.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchtaskasadmin",
+				"timestamp": "2024-12-18 12:55:46.738 +0530",
+				"message": "Launching task cmd from command line",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 3,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_openrunwindow",
+				"timestamp": "2024-12-18 12:55:47.461 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openrunwindow",
+				"timestamp": "2024-12-18 12:55:47.613 +0530",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"message": "found at (41, 912)",
+				"image": "(TEXT:\"Open\")",
+				"handlerLine": 5,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_launchtaskasadmin",
+				"timestamp": "2024-12-18 12:55:48.262 +0530",
+				"message": "cmd",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_launchtaskasadmin",
+				"timestamp": "2024-12-18 12:55:49.036 +0530",
+				"message": "[controlKey][shiftKey][returnKey]",
+				"scriptName": "C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "function_screenpart",
+				"timestamp": "2024-12-18 12:55:49.113 +0530",
+				"message": "Calculating center  area for connected SUT",
+				"scriptName": "C:/EggPlant/IPDEV-Utilities-Shared/Utilities-Shared.suite/Scripts/UTIL/Screen.script",
+				"handlerLine": 2,
+				"identifier": "Log"
+			},
+		{
+				"message": "(Duration:\"9.979\", Errors:\"3\", Exceptions:\"0\", StartTime:\"2024-12-18 12:55:40 +0530\", Successes:\"0\", TestCase:\"UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script\", Warnings:\"5\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-12-18 12:55:50.485 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:09 UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-12-18 12:55:50.495 +0530"
+			}
+	],
+	"createdTimestamp": "2024-12-18 12:55:40.501 +0530"
+}

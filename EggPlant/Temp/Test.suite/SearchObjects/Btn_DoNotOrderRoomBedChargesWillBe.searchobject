@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		512,
+		390,
+		414,
+		24
+	],
+	"lastmodifieddate": 1720961981.1570001,
+	"createddate": 1720961981.1570001,
+	"name": "Btn_DoNotOrderRoomBedChargesWillBe",
+	"lastfounddate": 1721104972.494,
+	"ocrcapturestring": "Do Not Order, Room & Bed Charges Will Be Delinquent!",
+	"lastfoundlocation": [
+		513,
+		390,
+		414,
+		24
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[207,12]",
+					"Tolerance": "_52",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Btn_DoNotOrderRoomBedChargesWillBe.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					512,
+					390,
+					414,
+					24
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Do Not Order, Room & Bed Charges Will Be Delinquent!"
+			}
+	]
+}

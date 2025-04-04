@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-2-Allergies_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-18 10:47:53.594 +0530"
+ tests="1"  failures="0" errors="0" time="319.957000">
+  <properties>
+   <property name="RunDate" value="2024-12-18 10:47:53.594 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-2-Allergies.script" assertions="1" status="success"  time="319.942">
+  </testcase>
+ </testsuite>
+</testsuites>

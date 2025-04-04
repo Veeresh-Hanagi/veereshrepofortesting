@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-13-Powerplans-1_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-12 16:08:49.739 +0530"
+ tests="1"  failures="2" errors="0" time="22795.363000">
+  <properties>
+   <property name="RunDate" value="2024-12-12 16:08:49.739 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-13-Powerplans-1.script" assertions="6" status="failure"  time="22795.302">
+    <failure type="LogError" message="Exception encountered at:  line 56 of rightclickonplaninnavigatorview (line 79 of Actions.script)\ncalled from line 460 of ucms_wf_fts_orders_scripts_13_powerplans_1" />
+    <failure type="LogError" message="Exception Reason:  Invalid operands for addition: expected numbers, dates and/or lists; got &apos;[200,-2]&apos; and &apos;&apos;" />
+  </testcase>
+ </testsuite>
+</testsuites>

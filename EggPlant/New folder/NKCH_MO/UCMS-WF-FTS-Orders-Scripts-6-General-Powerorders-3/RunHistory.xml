@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="UCMS-WF-FTS-Orders-Scripts-6-General-Powerorders-3">
+ <run>
+  <RunDate>2024-11-25 15:26:37.143 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>58.918000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241125_152637.143/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-25 15:28:09.449 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>122.326000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20241125_152809.449/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-25 15:30:23.049 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>297.338000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20241125_153023.049/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 09:38:38.435 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>95.556000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20241126_093838.435/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 09:40:21.321 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>80.422000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20241126_094021.321/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 13:20:34.535 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>305.770000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20241126_132034.535/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 14:05:37.517 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>201.870000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20241126_140537.517/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 14:08:59.743 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>0.890000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241126_140859.743/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 15:20:46.388 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>12.364000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241126_152046.388/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 15:21:04.198 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>100.542000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20241126_152104.198/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 15:37:11.746 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.583000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241126_153711.746/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;MIL/Cleanup&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 15:38:11.181 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.653000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241126_153811.181/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;MIL/Cleanup&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 15:38:56.549 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.642000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241126_153856.549/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;MIL/Cleanup&#x27;.</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 15:42:28.987 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>4.373000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241126_154228.987/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 15:44:08.055 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>4.830000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241126_154408.055/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 15:46:36.435 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>2489.792000</Duration>
+  <Errors>1</Errors>
+  <Warnings>2</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>5</Successes>
+  <LogFile>20241126_154636.435/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 16:29:44.776 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>60.557000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20241126_162944.776/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 16:34:08.859 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>266.255000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20241126_163408.859/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 16:41:27.966 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>155.788000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20241126_164127.966/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-11-26 16:46:42.341 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>441.722000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>3</Successes>
+  <LogFile>20241126_164642.341/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-12 11:42:49.309 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>184.281000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241212_114249.309/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-12 11:46:33.153 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>111.199000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241212_114633.153/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-12 11:49:09.692 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>91.064000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20241212_114909.692/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

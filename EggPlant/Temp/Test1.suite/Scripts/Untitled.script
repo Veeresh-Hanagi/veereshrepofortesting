@@ -1,0 +1,26 @@
+﻿// Set saveRunLogOutput to yes to generate the default log file
+Set saveRunLogOutput to "yes"
+
+// Define the path to save your JSON file
+Put "/path/to/output.json" into jsonFilePath
+
+// Example data to include in JSON (you can replace this with actual log content)
+Put ("TestCase" : "LoginTest", "Status" : "Passed", "ExecutionTime" : "15s") into logData
+
+// Convert the logData to JSON format
+Put ConvertToJSON(logData) into jsonContent
+
+// Write the JSON content to a file
+WriteText jsonContent to file jsonFilePath
+
+// Function to convert associative arrays to JSON
+function ConvertToJSON logData
+	Put "{" into json
+	Repeat with each key of logData
+		Put quote & key & quote & ":" & quote & logData's key & quote into pair
+		If key is not the last item of logData then Put pair & "," after json
+		Else Put pair after json
+	End repeat
+	Put "}" after json
+	Return json
+end ConvertToJSON

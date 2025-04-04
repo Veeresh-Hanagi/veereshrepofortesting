@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="UCMS-WF-FTS-Orders-Scripts-4-General-Powerorders-1">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2024-07-23 16:28:13 +0530</FirstRun>
+  <LastRun>2024-11-25 14:59:41 +0530</LastRun>
+  <TotalTimeOnSuccess>272.294000</TotalTimeOnSuccess>
+ </script>
+ <script name="UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>16</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2024-11-14 14:19:32 +0530</FirstRun>
+  <LastRun>2024-11-20 12:25:43 +0530</LastRun>
+  <TotalTimeOnSuccess>1555.762000</TotalTimeOnSuccess>
+ </script>
+ <script name="UCMS-WF-FTS-Orders-Scripts-2-Allergies">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-12-10 12:11:22 +0530</FirstRun>
+  <LastRun>2024-12-10 12:11:22 +0530</LastRun>
+  <TotalTimeOnSuccess>696.632000</TotalTimeOnSuccess>
+ </script>
+ <script name="Untitled">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>16</NumberOfRuns>
+  <NumberOfFails>8</NumberOfFails>
+  <FirstRun>2024-12-05 22:09:11 +0530</FirstRun>
+  <LastRun>2024-12-10 18:09:38 +0530</LastRun>
+  <TotalTimeOnSuccess>1.468000</TotalTimeOnSuccess>
+ </script>
+ <script name="UCMS-WF-FTS-Orders-Scripts-6-General-Powerorders-3">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2024-11-26 15:37:11 +0530</FirstRun>
+  <LastRun>2024-11-26 15:38:56 +0530</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="UCMS-WF-FTS-Orders-Scripts-13-Powerplans-1">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2024-11-20 16:58:06 +0530</FirstRun>
+  <LastRun>2024-12-12 11:55:23 +0530</LastRun>
+  <TotalTimeOnSuccess>1966.102000</TotalTimeOnSuccess>
+ </script>
+ <script name="UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2024-11-13 12:19:15 +0530</FirstRun>
+  <LastRun>2024-11-25 16:03:46 +0530</LastRun>
+  <TotalTimeOnSuccess>0.232000</TotalTimeOnSuccess>
+ </script>
+ <script name="UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2024-11-26 15:11:37 +0530</FirstRun>
+  <LastRun>2024-11-26 15:11:37 +0530</LastRun>
+  <TotalTimeOnSuccess>467.506000</TotalTimeOnSuccess>
+ </script>
+ <script name="UCMS-WF-FTS-Orders-Scripts-3-General-Powerorders-1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>19</NumberOfRuns>
+  <NumberOfFails>8</NumberOfFails>
+  <FirstRun>2024-07-23 15:29:17 +0530</FirstRun>
+  <LastRun>2024-12-10 14:31:04 +0530</LastRun>
+  <TotalTimeOnSuccess>7726.069000</TotalTimeOnSuccess>
+ </script>
+ <script name="UCMS-WF-FTS-Orders-Scripts-11-MAW">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2024-11-20 15:55:11 +0530</FirstRun>
+  <LastRun>2024-11-25 16:43:18 +0530</LastRun>
+  <TotalTimeOnSuccess>1134.063000</TotalTimeOnSuccess>
+ </script>
+ <script name="UCMS-WF-FTS-Orders-Scripts-5-General-Powerorders-2">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>5</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
+  <FirstRun>2024-11-26 13:11:16 +0530</FirstRun>
+  <LastRun>2024-12-11 10:53:21 +0530</LastRun>
+  <TotalTimeOnSuccess>521.507000</TotalTimeOnSuccess>
+ </script>
+</statistics>

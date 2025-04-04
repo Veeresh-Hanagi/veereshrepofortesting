@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-13-Powerplans-1_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-30 11:59:00.581 +0530"
+ tests="1"  failures="2" errors="1" time="9691.188000">
+  <properties>
+   <property name="RunDate" value="2024-12-30 11:59:00.581 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-13-Powerplans-1.script" assertions="4" status="error"  time="9691.174">
+    <failure type="LogError" message="Exception encountered at:  line 25 of validatecheckboxischeckedornot (line 27 of Powerplans.script)\ncalled from line 312 of ucms_wf_fts_orders_scripts_13_powerplans_1" />
+    <failure type="LogError" message="Exception Reason:  imagefound Error - Retrieving Frame Buffer:Unable to sync with connection thread\nMCLA_MI\n" />
+    <error type="Exception" message="Retrieving Frame Buffer:Unable to sync with connection thread\nMCLA_MI\n" />
+  </testcase>
+ </testsuite>
+</testsuites>

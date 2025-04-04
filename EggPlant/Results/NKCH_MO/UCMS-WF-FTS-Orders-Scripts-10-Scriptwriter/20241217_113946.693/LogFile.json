@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"identifier": "START",
+				"timestamp": "2024-12-17 11:39:46.697 +0530"
+			},
+		{
+				"message": "(Duration:\"0.001\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-12-17 11:39:46 +0530\", Successes:\"0\", TestCase:\"UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-12-17 11:39:46.704 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "SenseTalk Compiler Exception: in ucms_wf_fts_orders_scripts_10_scriptwriter:\\nSyntax Error at line 339: can't understand [matching close of block comment not found] at character 1 -- Execution Time 0:00:00 UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-12-17 11:39:46.881 +0530"
+			}
+	],
+	"createdTimestamp": "2024-12-17 11:39:46.700 +0530"
+}

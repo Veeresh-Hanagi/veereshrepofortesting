@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders">
+ <run>
+  <RunDate>2024-12-18 10:55:37.952 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>1695.594000</Duration>
+  <Errors>3</Errors>
+  <Warnings>17</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>4</Successes>
+  <LogFile>20241218_105537.952/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-18 11:23:54.039 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>16.939000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241218_112354.039/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-30 11:09:15.695 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>737.170000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241230_110915.695/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

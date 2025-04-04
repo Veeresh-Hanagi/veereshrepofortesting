@@ -1,0 +1,28 @@
+﻿2024-07-10 16:40:12.873 +0530	START		Running Untitled.script
+2024-07-10 16:40:13.015 +0530	Log		Launching task Powerchart.exe from command line	3	on_launchtask	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-07-10 16:40:13.119 +0530	typetext		[windowsKey]r	4	on_openrunwindow	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-07-10 16:40:15.241 +0530	imagefound	(TEXT:"Open")	found at (238, 876)	5	on_openrunwindow	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-07-10 16:40:15.836 +0530	typetext		Powerchart.exe[returnKey]	5	on_launchtask	C:/EggPlant/IPDEV-Desktop-Shared/Desktop-Shared.suite/Scripts/DSK/Utilities.script
+2024-07-10 16:40:15.888 +0530	Log		Attempting Login into Millennium Applcation	2	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 16:40:19.528 +0530	waitfor	MIL/Millennium/Logo_Login_Popover	found #2 at (968, 396)	3	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 16:40:19.870 +0530	imagefound	MIL/Millennium/Logo_Username	found at (909, 445)	4	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 16:40:20.152 +0530	click		at (909, 465)	6	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 16:40:20.905 +0530	typetext		[controlKey]a	9	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 16:40:21.651 +0530	typetext		[backspace]	10	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 16:40:22.624 +0530	typetext		rs091347b	12	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 16:40:23.374 +0530	typetext		[tab]	13	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 16:40:23.386 +0530	Log		Entering password	21	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 16:40:24.359 +0530	typehiddentext		********	22	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 16:40:25.095 +0530	typetext		[tab]	24	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 16:40:25.848 +0530	typetext		[returnKey]	31	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 16:40:37.095 +0530	imagefound	(TEXT:"Acknowledge")	Unable to Find Image (TEXT:"Acknowledge") within 10.00 seconds. Text not found.	34	on_login	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 16:40:40.251 +0530	Log		Millennium login page has been dismissed.	9	function_islogindismissed	C:/EggPlant/IPDEV-Millennium-Shared/Millennium-Shared.suite/Scripts/MIL/Millennium.script
+2024-07-10 16:40:40.304 +0530	typetext		[return]	15	on_untitled	Untitled.script
+2024-07-10 16:40:43.053 +0530	click	(TEXT:"Patient")	at (154, 34)	18	on_untitled	Untitled.script
+2024-07-10 16:40:43.060 +0530	set		SEARCHRECTANGLE = []	19	on_untitled	Untitled.script
+2024-07-10 16:40:47.419 +0530	click	(TEXT:"Cancel")	at (1248, 707)	20	on_untitled	Untitled.script
+2024-07-10 16:40:56.417 +0530	click	(TEXT:"Patient")	at (974, 85)	25	on_untitled	Untitled.script
+2024-07-10 16:40:56.424 +0530	set		SEARCHRECTANGLE = []	26	on_untitled	Untitled.script
+2024-07-10 16:41:21.116 +0530	Exception	Patient_DropDown_Search_option	No Image Found On Screen: "Patient_DropDown_Search_option"	31	on_untitled	Untitled.script
+2024-07-10 16:41:21.214 +0530	EndTestCase		(Duration:"68.33", Errors:"1", Exceptions:"1", StartTime:"2024-07-10 16:40:12 +0530", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2024-07-10 16:41:21.390 +0530	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "Patient_DropDown_Search_option" -- Execution Time 0:01:08 Untitled.script

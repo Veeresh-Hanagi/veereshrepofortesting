@@ -1,0 +1,2 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2024-12-30 16:28:08.865 +0530,"Failure",0:50:43,4,16,1,"20241230_162808.865/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""DSK/CommandPrompt/TitleBarIcon_CMD"" within 60.00 seconds",0

@@ -1,0 +1,11 @@
+﻿click "Menu"
+TypeText "Ambulatory Nursing Workflow"
+wait 5
+TypeText returnKey
+
+
+set the SearchRectangle to [ImageLocation("Icon_Arrow_SRTL"), Imagelocation(Text:"C275")-[-250,-10]]
+
+Click Text:"New Order"
+
+set the SearchRectangle to []

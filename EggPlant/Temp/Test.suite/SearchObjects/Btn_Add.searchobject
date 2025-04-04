@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		224,
+		233,
+		48,
+		23
+	],
+	"lastmodifieddate": 1720965026.796,
+	"createddate": 1720671659.8080001,
+	"name": "Btn_Add",
+	"lastfounddate": 1720965259.3569999,
+	"ocrcapturestring": "+ Add",
+	"lastfoundlocation": [
+		224,
+		221,
+		42,
+		16
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[24,11]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Btn_Add.png",
+				"connectionname": "LAC_CA_M0278",
+				"type": 1,
+				"connectionserverid": "137.252.37.86",
+				"capturerect": [
+					224,
+					233,
+					48,
+					23
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "+ Add"
+			}
+	]
+}

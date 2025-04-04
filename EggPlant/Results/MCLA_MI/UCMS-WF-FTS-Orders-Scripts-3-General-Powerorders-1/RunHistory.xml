@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="UCMS-WF-FTS-Orders-Scripts-3-General-Powerorders-1">
+ <run>
+  <RunDate>2024-12-18 13:30:56.348 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>2474.539000</Duration>
+  <Errors>3</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20241218_133056.348/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- typetext Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-30 15:31:46.107 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>759.954000</Duration>
+  <Errors>3</Errors>
+  <Warnings>4</Warnings>
+  <Exceptions>2</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20241230_153146.107/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2024-12-30 15:46:56.476 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>2435.695000</Duration>
+  <Errors>1</Errors>
+  <Warnings>30</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>2</Successes>
+  <LogFile>20241230_154656.476/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

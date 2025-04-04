@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-18 13:06:55.798 +0530"
+ tests="1"  failures="0" errors="0" time="844.792000">
+  <properties>
+   <property name="RunDate" value="2024-12-18 13:06:55.798 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script" assertions="1" status="success"  time="844.766">
+  </testcase>
+ </testsuite>
+</testsuites>

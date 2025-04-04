@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		341,
+		271,
+		67,
+		19
+	],
+	"lastmodifieddate": 1720596338.5110002,
+	"createddate": 1720596338.5110002,
+	"name": "Patient_FirstName",
+	"lastfounddate": 1733291680.1069999,
+	"ocrcapturestring": "First Name:",
+	"lastfoundlocation": [
+		370,
+		246,
+		67,
+		19
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[21,29]",
+					"Tolerance": "_47",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Patient_FirstName.png",
+				"connectionname": "LAC_CA_M0278",
+				"type": 1,
+				"connectionserverid": "137.252.37.86",
+				"capturerect": [
+					341,
+					271,
+					67,
+					19
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "First Name:"
+			}
+	]
+}

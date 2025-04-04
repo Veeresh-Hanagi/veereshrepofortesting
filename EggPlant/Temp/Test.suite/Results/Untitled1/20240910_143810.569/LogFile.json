@@ -1,0 +1,47 @@
+{
+	"entries": [
+		{
+				"message": "Running Untitled1.script",
+				"identifier": "START",
+				"timestamp": "2024-09-10 14:38:10.573 +0530"
+			},
+		{
+				"handlerName": "on_untitled1",
+				"timestamp": "2024-09-10 14:38:10.780 +0530",
+				"scriptName": "Untitled1.script",
+				"message": "at (34, 290)",
+				"image": "Menu",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_untitled1",
+				"timestamp": "2024-09-10 14:38:12.359 +0530",
+				"message": "Ambulatory Nursing Workflow",
+				"scriptName": "Untitled1.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_untitled1",
+				"timestamp": "2024-09-10 14:38:12.386 +0530",
+				"scriptName": "Untitled1.script",
+				"message": "Could Not Open Image: Ambulatory Nursing Workflow",
+				"image": "Ambulatory Nursing Workflow",
+				"handlerLine": 3,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"1.821\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2024-09-10 14:38:10 +0530\", Successes:\"0\", TestCase:\"Untitled1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-09-10 14:38:12.398 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "File Not Found: click Error - Could Not Open Image: Ambulatory Nursing Workflow -- Execution Time 0:00:01 Untitled1.script",
+				"identifier": "FAILURE",
+				"timestamp": "2024-09-10 14:38:12.508 +0530"
+			}
+	],
+	"createdTimestamp": "2024-09-10 14:38:10.575 +0530"
+}

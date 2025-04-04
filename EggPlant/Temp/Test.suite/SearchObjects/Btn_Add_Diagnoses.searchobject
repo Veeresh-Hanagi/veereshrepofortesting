@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		235,
+		176,
+		66,
+		20
+	],
+	"lastmodifieddate": 1721022081.438,
+	"createddate": 1720962901.5469999,
+	"name": "Btn_Add_Diagnoses",
+	"lastfounddate": 1721105144.25,
+	"ocrcapturestring": "+ Add",
+	"lastfoundlocation": [
+		235,
+		176,
+		66,
+		20
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[33,10]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Btn_Add_Diagnoses/Btn_Add_Diagnoses.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					235,
+					176,
+					66,
+					20
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "+ Add"
+			}
+	]
+}

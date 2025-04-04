@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-5-General-Powerorders-2_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-30 17:20:07.980 +0530"
+ tests="1"  failures="2" errors="1" time="3856.360000">
+  <properties>
+   <property name="RunDate" value="2024-12-30 17:20:07.980 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-5-General-Powerorders-2.script" assertions="3" status="error"  time="3856.332">
+    <failure type="LogError" message="Exception encountered at:  line 15 of funscrolltofindimage (line 73 of Helpers.script)\ncalled from line 6 of funorderdetailsfieldfinder (line 20 of Helpers.script)\ncalled from line 2 of stopdatetime (line 207 of OrderDetails.script)\ncalled from line 355 of ucms_wf_fts_orders_scripts_5_general_powerorders_2" />
+    <failure type="LogError" message="Exception Reason:  imagefound Error - Image Property List did not contain &quot;ImageName&quot; property  Restricted Search Rectangle ((656,655),(1857,945))\n" />
+    <error type="Exception" message="Image Property List did not contain &quot;ImageName&quot; property" />
+  </testcase>
+ </testsuite>
+</testsuites>

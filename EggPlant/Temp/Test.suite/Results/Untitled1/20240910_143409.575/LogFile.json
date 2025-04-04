@@ -1,0 +1,45 @@
+{
+	"entries": [
+		{
+				"message": "Running Untitled1.script",
+				"identifier": "START",
+				"timestamp": "2024-09-10 14:34:09.580 +0530"
+			},
+		{
+				"handlerName": "on_untitled1",
+				"timestamp": "2024-09-10 14:34:09.767 +0530",
+				"scriptName": "Untitled1.script",
+				"message": "at (34, 290)",
+				"image": "Menu",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_untitled1",
+				"timestamp": "2024-09-10 14:34:11.357 +0530",
+				"message": "Ambulatory Nursing Workflow",
+				"scriptName": "Untitled1.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_untitled1",
+				"timestamp": "2024-09-10 14:34:12.100 +0530",
+				"message": "[enter]",
+				"scriptName": "Untitled1.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"2.527\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-09-10 14:34:09 +0530\", Successes:\"1\", TestCase:\"Untitled1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-09-10 14:34:12.111 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:02 Untitled1.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-09-10 14:34:12.145 +0530"
+			}
+	],
+	"createdTimestamp": "2024-09-10 14:34:09.582 +0530"
+}

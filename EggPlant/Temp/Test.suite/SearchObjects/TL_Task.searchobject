@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		6,
+		26,
+		41,
+		18
+	],
+	"lastmodifieddate": 1720670518.971,
+	"createddate": 1720607132.6170001,
+	"name": "TL_Task",
+	"lastfounddate": 1720607133.6560001,
+	"ocrcapturestring": "Task",
+	"lastfoundlocation": [
+		6,
+		26,
+		41,
+		18
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[-20,-8]",
+					"Tolerance": "_69",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "TL_Task.png",
+				"connectionname": "LAC_CA_M0278",
+				"type": 1,
+				"connectionserverid": "137.252.37.86",
+				"capturerect": [
+					6,
+					26,
+					41,
+					18
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Task"
+			}
+	]
+}

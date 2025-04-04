@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		594,
+		563,
+		42,
+		13
+	],
+	"lastmodifieddate": 1720757190.277,
+	"createddate": 1720757190.277,
+	"name": "Btn_Ok_Duplicate_Patient_window",
+	"lastfounddate": 1721104965.783,
+	"ocrcapturestring": "OK",
+	"lastfoundlocation": [
+		594,
+		563,
+		42,
+		13
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[21,6]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Btn_Ok_Duplicate_Patient_window.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					594,
+					563,
+					42,
+					13
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "OK"
+			}
+	]
+}

@@ -1,0 +1,36 @@
+{
+	"entries": [
+		{
+				"message": "Running Untitled.script",
+				"identifier": "START",
+				"timestamp": "2024-07-10 11:10:49.617 +0530"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2024-07-10 11:10:49.780 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "Untitled.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_untitled",
+				"timestamp": "2024-07-10 11:10:55.266 +0530",
+				"message": "powerchart.exe[return]",
+				"scriptName": "Untitled.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"5.674\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-07-10 11:10:49 +0530\", Successes:\"1\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-07-10 11:10:55.299 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:05 Untitled.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-07-10 11:10:55.337 +0530"
+			}
+	],
+	"createdTimestamp": "2024-07-10 11:10:49.622 +0530"
+}

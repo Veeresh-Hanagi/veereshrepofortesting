@@ -1,0 +1,6 @@
+﻿2024-09-10 14:38:10.573 +0530	START		Running Untitled1.script
+2024-09-10 14:38:10.780 +0530	click	Menu	at (34, 290)	1	on_untitled1	Untitled1.script
+2024-09-10 14:38:12.359 +0530	typetext		Ambulatory Nursing Workflow	2	on_untitled1	Untitled1.script
+2024-09-10 14:38:12.386 +0530	Exception	Ambulatory Nursing Workflow	Could Not Open Image: Ambulatory Nursing Workflow	3	on_untitled1	Untitled1.script
+2024-09-10 14:38:12.398 +0530	EndTestCase		(Duration:"1.821", Errors:"1", Exceptions:"1", StartTime:"2024-09-10 14:38:10 +0530", Successes:"0", TestCase:"Untitled1.script", Warnings:"0")
+2024-09-10 14:38:12.508 +0530	FAILURE	Screen_Error.png	File Not Found: click Error - Could Not Open Image: Ambulatory Nursing Workflow -- Execution Time 0:00:01 Untitled1.script

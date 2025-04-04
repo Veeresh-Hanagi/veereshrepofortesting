@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>6</NumberOfRuns>
+  <NumberOfFails>6</NumberOfFails>
+  <FirstRun>2024-12-17 11:20:03 +0530</FirstRun>
+  <LastRun>2024-12-17 11:40:09 +0530</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+</statistics>

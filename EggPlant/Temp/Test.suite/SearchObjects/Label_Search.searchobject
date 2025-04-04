@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		366,
+		123,
+		45,
+		18
+	],
+	"lastmodifieddate": 1720671775.506,
+	"createddate": 1720671775.506,
+	"name": "Label_Search",
+	"lastfounddate": 1721105057.5180001,
+	"ocrcapturestring": "Search:",
+	"lastfoundlocation": [
+		569,
+		129,
+		45,
+		18
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[73,9]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Label_Search.png",
+				"connectionname": "LAC_CA_M0278",
+				"type": 1,
+				"connectionserverid": "137.252.37.86",
+				"capturerect": [
+					366,
+					123,
+					45,
+					18
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Search:"
+			}
+	]
+}

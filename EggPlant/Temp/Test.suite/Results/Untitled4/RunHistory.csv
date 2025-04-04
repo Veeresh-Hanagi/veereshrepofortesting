@@ -1,0 +1,3 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2024-12-05 19:33:23.047 +0530,"Failure",0:00:00,1,0,0,"20241205_193323.047/LogFile.txt","","InvalidCommandOrRange -- Not a valid command, or else incorrect types given for a range (must be numbers, date/times, or single characters -- got ""{""{ExecutionTime:..."" TO """")",0
+2024-12-05 19:34:02.531 +0530,"Success",0:00:00,0,0,0,"20241205_193402.531/LogFile.txt","","",1

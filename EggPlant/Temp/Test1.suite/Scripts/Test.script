@@ -1,0 +1,208 @@
+﻿Click "TestBox_LastName"
+typetext "UCTEST"
+
+typetext tabKey
+typetext "HNAONEB"
+
+typetext returnKey
+
+RightClick text:"Active"
+DoubleClick text:"University Hosp"
+
+
+(*Handler name: PatientSearch
+Input parameters: Firstname, Lastname
+Outut parameters: none
+Description: To search Patient in powerchart*)
+
+to PatientSearch StrLast_Name, StrFirst_Name, StrEnc_type
+	Click "TestBox_LastName"
+	typetext StrLast_Name
+	Click "Textbox_FirstName"
+	typetext StrFirst_Name
+	typetext returnKey
+	
+	
+	Click text :StrEnc_type
+	typetext tabKey
+	
+end PatientSearch
+
+put JSONValue(file ResourcePath("Test.json")) into testdata
+PatientSearch testdata.StrLast_Name, testdata.StrFirst_Name, testdata.StrEnc_type
+
+
+(*StrLast_Name put "UCTEST"*)
+
+Run "DSK/Utilities".launchTask "schapptbook.exe"
+Run "MIL/Millennium".login "UCDBA", "cerner"
+Run "DSK/Utilities".maximizeWindow
+
+RightClick text: "Name"
+Click text:"Books"
+Click text:"Bookshelf", validWords: "Bookshelf"
+RightClick text:"Name  :",ignoreSpaces:ON
+RightClick text:"Name  :",textDifference:2
+
+
+(*SearchRectangle*)
+
+set the SerachRectangle to["OrderName","Ordersignature"]
+click text:"glimepride",waitFor:10
+
+set the SearchRectangle to[7,43,1161,860]
+
+
+(*conditional*)
+
+set the SerachRectangle to["OrderName","Ordersignature"]
+if ImageFound(text:"glimepride", waitFor:10) then
+	RightClick imageName:"glimepride", waitFor:5
+else
+	typetext pagedown
+end if
+
+
+(* Reapeat *)
+
+Repeat 3 times
+	Click imageName: "", waitFor:5
+	Click imageName: "", waitFor:5
+End repeat
+
+set the SerachRectangle to["OrderName","Ordersignature"]
+put EveryImageLocation(text: "")into Str_Name
+Repeat with each item of Str_Name
+	click it
+End repeat
+
+set the SerachRectangle to["OrderName","Ordersignature"]
+put EveryImageLocation(text: "")into Str_Name
+Repeat with each item of Str_Name
+	RightClick item 1 of Str_Name
+	exit repeat
+End repeat
+
+Repeat for 10 
+	Click imageName: "", waitFor:5
+	Click imageName: "", waitFor:5
+End repeat
+
+set the SerachRectangle to["OrderName","Ordersignature"]
+Repeat until ImageFound(text:"", waitFor:10)
+	if ImageFound(text:"", waitFor:5)then
+		click text:"",waifFor:5
+	else
+		typetext pagedown
+	end if
+End repeat
+
+set the SerachRectangle to["OrderName","Ordersignature"]
+Repeat until ImageFound(text:"", waitFor:10)
+	if ImageFound(text:"", waitFor:5)then
+		click text:"",waifFor:5
+	else
+		typetext pagedown
+	end if
+End repeat
+if ImageFound(text:"", waitFor:5)then
+	click text:"",waifFor:5
+end if
+
+
+
+
+
+
+
+
+
+
+
+
+
+put ImageRectangle(Text: "Accession") into rect 
+log rect
+
+
+
+
+put ImageRectangle(Text: "24-338-00008") into ycol
+put ImageRectangle(Text: "Orders") into xcol
+set order = readtext([xcol-2,ycol-2],[xcol+50,ycol+12])
+
+
+
+
+
+set the searchRectangle to ["TL_Ordersbetween","BR_Ordersbetween"]
+set accession="24-338-00008"
+put imageRectangle(text:Accession) into xCol
+put imageRectangle(text:"Order") into yCol
+set srTL to [yCol.Left-3,XCol.top-2]
+set srBR to [yCol.Left+100,XCol.top+15]
+set accession=readText(srTL,srBR)
+Log "Accession is "&accession
+
+
+
+
+
+
+
+to fetchaccession orderable,status
+	put imagerectangle(text:"Accession") into xCol
+	
+	set row to [xcol.topLeft+[-200,-2],xcol.bottomRight+[1500,9]]
+	
+	set num=0
+	repeat until num=1
+		set the searchRectangle to row
+		wait 2
+		if imageFound(text:orderable,validwords:"*" ) and if imageFound(text:status,validwords:"*")
+			put imageRectangle(text:orderable,validwords:"*") into yCol
+			doubleclick text:orderable,validwords:"*"
+			set num=1
+			exit repeat
+		else
+			add [[0,10],[0,10]] to row
+		end if
+	end repeat
+end fetchaccession
+
+
+
+fetchaccession "Crossmatch","Collected"
+
+
+
+
+
+
+
+
+
+to fetchaccession1 orderable,status
+	put imagerectangle(text:"Accession") into xCol
+	put xCol.Left into AccLeft
+	
+	set row to [xcol.topLeft+[-200,-2],xcol.bottomRight+[1500,9]]
+	
+	set num=0
+	repeat until num=1
+		set the searchRectangle to row
+		wait 2
+		if imageFound(text:orderable,validwords:"*" ) and if imageFound(text:status,validwords:"*")
+			put imageRectangle(text:orderable,validwords:"*") into yCol
+			put yCol.top into AccTop
+			set the searchRectangle to []
+			set accession=readText([accLeft-3,Acctop-2],[[AccLeft+100],[AccTop+15]])
+			Log "Accession is "&&Accession
+			set num=1
+			exit repeat
+		else
+			add [[0,10],[0,10]] to row
+		end if
+	end repeat
+end fetchaccession1
+fetchaccession1 "Crossmatch","Collected"

@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2024-12-18 13:30:56.348 +0530,"Failure",0:41:14,3,0,2,"20241218_133056.348/LogFile.txt","","No Remote Connection -- typetext Error - Remote Connection Unavailable",0
+2024-12-30 15:31:46.107 +0530,"Aborted",0:12:39,3,4,2,"20241230_153146.107/LogFile.txt","","",2
+2024-12-30 15:46:56.476 +0530,"Aborted",0:40:35,1,30,0,"20241230_154656.476/LogFile.txt","","",2

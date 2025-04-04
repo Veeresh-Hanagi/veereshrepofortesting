@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-4-General-Powerorders-1_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-30 16:28:08.865 +0530"
+ tests="1"  failures="4" errors="1" time="3043.083000">
+  <properties>
+   <property name="RunDate" value="2024-12-30 16:28:08.865 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-4-General-Powerorders-1.script" assertions="4" status="error"  time="3043.057">
+    <failure type="LogError" message="Order acetamin does not exist in Correct Status: Ordered" />
+    <failure type="LogError" message="Exception encountered at:  line 15 of documentmedsbyhx (line 35 of DocumentMedByHxWindow.script)\ncalled from line 409 of ucms_wf_fts_orders_scripts_4_general_powerorders_1" />
+    <failure type="LogError" message="Exception Reason:  ERROR: No Such Command: &apos;ap&apos;" />
+    <failure type="FAILURE" message="Image Not Found: waitfor Error - Unable To Find Any Image On Screen &quot;DSK/CommandPrompt/TitleBarIcon_CMD&quot; within 60.00 seconds -- Execution Time 0:50:43 UCMS-WF-FTS-Orders-Scripts-4-General-Powerorders-1.script" />
+    <error type="Exception" message="Unable To Find Any Image On Screen &quot;DSK/CommandPrompt/TitleBarIcon_CMD&quot; within 60.00 seconds" />
+  </testcase>
+ </testsuite>
+</testsuites>

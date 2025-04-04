@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1821,
+		982,
+		80,
+		18
+	],
+	"lastmodifieddate": 1721021868.5450001,
+	"createddate": 1721021868.5450001,
+	"name": "Btn_Sign/Btn_Sign1",
+	"lastfounddate": 1721105116.723,
+	"ocrcapturestring": "Sign",
+	"lastfoundlocation": [
+		1821,
+		982,
+		80,
+		18
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[36,5]",
+					"Tolerance": "_66",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Btn_Sign/Btn_Sign1.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					1821,
+					982,
+					80,
+					18
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Sign"
+			}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		948,
+		4,
+		20,
+		15
+	],
+	"lastmodifieddate": 1720680741.0380001,
+	"createddate": 1720679409.694,
+	"name": "Btn_max",
+	"lastfounddate": 1720694066.2550001,
+	"ocrcapturestring": "□",
+	"lastfoundlocation": [
+		522,
+		96,
+		11,
+		9
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[10,7]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Btn_max.png",
+				"connectionname": "LAC_CA_M0278",
+				"type": 1,
+				"connectionserverid": "137.252.37.86",
+				"capturerect": [
+					948,
+					4,
+					20,
+					15
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "□"
+			}
+	]
+}

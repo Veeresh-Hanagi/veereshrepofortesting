@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Untitled1_script" package="Test.suite" timestamp="2024-09-10 14:38:10.569 +0530"
+ tests="1"  failures="1" errors="1" time="1.828000">
+  <properties>
+   <property name="RunDate" value="2024-09-10 14:38:10.569 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Untitled1.script" assertions="1" status="error"  time="1.821">
+    <failure type="FAILURE" message="File Not Found: click Error - Could Not Open Image: Ambulatory Nursing Workflow -- Execution Time 0:00:01 Untitled1.script" />
+    <error type="Exception" message="Could Not Open Image: Ambulatory Nursing Workflow" />
+  </testcase>
+ </testsuite>
+</testsuites>

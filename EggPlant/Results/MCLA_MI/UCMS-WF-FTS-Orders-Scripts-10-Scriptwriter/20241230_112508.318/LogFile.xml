@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-30 11:25:08.318 +0530"
+ tests="1"  failures="2" errors="0" time="1832.320000">
+  <properties>
+   <property name="RunDate" value="2024-12-30 11:25:08.318 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-10-Scriptwriter.script" assertions="5" status="failure"  time="1832.305">
+    <failure type="LogError" message="Order Not Found on Scratch Pad" />
+    <failure type="LogError" message="Order Not Found on Scratch Pad" />
+  </testcase>
+ </testsuite>
+</testsuites>

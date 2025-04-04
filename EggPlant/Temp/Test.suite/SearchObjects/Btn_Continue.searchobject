@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		762,
+		434,
+		50,
+		21
+	],
+	"lastmodifieddate": 1721022216.1690001,
+	"createddate": 1721022216.1690001,
+	"name": "Btn_Continue",
+	"lastfounddate": 1721105181.1259999,
+	"ocrcapturestring": "Continue",
+	"lastfoundlocation": [
+		762,
+		434,
+		50,
+		21
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[11,4]",
+					"Tolerance": "_66",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Btn_Continue.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					762,
+					434,
+					50,
+					21
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Continue"
+			}
+	]
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Untitled_script" package="Test.suite" timestamp="2024-07-15 12:10:11.934 +0530"
+ tests="1"  failures="1" errors="0" time="0.084000">
+  <properties>
+   <property name="RunDate" value="2024-07-15 12:10:11.934 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Untitled.script" assertions="1" status="failure"  time="0.075">
+    <failure type="FAILURE" message="Invalid JSON: Can&apos;t get value of JSON expression -- Execution Time 0:00:00 Untitled.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

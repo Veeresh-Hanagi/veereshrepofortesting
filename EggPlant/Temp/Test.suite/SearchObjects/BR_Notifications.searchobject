@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		280,
+		27,
+		81,
+		23
+	],
+	"lastmodifieddate": 1720670527.6160002,
+	"createddate": 1720607170.99,
+	"name": "BR_Notifications",
+	"lastfounddate": 1720607171.404,
+	"ocrcapturestring": "Notifications",
+	"lastfoundlocation": [
+		280,
+		27,
+		81,
+		23
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[106,35]",
+					"Tolerance": "_71",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "BR_Notifications.png",
+				"connectionname": "LAC_CA_M0278",
+				"type": 1,
+				"connectionserverid": "137.252.37.86",
+				"capturerect": [
+					280,
+					27,
+					81,
+					23
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Notifications"
+			}
+	]
+}

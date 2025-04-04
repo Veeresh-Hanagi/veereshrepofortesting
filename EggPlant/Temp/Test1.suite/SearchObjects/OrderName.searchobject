@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		852,
+		409,
+		68,
+		23
+	],
+	"lastmodifieddate": 1733381413.9330001,
+	"createddate": 1733381413.9330001,
+	"name": "OrderName",
+	"lastfounddate": 1733381668.97,
+	"ocrcapturestring": "Order Name",
+	"lastfoundlocation": [
+		852,
+		408,
+		68,
+		23
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[3,2]",
+					"Tolerance": "_66",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "OrderName.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					852,
+					409,
+					68,
+					23
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Order Name"
+			}
+	]
+}

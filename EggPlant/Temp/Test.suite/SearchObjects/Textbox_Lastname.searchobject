@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		368,
+		195,
+		81,
+		23
+	],
+	"lastmodifieddate": 1733291743.3080001,
+	"createddate": 1733291743.3080001,
+	"name": "Textbox_Lastname",
+	"lastfounddate": 1733291841.638,
+	"ocrcapturestring": "Last Name:",
+	"lastfoundlocation": [
+		367,
+		195,
+		81,
+		23
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[65,32]",
+					"Tolerance": "_71",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Textbox_Lastname.png",
+				"connectionname": "UNIV_MO_C810_CTX101",
+				"type": 1,
+				"connectionserverid": "149.45.220.87",
+				"capturerect": [
+					368,
+					195,
+					81,
+					23
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Last Name:"
+			}
+	]
+}

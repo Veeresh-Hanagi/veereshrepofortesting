@@ -1,0 +1,265 @@
+{
+	"entries": [
+		{
+				"message": "Running UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script",
+				"identifier": "START",
+				"timestamp": "2024-12-30 11:09:15.701 +0530"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_9_ambulatory_orders",
+				"timestamp": "2024-12-30 11:09:15.912 +0530",
+				"message": " This script is used for Ambulatory or Clinic Orders",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script",
+				"handlerLine": 6,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_9_ambulatory_orders",
+				"timestamp": "2024-12-30 11:09:15.927 +0530",
+				"message": "MCLA_MI",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script",
+				"handlerLine": 7,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_9_ambulatory_orders",
+				"timestamp": "2024-12-30 11:09:15.941 +0530",
+				"message": "Step1 Login to Powerchart and Search for Patient and select the orders Tab",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script",
+				"handlerLine": 8,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_9_ambulatory_orders",
+				"timestamp": "2024-12-30 11:09:16.013 +0530",
+				"message": "Step1 Adding Few Diagnosis and placing ambulatory Order 1",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script",
+				"handlerLine": 24,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_9_ambulatory_orders",
+				"timestamp": "2024-12-30 11:09:16.027 +0530",
+				"message": "Select the Add order window",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script",
+				"handlerLine": 25,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_subopenaddorderwindow",
+				"timestamp": "2024-12-30 11:09:16.191 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (245, 244)",
+				"image": "PowerOrderToolbar",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_subopenaddorderwindow",
+				"timestamp": "2024-12-30 11:09:16.467 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at (245, 244)",
+				"image": "PowerOrderToolbar",
+				"handlerLine": 4,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_9_ambulatory_orders",
+				"timestamp": "2024-12-30 11:09:21.538 +0530",
+				"message": "Add the diagnosis",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script",
+				"handlerLine": 31,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_selectdiagnosis",
+				"timestamp": "2024-12-30 11:09:31.637 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/OrderDetails.script",
+				"message": "Unable to Find Image AddOrderWindow/Diagnosis/Button_Diagnosis_Add",
+				"image": "AddOrderWindow/Diagnosis/Button_Diagnosis_Add",
+				"handlerLine": 2,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_9_ambulatory_orders",
+				"timestamp": "2024-12-30 11:09:34.975 +0530",
+				"message": "Select the order Type",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script",
+				"handlerLine": 35,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 11:13:21.567 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (848, 128)",
+				"image": "AddOrderWindow/DropDown_OrderType",
+				"handlerLine": 4,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 11:13:21.659 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at [712,119,744,145]",
+				"image": "AddOrderWindow/DropDown_OrderType",
+				"handlerLine": 5,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 11:13:21.675 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at [712,119,744,145]",
+				"image": "AddOrderWindow/DropDown_OrderType",
+				"handlerLine": 5,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 11:13:21.677 +0530",
+				"message": "SEARCHRECTANGLE = [[707,114],[1144,345]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 5,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 11:13:21.748 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at [712,119,744,145]",
+				"image": "AddOrderWindow/DropDown_OrderType",
+				"handlerLine": 6,
+				"identifier": "imagerectangle"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 11:13:21.858 +0530",
+				"message": "at (844, 132)",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 6,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 11:13:23.960 +0530",
+				"message": "Ambulatory - Orders Including Med Admin[returnKey]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 11:13:23.972 +0530",
+				"message": "SEARCHRECTANGLE = []",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 10,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_subaddorderselectordertype",
+				"timestamp": "2024-12-30 11:13:24.710 +0530",
+				"message": "[tab]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 11,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_ucms_wf_fts_orders_scripts_9_ambulatory_orders",
+				"timestamp": "2024-12-30 11:13:24.766 +0530",
+				"message": "Type the order and select the order",
+				"scriptName": "UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script",
+				"handlerLine": 37,
+				"identifier": "Log"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 11:13:25.522 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at (515, 128)",
+				"image": "AddOrderWindow/SearchIcon",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 11:13:26.488 +0530",
+				"message": "Aspirin[returnKey]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 6,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 11:13:27.237 +0530",
+				"message": "[tab]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 11:13:31.021 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "Unable to Find Image AddOrderWindow/bAddOrderDoneButton",
+				"image": "AddOrderWindow/bAddOrderDoneButton",
+				"handlerLine": 10,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 11:13:33.004 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "Unable to Find Image AddOrderWindow/AddOrderSearchResults_A/AddOrderSearchResults_A",
+				"image": "AddOrderWindow/AddOrderSearchResults_A/AddOrderSearchResults_A",
+				"handlerLine": 18,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 11:13:33.104 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found at (10, 11)",
+				"image": "General/PowerChartIcon",
+				"handlerLine": 20,
+				"identifier": "imagefound"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 11:13:33.245 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "at (10, 11)",
+				"image": "General/PowerChartIcon",
+				"handlerLine": 21,
+				"identifier": "imagelocation"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 11:13:33.340 +0530",
+				"message": "SEARCHRECTANGLE = [[10,71],[1920,1080]]",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"handlerLine": 23,
+				"identifier": "set"
+			},
+		{
+				"handlerName": "on_subsearchandselectorder",
+				"timestamp": "2024-12-30 11:14:19.387 +0530",
+				"scriptName": "C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script",
+				"message": "found 0 images",
+				"image": "(TEXT:\"Aspirin\")",
+				"handlerLine": 25,
+				"identifier": "everyimagelocation"
+			},
+		{
+				"message": "(Duration:\"737.157\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2024-12-30 11:09:15 +0530\", Successes:\"0\", TestCase:\"UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-12-30 11:21:32.866 +0530"
+			},
+		{
+				"message": "Execution Time 0:12:17 UCMS-WF-FTS-Orders-Scripts-9-Ambulatory-Orders.script",
+				"identifier": "ABORTED",
+				"timestamp": "2024-12-30 11:21:32.878 +0530"
+			}
+	],
+	"createdTimestamp": "2024-12-30 11:09:15.704 +0530"
+}

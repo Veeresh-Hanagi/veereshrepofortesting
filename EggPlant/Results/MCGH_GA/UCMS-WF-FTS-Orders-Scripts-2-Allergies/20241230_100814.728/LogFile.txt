@@ -1,0 +1,10 @@
+﻿2024-12-30 10:08:14.745 +0530	START		Running UCMS-WF-FTS-Orders-Scripts-2-Allergies.script
+2024-12-30 10:08:15.003 +0530	Log		MCGH_GA	6	on_ucms_wf_fts_orders_scripts_2_allergies	UCMS-WF-FTS-Orders-Scripts-2-Allergies.script
+2024-12-30 10:08:15.068 +0530	Log		This scripts is used to test the functionalities of Allergies	8	on_ucms_wf_fts_orders_scripts_2_allergies	UCMS-WF-FTS-Orders-Scripts-2-Allergies.script
+2024-12-30 10:08:15.123 +0530	Log		 Click on Add Icon in Powerorders toolbar	12	on_ucms_wf_fts_orders_scripts_2_allergies	UCMS-WF-FTS-Orders-Scripts-2-Allergies.script
+2024-12-30 10:08:15.153 +0530	set		SEARCHRECTANGLE = []	13	on_ucms_wf_fts_orders_scripts_2_allergies	UCMS-WF-FTS-Orders-Scripts-2-Allergies.script
+2024-12-30 10:08:15.332 +0530	waitfor	PowerOrderToolbar	found at (245, 244)	2	on_subopenaddorderwindow	C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script
+2024-12-30 10:08:15.739 +0530	doubleclick	PowerOrderToolbar	at (245, 244)	4	on_subopenaddorderwindow	C:/EggPlant/UC-Millennium-OrdersManagement/UC-Millennium-Shared-OrdersManagement.suite/Scripts/Handlers.script
+2024-12-30 10:08:15.830 +0530	Log		Type and select the allergies Substance	15	on_ucms_wf_fts_orders_scripts_2_allergies	UCMS-WF-FTS-Orders-Scripts-2-Allergies.script
+2024-12-30 10:08:25.163 +0530	EndTestCase		(Duration:"10.402", Errors:"1", Exceptions:"0", StartTime:"2024-12-30 10:08:14 +0530", Successes:"0", TestCase:"UCMS-WF-FTS-Orders-Scripts-2-Allergies.script", Warnings:"0")
+2024-12-30 10:08:25.179 +0530	ABORTED		Execution Time 0:00:10 UCMS-WF-FTS-Orders-Scripts-2-Allergies.script

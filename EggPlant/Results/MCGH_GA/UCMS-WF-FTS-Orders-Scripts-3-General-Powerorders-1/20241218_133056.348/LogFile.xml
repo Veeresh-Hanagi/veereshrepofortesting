@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-3-General-Powerorders-1_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-18 13:30:56.348 +0530"
+ tests="1"  failures="3" errors="2" time="2474.539000">
+  <properties>
+   <property name="RunDate" value="2024-12-18 13:30:56.348 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-3-General-Powerorders-1.script" assertions="3" status="error"  time="2474.511">
+    <failure type="LogError" message="Exception encountered at:  line 23 of rightclickorderonscratchpadwithaction (line 356 of Popups.script)\ncalled from line 72 of ucms_wf_fts_orders_scripts_3_general_powerorders_1" />
+    <failure type="LogError" message="Exception Reason:  imagefound Error - Retrieving Frame Buffer:No Connection to Server\nMCGH_GA\n" />
+    <failure type="FAILURE" message="No Remote Connection: typetext Error - Remote Connection Unavailable -- Execution Time 0:41:14 UCMS-WF-FTS-Orders-Scripts-3-General-Powerorders-1.script" />
+    <error type="Exception" message="Remote Connection Unavailable" />
+  </testcase>
+ </testsuite>
+</testsuites>

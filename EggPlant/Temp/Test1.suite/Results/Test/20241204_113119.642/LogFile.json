@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running Test.script",
+				"identifier": "START",
+				"timestamp": "2024-12-04 11:31:19.674 +0530"
+			},
+		{
+				"handlerName": "on_test",
+				"timestamp": "2024-12-04 11:31:20.047 +0530",
+				"scriptName": "Test.script",
+				"message": "at (432, 227)",
+				"image": "TestBox_LastName",
+				"handlerLine": 1,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"0.415\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2024-12-04 11:31:19 +0530\", Successes:\"1\", TestCase:\"Test.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2024-12-04 11:31:20.097 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 Test.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2024-12-04 11:31:20.224 +0530"
+			}
+	],
+	"createdTimestamp": "2024-12-04 11:31:19.680 +0530"
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2_script" package="UC-Millennium-OrdersManagement.suite" timestamp="2024-12-30 14:45:51.251 +0530"
+ tests="1"  failures="4" errors="2" time="2622.687000">
+  <properties>
+   <property name="RunDate" value="2024-12-30 14:45:51.251 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="UCMS-WF-FTS-Orders-Scripts-14-Powerplans-2.script" assertions="7" status="error"  time="2622.666">
+    <failure type="LogError" message="Add to Phase is not Found" />
+    <failure type="LogError" message="False Exists in Wrong Status:" />
+    <failure type="LogError" message="Exception encountered at:  line 21 of validatecomponentstatusonplanprofile (line 27 of Validations.script)\ncalled from line 190 of ucms_wf_fts_orders_scripts_14_powerplans_2" />
+    <failure type="LogError" message="Exception Reason:  imagerectangle Error - Unable To Find Image &quot;ScratchpadActions/OrderNameColumnName&quot;  Restricted Search Rectangle ((1127,608),(1244,636))\n" />
+    <error type="Exception" message="Searching For Image: OCR Error: Operation was aborted" />
+  </testcase>
+ </testsuite>
+</testsuites>

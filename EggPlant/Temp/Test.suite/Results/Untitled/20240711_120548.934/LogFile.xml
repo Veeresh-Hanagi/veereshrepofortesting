@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Untitled_script" package="Test.suite" timestamp="2024-07-11 12:05:48.934 +0530"
+ tests="1"  failures="1" errors="1" time="95.732000">
+  <properties>
+   <property name="RunDate" value="2024-07-11 12:05:48.934 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Untitled.script" assertions="1" status="error"  time="95.723">
+    <failure type="FAILURE" message="Image Not Found: waitfor Error - Unable To Find Any Image On Screen &quot;Btn_max&quot; within 10.00 seconds -- Execution Time 0:01:35 Untitled.script" />
+    <error type="Exception" message="Unable To Find Any Image On Screen &quot;Btn_max&quot; within 10.00 seconds" />
+  </testcase>
+ </testsuite>
+</testsuites>

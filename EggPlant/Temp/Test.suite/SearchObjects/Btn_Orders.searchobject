@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		8,
+		354,
+		45,
+		16
+	],
+	"lastmodifieddate": 1720671601.7909999,
+	"createddate": 1720671601.7909999,
+	"name": "Btn_Orders",
+	"lastfounddate": 1720678921.052,
+	"ocrcapturestring": "Orders",
+	"lastfoundlocation": [
+		8,
+		354,
+		45,
+		16
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[22,8]",
+					"Tolerance": "_57",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Btn_Orders.png",
+				"connectionname": "LAC_CA_M0278",
+				"type": 1,
+				"connectionserverid": "137.252.37.86",
+				"capturerect": [
+					8,
+					354,
+					45,
+					16
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Orders"
+			}
+	]
+}

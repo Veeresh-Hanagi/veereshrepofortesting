@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		1846,
+		982,
+		40,
+		16
+	],
+	"lastmodifieddate": 1720676630.0380001,
+	"createddate": 1720676630.0380001,
+	"name": "Btn_Sign",
+	"lastfounddate": 1720967170.306,
+	"ocrcapturestring": "Sign",
+	"lastfoundlocation": [
+		1846,
+		982,
+		40,
+		16
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[20,8]",
+					"Tolerance": "_71",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Btn_Sign.png",
+				"connectionname": "LAC_CA_M0278",
+				"type": 1,
+				"connectionserverid": "137.252.37.86",
+				"capturerect": [
+					1846,
+					982,
+					40,
+					16
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Sign"
+			}
+	]
+}

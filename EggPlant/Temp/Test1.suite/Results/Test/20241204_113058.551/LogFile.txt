@@ -1,0 +1,4 @@
+﻿2024-12-04 11:30:58.580 +0530	START		Running Test.script
+2024-12-04 11:30:59.038 +0530	click	TestBox_LastName	at (432, 227)	1	on_test	Test.script
+2024-12-04 11:30:59.083 +0530	EndTestCase		(Duration:"0.473", Errors:"0", Exceptions:"0", StartTime:"2024-12-04 11:30:58 +0530", Successes:"1", TestCase:"Test.script", Warnings:"0")
+2024-12-04 11:30:59.191 +0530	SUCCESS		Execution Time 0:00:00 Test.script
